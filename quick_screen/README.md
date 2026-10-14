@@ -104,16 +104,50 @@ cd /workspace/quick_screen
 python3 quick_screen_pipeline.py
 ```
 
-## Results Summary
+## Results Summary (as of October 2026)
 
-### Confirmed Targets (as of batch 4)
+### HIGH CONFIDENCE TARGETS (Audit Verified Fixed Income Only)
 
 | System | State | Total Investments | FY | Evidence |
 |--------|-------|-------------------|-----|----------|
-| Kaweah Delta Health Care District | CA | $269,754,398 | FY2024 | Fixed income (LAIF), no captive |
-| Riverside University Health System | CA | $265,795,287 | FY2024 | County pool (fixed income), no captive |
-| Kern County Hospital Authority | CA | $174,835,076 | FY2024 | County Treasury (CA Gov Code), no captive |
-| Tahoe Forest Hospital District | CA | $174,242,477 | FY2024 | De minimis equity (0.1%), no captive |
+| Kaweah Delta Health Care District | CA | $269,754,398 | FY2024 | LAIF + US Treasury, no captive |
+| Riverside University Health System | CA | $265,795,287 | FY2024 | County pool (Riverside ACFR), no captive |
+| Kern County Hospital Authority | CA | $174,835,076 | FY2024 | County Treasury (CA Gov Code 53601), no captive |
+| Pioneers Memorial Healthcare District | CA | $46,943,005 | FY2024 | CA Code 53600, Mechanics Bank (fixed income) |
+| Bear Valley Community Hospital | CA | $43,664,443 | FY2023 | LAIF only ($40M) |
+| San Benito Health Care District | CA | $38,785,662 | FY2024 | US Government securities + CGC collateralized |
+| Modoc Medical Center | CA | $37,899,626 | FY2024 | Money market $5.1M + US Treasuries $30M |
+| Oak Valley District Hospital | CA | $30,215,704 | FY2025 | LAIF only ($25M) |
+| Lompoc Valley Medical Center | CA | $25,937,370 | FY2024 | LAIF $18.7M (99.9% fixed income) |
+
+**Total HIGH CONFIDENCE: 9 systems, $933M combined**
+
+### NEAR FIXED INCOME (De Minimis Equity <5%)
+
+| System | State | Total Investments | Equity % | FY | Evidence |
+|--------|-------|-------------------|----------|-----|----------|
+| Tahoe Forest Hospital District | CA | $174,242,477 | 0.1% | FY2024 | De minimis equity per audit |
+| Northern Inyo Healthcare District | CA | $39,626,522 | 1.0% | FY2025 | $83K equities + $98K mutual funds of $8.4M |
+
+**Total NEAR FIXED INCOME: 2 systems, $214M combined**
+
+### MEDIUM CONFIDENCE (Needs Full Audit Verification)
+
+| System | State | Total Investments | Status |
+|--------|-------|-------------------|--------|
+| Southern Mono Healthcare District | CA | $152,760,138 | Shows LAIF + "Investments" - verify composition |
+| Fairchild Medical Center | CA | $44,875,305 | Foundation has equities, hospital unclear |
+| San Bernardino Mountains CHD | CA | $43,434,431 | No audit found with investment details |
+| San Gorgonio Memorial Hospital | CA | $37,277,130 | Minimal investments, mostly cash |
+| Mayers Memorial Hospital | CA | $36,625,090 | Policy allows 20% equity - verify actual holdings |
+
+**Total MEDIUM: 5 systems, $315M combined (needs verification)**
+
+### DROPPED FROM TARGETS
+
+| System | Reason |
+|--------|--------|
+| Antelope Valley Medical Center | Mutual funds $217M + ETFs $81M + limited partnerships (FY2024 audit) |
 
 ### Not Targets (with equities or captives)
 
