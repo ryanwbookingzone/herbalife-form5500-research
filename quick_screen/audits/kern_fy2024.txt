@@ -1,0 +1,2437 @@
+Reports of Independent Auditors and Financial Statements with
+             Required Supplementary Information
+
+           Kern County Hospital Authority
+
+                  June 30, 2024 and 2023
+Table of Contents
+
+                                                                                            Page
+
+Management’s Discussion and Analysis                                                         1
+
+Report of Independent Auditors                                                               9
+
+Financial Statements
+
+   Statements of Net Position                                                               13
+
+   Statements of Revenues, Expenses, and Changes in Net Position                            14
+
+   Statements of Cash Flows                                                                 15
+
+   Notes to Financial Statements                                                            17
+
+Required Supplementary Information
+
+   Schedule of the Proportionate Share of the Net OPEB Liability (Asset) for Kern Medical   47
+
+   Schedule of the Proportionate Share of the Net Pension Liability for Kern Medical        48
+
+   Schedule of Contributions for Kern Medical                                               49
+
+Report of Independent Auditors on Internal Control Over Financial Reporting and on
+   Compliance and Other Matters Based on an Audit of Financial Statements
+   Performed in Accordance with Government Auditing Standards                               50
+                              Kern County Hospital Authority
+                            Management’s Discussion and Analysis
+
+
+The discussion and analysis of the financial performance of Kern County Hospital Authority (the Authority
+or Kern Medical) provides an overall review of the financial activities for the years ended June 30, 2024,
+2023, and 2022. The intent of this discussion and analysis is to provide further information about Kern
+Medical’s financial performance as a whole. Readers should also review the financial statements and the
+accompanying notes to the financial statements to enhance their understanding of Kern Medical’s
+financial performance.
+
+Summary of Organization and Business
+
+The County of Kern (County) established the Authority as a public entity separate from the County to
+operate Kern Medical Center, a highly specialized tertiary referral center, an academic institution, and a
+designated public hospital for Kern County. The County transferred the ownership and operations of Kern
+Medical effective July 1, 2016. The Authority provides an organizational and operational structure that
+facilitates and enhances Kern Medical’s ability to function with flexibility, responsiveness, and innovation.
+The creation of an independent Hospital Authority also provides maintenance, operation, management,
+and control of Kern Medical and its related health care resources in a manner consistent with the
+County’s obligations under Section 17000 of the Welfare and Institutions Code. Further, the Authority
+offers an approach to achieve these objectives in a manner that ensures the continued viability of Kern
+Medical, and it constitutes an ongoing material benefit to the County and its residents. The Authority is
+not governed by, or subject to the County’s Civil Service Commission regulation or other operational rules
+of the County, including, but not limited to, those relating to personnel and procurement.
+
+Key Performance Indicators
+
+                                                      2024                 2023                 2022
+
+Admissions (excluding births)                              9,608               9,364                9,781
+Discharges                                                12,658              12,503               12,652
+Births                                                     2,530               2,272                2,166
+Patient days (excluding newborns)                         60,008              59,351               61,095
+Average daily census                                         164                 163                  167
+
+Overview of the Financial Statements
+
+The financial statements of Kern Medical report information about Kern Medical’s use of accounting
+methods, which are similar to those used by private sector companies. These statements offer short- and
+long-term financial information about its activities and include the statement of net position; the statement
+of revenues, expenses, and changes in net position; and the statement of cash flows. In addition, the
+accompanying notes are an integral part of these financial statements.
+
+The statement of net position includes all of Kern Medical’s assets, liabilities, and deferred inflows and
+outflows and provides information about the nature and amounts of investments in resources (assets) and
+obligations to Kern Medical’s creditors (liabilities). It also provides the basis for evaluating the capital
+structure of Kern Medical and assessing the liquidity and financial flexibility of Kern Medical.
+
+
+
+
+                                                      1
+                              Kern County Hospital Authority
+                           Management’s Discussion and Analysis
+
+
+The statement of revenues, expenses, and changes in net position reports all of the revenues and
+expenses during the time period indicated. This statement measures the success of Kern Medical’s
+operations over the past year and can be used to determine whether Kern Medical has successfully
+recovered all of its costs through its charges at established rates and other revenues. Over time,
+increases or decreases in net position may serve as a unique indicator of whether or not the financial
+position of Kern Medical is improving or deteriorating.
+
+The statement of cash flows reports cash receipts; cash payments; changes in cash resulting from
+operations, investing, and financing activities; and the changes in cash during the reporting period.
+
+The notes to the financial statements provide required disclosures and other information that are essential
+to a full understanding of material data provided in the statements. The notes present information about
+Kern Medical’s accounting policies, significant account balances and activities, material risks, obligations,
+commitments, contingencies, and subsequent events, if any.
+
+
+
+
+                                                     2
+                                Kern County Hospital Authority
+                               Management’s Discussion and Analysis
+
+
+Financial Analysis
+
+Condensed Statements of Net Position
+
+                                                                         June 30,
+
+                                                       2024                2023              2022
+                                                                        As restated
+
+Current assets                                   $ 335,066,016      $ 331,734,116      $ 331,634,272
+Right-to-use assets                                 11,678,001          7,095,039          7,964,725
+Subscription-Based Information
+ Technology Arrangements (SBITA)                       2,253,087          3,026,383          2,732,984
+Other post-employment benefits (OPEB)                  1,452,817                  -                  -
+Capital assets                                        95,368,229         95,938,261         95,971,821
+
+           Total assets                              445,818,150        437,793,799        438,303,802
+
+Deferred outflows of resources                       118,686,651        106,689,945         99,396,391
+
+           Total assets and deferred
+            outflows of resources                $ 564,504,801      $ 544,483,744      $ 537,700,193
+
+Current liabilities                              $    69,522,227    $    62,086,798    $    60,643,764
+Noncurrent liabilities                               393,501,628        396,533,096        337,813,789
+
+           Total liabilities                         463,023,855        458,619,894        398,457,553
+
+Deferred inflows of resources                         36,070,074         25,368,248         79,254,798
+
+Net investment in capital assets                      95,368,229         95,938,261         95,971,821
+Unrestricted                                         (29,957,357)       (35,442,659)       (35,983,979)
+
+           Total net position                         65,410,872         60,495,602         59,987,842
+
+           Total liabilities, deferred inflows
+            of resources, and net position       $ 564,504,801      $ 544,483,744      $ 537,700,193
+
+
+
+
+                                                       3
+                               Kern County Hospital Authority
+                            Management’s Discussion and Analysis
+
+
+Statements of Net Position Highlights:
+
+Changes from fiscal 2023 to 2024
+
+Current assets – Current assets increased $3.3 million, or 1%, from fiscal year 2023 to 2024, mainly due
+to an increase in receivables from government agencies. The government receivables balance increased
+$24.3 million, or 13%, from fiscal year 2023 to 2024. Kern Medical is entitled to receive supplemental
+funding from various state and federal government sources based on patients served. The increase in
+receivables from government agencies is due in large part to the timing of when state and federal
+government agencies issue funds to healthcare providers. Some supplemental programs cross over fiscal
+and calendar years. This can result in large fluctuations in the receivables balance at fiscal year-end.
+
+Deferred outflows of resources – In connection with GASB No. 68 and GASB No. 75, Kern Medical
+reported a $12.0 million, or 11%, increase in deferred outflows of resources related to changes in
+actuarial assumptions, net differences between projected and actual earnings on pension plan
+investments, and contributions made subsequent to the measurement date. The deferred outflows of
+resources reported are $118.7 million as of June 30, 2024, compared to a balance of $106.7 million as of
+June 30, 2023.
+
+Current liabilities – Current liabilities increased from fiscal year 2023 by $7.4 million, or 12%. The increase
+is mainly due to a $4.1 million increase in salaries and benefits payable. The salaries and benefits
+payable balance reported is $17.8 million as of June 30, 2024, compared to a balance of $13.7 million as
+of June 30, 2023.
+
+Noncurrent liabilities – Noncurrent liabilities decreased from fiscal year 2023 by $3.0 million, or 1%. The
+decrease is mainly due to a decrease in other post-employment benefits.
+
+Deferred inflows of resources – In connection with GASB No. 68 and GASB No. 75, Kern Medical
+reported a $10.7 million, or 42%, increase in deferred inflows of resources related to the net differences
+between pension plan and other postemployment benefits expected and actual experience and changes
+in proportion and differences between Kern Medical contributions and proportionate share of
+contributions. The deferred inflows of resources reported are $36.1 million as of June 30, 2024, compared
+to a balance of $25.4 million as of June 30, 2023.
+
+Unrestricted net position – The unrestricted net position increased $5.5 million, or 15%, from fiscal year
+2023 to 2024, due to changes in actuarial assumptions and operating income for 2024. The balance
+consists mainly of net pension liability. The unrestricted net position reported is a deficit of $30.0 million
+as of June 30, 2024, compared to a deficit of $35.4 million as of June 30, 2023.
+
+Changes from fiscal 2022 to 2023
+
+Current assets – Current assets increased $99.8 thousand, or 0.03%, from fiscal year 2022 to 2023,
+mainly due to an increase in patient accounts receivable. The patient accounts receivable balance
+increased $7.6 million, or 16%, from fiscal year 2022 to 2023. Kern Medical continues to realize increased
+efficiency in patient billing and in overall revenue cycle processes since the implementation of the Cerner
+Electronic Health Record (EHR) system during fiscal year 2020. The increase in patient accounts
+receivable is in part due to the increased volume of patient billing generated by the Cerner system.
+
+
+                                                       4
+                                Kern County Hospital Authority
+                            Management’s Discussion and Analysis
+
+
+Deferred outflows of resources – In connection with GASB No. 68 and GASB No. 75, Kern Medical
+reported a $7.3 million, or 7%, increase in deferred outflows of resources related to changes in actuarial
+assumptions, net differences between projected and actual earnings on pension plan investments, and
+contributions made subsequent to the measurement date. The deferred outflows of resources reported
+are $106.7 million as of June 30, 2023, compared to a balance of $99.4 million as of June 30, 2022.
+
+Current liabilities – Current liabilities increased from fiscal year 2022 by $1.4 million, or 2%. The decrease
+is mainly due to a $1.9 million increase in salaries and benefits payable. The salaries and benefits
+payable balance reported is $13.7 million as of June 30, 2023, compared to a balance of $11.8 million as
+of June 30, 2022.
+
+Noncurrent liabilities – Noncurrent liabilities decreased from fiscal year 2022 by $58.7 million, or 17%.
+The decrease is mainly due to a decrease in the net pension liability.
+
+Deferred inflows of resources – In connection with GASB No. 68 and GASB No. 75, Kern Medical
+reported a $53.9 million, or 68%, decrease in deferred inflows of resources related to the net differences
+between pension plan and other postemployment benefits expected and actual experience and changes
+in proportion and differences between Kern Medical contributions and proportionate share of
+contributions. The deferred inflows of resources reported are $25.4 million as of June 30, 2023, compared
+to a balance of $79.3 million as of June 30, 2022.
+
+Unrestricted net position – The unrestricted net position increased $521.3 thousand, or 2%, from fiscal
+year 2022 to 2023, due to changes in actuarial assumptions and operating income for 2023. The balance
+consists mainly of net pension liability. The unrestricted net position reported is a deficit of $35.4 million
+as of June 30, 2023, compared to a deficit of $35.9 million as of June 30, 2022.
+
+Condensed Statements of Revenues, Expenses, and Changes in Net Position
+
+                                                    2024                   2023                  2022
+                                                                        As restated
+
+Operating revenue                             $   550,205,521       $    511,155,067       $   601,996,109
+Nonoperating revenue                                  628,678              2,251,203            21,855,297
+
+          Total revenue                           550,834,199            513,406,270           623,851,406
+
+Depreciation and amortization                      15,853,165             15,488,084            14,590,334
+Operating expenses                                526,883,399            495,419,267           467,796,284
+Nonoperating expenses                               3,182,365              1,991,159             1,363,921
+
+          Total expenses                          545,918,929            512,898,510           483,750,539
+
+Change in net position                               4,915,270               507,760           140,100,867
+
+Beginning net position, beginning of year           60,495,602            59,987,842            (80,113,025)
+
+Ending net position                           $     65,410,872      $     60,495,602       $    59,987,842
+
+
+
+
+                                                      5
+                             Kern County Hospital Authority
+                           Management’s Discussion and Analysis
+
+
+Statements of Revenue, Expenses, and Changes in Net Position Highlights:
+
+Changes from fiscal 2023 to 2024
+
+The first component of Kern Medical’s net position is its operating revenue. Operating revenue increased
+by $39.0 million, or 8%, in fiscal year 2024 as compared to fiscal year 2023. The primary components of
+operating revenue are as follows:
+
+Net patient service revenue totaled $291.8 million for the fiscal year ended June 30, 2024. This was a
+$19.8 million, or 7% increase from fiscal year 2023 to fiscal year 2024 due primarily to strong patient
+census levels. Kern Medical also recognized revenue from various indigent patient funding sources
+including Intergovernmental Transfer Programs, Enhanced Payment Program funding, and the Hospital
+Fee Program totaling $196.7 million for the year, as compared to fiscal year 2023 of $173.3 million.
+
+The second component of Kern Medical’s net position is its operating expenses. Operating expenses
+increased $31.8 million, or 6%, in fiscal year 2024 as compared to fiscal year 2023. The increase is
+mainly due to increases in salaries and benefits expenses.
+
+Changes from fiscal 2023 to 2022
+
+The first component of Kern Medical’s net position is its operating revenue. Operating revenue decreased
+by $90.8 million, or 15%, in fiscal year 2023 as compared to fiscal year 2022. The primary components of
+operating revenue are as follows:
+
+Net patient service revenue totaled $272.0 million for the fiscal year ended June 30, 2023. This was a
+$5.3 million, or 2% decrease from fiscal year 2022 to fiscal year 2023 due primarily to a decrease in gross
+patient revenue. Kern Medical also recognized revenue from various indigent patient funding sources
+including Intergovernmental Transfer Programs, the Enhanced Payment Program funding, and the
+Hospital Fee Program totaling $173.3 million for the year, as compared to fiscal year 2022 of $259.2
+million.
+
+The second component of Kern Medical’s net position is its operating expenses. Operating expenses
+increased $20.6 million, or 4%, in fiscal year 2023 as compared to fiscal year 2022. The increase is due
+in large part to increases in nurse registry contract labor expenses. In addition, there were increases in
+services and medical supplies expenses.
+
+
+
+
+                                                     6
+                                              Kern County Hospital Authority
+                                        Management’s Discussion and Analysis
+
+
+Analysis of Capital Assets
+
+In fiscal year 2024, Kern Medical’s capital assets decreased approximately $570.0 thousand due to
+relatively fewer additions of capital assets and Construction in Progress and various other additions as
+compared to fiscal year 2023. In fiscal year 2023, Kern Medical’s capital assets decreased approximately
+$33.6 thousand due to relatively fewer additions of capital assets and Construction in Progress and
+various other additions as compared to fiscal year 2022. The table below provides summarized
+information for Kern Medical’s outstanding capital assets for the years ended June 30, 2024 and 2023:
+
+                                                           July 1, 2023           Additions             Deletions           Transfers        June 30, 2024
+
+Capital assets not subject to depreciation             $     10,354,486       $        6,783,900    $               -   $     (7,086,543)    $    10,051,843
+
+Capital assets subject to depreciation                      235,610,268                4,422,253                    -         7,086,543          247,119,064
+Less: accumulated depreciation and amortization             150,026,493               11,776,185                    -                 -          161,802,678
+
+Capital assets subject to depreciation, net                  85,583,775               (7,353,932)                   -         7,086,543           85,316,386
+
+             Capital assets, net                       $     95,938,261       $         (570,032)   $               -   $                -   $    95,368,229
+
+
+
+                                                           July 1, 2022           Additions             Deletions           Transfers        June 30, 2023
+
+Capital assets not subject to depreciation             $      8,846,998       $        4,642,905    $               -   $     (3,135,417)    $    10,354,486
+
+Capital assets subject to depreciation                      224,976,155                7,498,696                    -         3,135,417          235,610,268
+Less: accumulated depreciation and amortization             137,851,332               12,175,161                    -                 -          150,026,493
+
+Capital assets subject to depreciation, net                  87,124,823               (4,676,465)                   -         3,135,417           85,583,775
+
+             Capital assets, net                       $     95,971,821       $          (33,560)   $               -   $                -   $    95,938,261
+
+Additional information on Kern Medical’s capital assets can be found in Note 4 of this report.
+
+
+Long-Term Debt Summary
+
+In fiscal year 2024, the decrease in long-term debt is the result of principal payments on existing debt. In
+fiscal year 2023, the decrease in long-term debt is primarily the result of a decrease in line of credit
+borrowing. The table below provides summarized information for the Kern Medical’s outstanding long-
+term liabilities as of June 30, 2024 and 2023:
+
+                                                                                                                             Amounts         Amounts Due
+                                                            Incurred               Satisfied                                Due Within       in More Than
+                                   June 30, 2023            or Issued             or Matured        June 30, 2024           One Year           One Year
+
+Pension obligation bonds           $   10,205,194      $                  -   $        1,991,965    $     8,213,229     $     1,062,281      $     7,150,948
+
+                                                                                                                             Amounts         Amounts Due
+                                                            Incurred               Satisfied                                Due Within       in More Than
+                                   June 30, 2022            or Issued             or Matured        June 30, 2023           One Year           One Year
+
+Pension obligation bonds           $   13,143,781      $                  -   $        2,938,587    $   10,205,194      $     1,991,965      $     8,213,229
+
+Additional information on Kern Medical’s long-term debt can be found in Note 6 of this report.
+
+
+
+
+                                                                                  7
+                              Kern County Hospital Authority
+                           Management’s Discussion and Analysis
+
+
+Economic Factors Affecting Next Year
+
+Kern Medical adjusts to changing conditions as needed and maintains the staffing, supplies, and personal
+protective equipment levels necessary to provide coverage for increases in patient volumes when
+needed. For fiscal year 2025, Kern Medical will continue to qualify for various governmental funding
+programs. On December 29, 2021, the State of California announced federal approval of a five-year
+Medicaid (Medi-Cal) Section 1115 waiver extension. The waiver extension is part of a bigger package of
+proposals under the California Advancing and Innovating Medi-Cal (CalAIM) program. Section 1115
+waivers allow states to waive certain federal Medicaid rules so that they can pursue innovative strategies
+to improve care for Medicaid beneficiaries. The extension has allowed Kern Medical to continue to
+receive funding from all components of the waiver including the Global Payment Program (GPP). The
+Whole Person Care (WPC) component of the previous waiver has been bridged into the new Providing
+Access and Transforming Health (PATH) program under CalAIM. As with WPC, PATH is designed to
+provide integrated, patient-centered care through coordination of physical and behavioral health and
+social services to meet patients’ holistic needs. Under the new waiver the third and largest component of
+the previous waiver, the Public Hospital Redesign and Incentives in Medi-Cal (PRIME) program, has
+been effectively rolled into the Quality Incentive Program (QIP). This is favorable because the funding is
+no longer contingent on the approval of a new waiver. The QIP, and the Enhanced Payment Program
+(EPP) that Kern Medical also participates in, were developed four years ago due to a Medicaid managed
+care rule implemented by the Centers for Medicare & Medicaid Services (CMS) that limits the ability of
+states to direct payments to health care providers unless certain conditions are met. Exceptions to the
+rule are payments directed to health care providers that are tied to performance and payments that
+provide a uniform payment increase that includes a pre-determined increase over contracted rates.
+
+Operating expenses are expected to increase primarily from staffing costs, as well as inflation increasing
+supplies and purchased services expenses. The timing of State and Federal funding will continue to
+impact cash flow throughout the year.
+
+Contacting Kern Medical’s Chief Financial Officer
+
+This financial report is designed to provide citizens, customers, and creditors with a general overview of
+Kern Medical’s finances and to demonstrate Kern Medical’s accountability for the money it receives. If
+you have any questions about this report, or need additional financial information, please contact the
+Chief Financial Officer, Kern Medical, 1700 Mount Vernon Ave., Bakersfield, California 93306.
+
+
+
+
+                                                     8
+Report of Independent Auditors
+
+The Board of Governors
+Kern County Hospital Authority
+
+Report on the Audit of the Financial Statements
+Opinion
+
+We have audited the financial statements of Kern County Hospital Authority, a discretely presented
+component unit of the County of Kern, California, which comprise the statements of net position as of
+June 30, 2024 and 2023, and the related statements of revenues, expenses, and changes in net
+position and cash flows for the years then ended, and the related notes to the financial statements,
+which collectively comprise Kern County Hospital Authority’s basic financial statements as listed in
+the table of contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material
+respects, the net position of Kern County Hospital Authority as of June 30, 2024 and 2023, and the
+respective changes in financial position and cash flows thereof for the years then ended in
+accordance with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+
+We conducted our audits in accordance with auditing standards generally accepted in the United
+States of America (GAAS) and the standards applicable to financial audits contained in Government
+Auditing Standards (Government Auditing Standards), issued by the Comptroller General of the
+United States and the California Code of Regulations, Title 2, Section 1131.2, State Controller’s
+Minimum Audit Requirements for California Special Districts. Our responsibilities under those
+standards are further described in the Auditor’s Responsibilities for the Audit of the Financial
+Statements section of our report. We are required to be independent of Kern County Hospital
+Authority and to meet our other ethical responsibilities, in accordance with the relevant ethical
+requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient
+and appropriate to provide a basis for our audit opinion.
+Responsibilities of Management for the Financial Statements
+
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+In preparing the financial statements, management is required to evaluate whether there are
+conditions or events, considered in the aggregate, that raise substantial doubt about Kern County
+Hospital Authority’s ability to continue as a going concern for twelve months beyond the financial
+statement date, including any currently known information that may raise substantial doubt shortly
+thereafter.
+
+
+                                                   9
+Auditor’s Responsibilities for the Audit of the Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report
+that includes our opinion. Reasonable assurance is a high level of assurance but is not absolute
+assurance and therefore is not a guarantee that an audit conducted in accordance with GAAS and
+Government Auditing Standards will always detect a material misstatement when it exists. The risk of
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+internal control. Misstatements are considered material if there is a substantial likelihood that,
+individually or in the aggregate, they would influence the judgment made by a reasonable user based
+on the financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+   Exercise professional judgment and maintain professional skepticism throughout the audit.
+   Identify and assess the risks of material misstatement of the financial statements, whether due to
+    fraud or error, and design and perform audit procedures responsive to those risks. Such
+    procedures include examining, on a test basis, evidence regarding the amounts and disclosures
+    in the financial statements.
+   Obtain an understanding of internal control relevant to the audit in order to design audit
+    procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+    opinion on the effectiveness of Kern County Hospital Authority’s internal control. Accordingly, no
+    such opinion is expressed.
+   Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+    accounting estimates made by management, as well as evaluate the overall presentation of the
+    financial statements.
+   Conclude whether, in our judgment, there are conditions or events, considered in the aggregate,
+    that raise substantial doubt about Kern County Hospital Authority’s ability to continue as a going
+    concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audit, significant audit findings, and certain internal
+control–related matters that we identified during the audit.
+Required Supplementary Information
+
+Accounting principles generally accepted in the United States of America require that management’s
+discussion and analysis and other post-employment benefit schedules on pages 1–8 and 47–49,
+respectively, be presented to supplement the basic financial statements. Such information is the
+responsibility of management and, although not a part of the basic financial statements, is required by
+the Governmental Accounting Standards Board who considers it to be an essential part of financial
+reporting for placing the basic financial statements in an appropriate operational, economic, or
+historical context. We have applied certain limited procedures to the required supplementary
+information in accordance with GAAS, which consisted of inquiries of management about the
+methods of preparing the information and comparing the information for consistency with
+management’s responses to our inquiries, the basic financial statements, and other knowledge we
+obtained during our audit of the basic financial statements. We do not express an opinion or provide
+any assurance on the information because the limited procedures do not provide us with sufficient
+evidence to express an opinion or provide any assurance.
+
+
+
+                                                   10
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+December 23, 2024, on our consideration of Kern County Hospital Authority’s internal control over
+financial reporting and on our tests of its compliance with certain provisions of laws, regulations,
+contracts, and grant agreements and other matters. The purpose of that report is solely to describe
+the scope of our testing of internal control over financial reporting and compliance and the results of
+that testing, and not to provide an opinion on the effectiveness of Kern County Hospital Authority’s
+internal control over financial reporting or on compliance. That report is an integral part of an audit
+performed in accordance with Government Auditing Standards in considering Kern County Hospital
+Authority’s internal control over financial reporting and compliance.
+
+
+
+
+Los Angeles, California
+December 23, 2024
+
+
+
+
+                                                   11
+Financial Statements
+                                      Kern County Hospital Authority
+                                              Statements of Net Position
+                                               June 30, 2024 and 2023
+
+
+                                                                                        2024               2023
+
+                                      ASSETS AND DEFERRED OUTFLOWS OF RESOURCES
+
+CURRENT ASSETS
+  Cash                                                                             $    50,429,103    $    66,957,282
+  Revolving fund cash                                                                        3,000              3,000
+  Patient accounts receivable, net of allowances for doubtful
+    accounts of $11,579,613 in 2024 and $7,504,551 in 2023 (Note 3)                     49,254,598         53,941,411
+  Due from governmental agencies (Note 8)                                              204,691,559        180,423,929
+  Other receivables                                                                     19,149,725         19,270,291
+  Inventories                                                                            4,640,928          5,470,745
+  Prepaid expenses                                                                       6,897,103          5,667,458
+
+          Total current assets                                                         335,066,016        331,734,116
+
+RIGHT-TO-USE ASSETS, net (Note 17)                                                      11,678,001          7,095,039
+SUBSCRIPTION-BASED INFORMATION TECHNOLOGY
+   ARRANGEMENTS (SBITA), net (Note 18)                                                   2,253,087          3,026,383
+NET OTHER POST-EMPLOYMENT BENEFITS (OPEB) (Note 12)                                      1,452,817                  -
+CAPITAL ASSETS, net (Note 4)                                                            95,368,229         95,938,261
+
+          Total assets                                                                 445,818,150        437,793,799
+
+DEFERRED OUTFLOWS OF RESOURCES (Notes 10 and 12)                                       118,686,651        106,689,945
+
+          Total assets and deferred outflows of resources                          $ 564,504,801      $ 544,483,744
+
+                              LIABILITIES, DEFERRED INFLOWS OF RESOURCES, AND NET POSITION
+
+CURRENT LIABILITIES
+  Accounts payable and accrued expenses                                            $    35,054,176    $    33,317,493
+  Salaries and employee benefits payable                                                17,839,227         13,711,455
+  Interest payable, current portion (Note 6)                                               883,631            467,089
+  Current portion of compensated absences payable                                        7,190,901          6,164,030
+  Current portion of lease liability (Note 17)                                           3,450,414          2,530,758
+  Current portion of SBITA liability (Note 18)                                             754,163            749,846
+  Current portion of estimate for professional liability (Note 13)                       2,334,246          2,337,746
+  Current portion of estimate for workers' compensation liability (Note 13)                953,188            816,416
+  Current portion of long-term debt (Note 5)                                             1,062,281          1,991,965
+
+          Total current liabilities                                                     69,522,227         62,086,798
+
+NONCURRENT LIABILITIES
+  Interest payable, net of current portion (Note 6)                                      7,151,631          6,731,300
+  Compensated absences payable, net of current portion                                  16,778,768         14,382,737
+  Net pension liability (Note 10)                                                      344,447,058        345,399,109
+  Net other post-employment benefits (Note 12)                                                   -          7,075,072
+  Estimate for professional liability, net of current portion (Note 13)                  4,144,007          4,377,122
+  Estimate for workers' compensation liability, net of current portion (Note 13)         3,643,201          3,165,038
+  Lease liability, net of current portion (Note 17)                                      8,592,909          4,844,232
+  SBITA liability, net of current portion (Note 18)                                      1,593,106          2,345,257
+  Long-term debt, net of current portion (Note 5)                                        7,150,948          8,213,229
+
+          Total liabilities                                                            463,023,855        458,619,894
+
+DEFERRED INFLOWS OF RESOURCES (Notes 10 and 12)                                         36,070,074         25,368,248
+
+NET POSITION
+  Investment in capital assets                                                          95,368,229         95,938,261
+  Unrestricted                                                                         (29,957,357)       (35,442,659)
+
+          Total net position                                                            65,410,872         60,495,602
+
+          Total liabilities, deferred inflows of resources, and net position       $ 564,504,801      $ 544,483,744
+
+
+                                                    See accompanying notes.
+                                                             13
+                            Kern County Hospital Authority
+          Statements of Revenues, Expenses, and Changes in Net Position
+                        Years Ended June 30, 2024 and 2023
+
+
+                                                                       2024               2023
+
+OPERATING REVENUES
+  Net patient service revenue, net of provisions for
+    uncollectible accounts of $14,409,897 in 2024
+    and $8,269,369 in 2023                                       $ 291,829,189      $ 271,987,742
+  Indigent patient care funding                                    196,711,998        173,298,170
+  County funding                                                    37,595,561         34,438,625
+  Other operating revenue                                           24,068,773         31,430,530
+
+          Total operating revenues                                   550,205,521        511,155,067
+
+OPERATING EXPENSES
+  Salaries and employee benefits                                     333,552,869        295,309,637
+  Services and supplies                                              187,992,388        195,823,564
+  Other expenses                                                       5,338,142          4,286,066
+  Depreciation and amortization                                       15,853,165         15,488,084
+
+          Total operating expenses                                   542,736,564        510,907,351
+
+OPERATING INCOME                                                       7,468,957           247,716
+
+NONOPERATING REVENUES (EXPENSES)
+  Interest on bank deposits and investments, net                         241,391            181,109
+  Revenue from other governmental agencies                               193,480            218,160
+  Other nonoperating revenues                                            193,807          1,851,934
+  Interest expense                                                    (3,182,365)        (1,991,159)
+
+          Total nonoperating (expenses) revenues, net                 (2,553,687)          260,044
+
+          Change in net position                                       4,915,270           507,760
+
+NET POSITION, beginning of year                                       60,495,602         59,987,842
+
+NET POSITION, end of year                                        $    65,410,872    $    60,495,602
+
+
+
+
+                                       See accompanying notes.
+                                                14
+                             Kern County Hospital Authority
+                                  Statements of Cash Flows
+                             Years Ended June 30, 2024 and 2023
+
+
+                                                                        2024               2023
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+  Cash received for patients/current services                      $ 296,516,002      $ 264,388,064
+  Cash received for other operations                                  234,229,268        236,708,950
+  Cash paid for salaries and benefits                                (191,615,355)      (202,912,375)
+  Cash paid for services and supplies                                (336,777,015)      (292,069,170)
+
+      Net cash provided by operating activities                         2,352,900          6,115,469
+
+CASH FLOWS FROM NONCAPITAL FINANCING ACTIVITIES
+  Cash received from various County funds                                  387,287          2,070,094
+  Interest paid – pension obligation bond                               (1,434,598)          (365,334)
+  Principal paid – pension obligation bond                              (1,991,965)        (2,938,587)
+  Interest paid – line of credit                                          (462,691)          (262,368)
+
+      Net cash used in noncapital financing activities                  (3,501,967)        (1,496,195)
+
+CASH FLOWS FROM CAPITAL AND RELATED
+ FINANCING ACTIVITIES
+  Acquisition or construction of capital assets                        (11,206,153)       (12,141,601)
+  Payments on lease liability                                           (3,577,688)        (3,034,901)
+  Payments on SBITA liability                                             (836,662)          (782,410)
+
+      Net cash used in capital and related financing activities        (15,620,503)       (15,958,912)
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+  Interest on bank deposits and investments                               241,391            181,109
+
+      Net cash provided by investing activities                           241,391            181,109
+
+NET DECREASE IN CASH AND CASH EQUIVALENTS                              (16,528,179)       (11,158,529)
+
+CASH AND CASH EQUIVALENTS, beginning of year                           66,960,282         78,118,811
+
+CASH AND CASH EQUIVALENTS, end of year                             $   50,432,103     $   66,960,282
+
+
+
+
+                                         See accompanying notes.
+                                                  15
+                             Kern County Hospital Authority
+                            Statements of Cash Flows (Continued)
+                             Years Ended June 30, 2024 and 2023
+
+
+                                                                         2024               2023
+
+Reconciliation of cash and cash equivalents
+ to the Statements of Net Position
+   Cash                                                            $   50,429,103     $   66,957,282
+   Revolving fund cash                                                      3,000              3,000
+
+              Total cash and cash equivalents at the end of year   $ 50,432,103       $ 66,960,282
+
+Reconciliation of operating income to net cash
+ provided by operating activities
+  Operating income                                                 $    7,468,957     $      247,716
+  Adjustments to reconcile operating income to net
+    cash provided by operating activities
+      Provision for bad debts                                          14,409,897          8,269,369
+      Depreciation and amortization                                    15,853,165         15,488,084
+      Changes in assets, liabilities, deferred outflows,
+        and deferred inflows
+          Patient accounts receivable, net                              (9,723,084)       (15,869,047)
+          Due from governmental agencies                               (24,267,630)         8,208,271
+          Other receivables                                                120,566        (10,666,646)
+          Inventories                                                      829,817           (371,013)
+          Prepaid expenses                                              (1,229,645)          (829,307)
+          Deferred outflows of resources                               (11,996,706)        (7,293,554)
+          Accounts payable and accrued expenses                          1,736,683            598,934
+          Salaries and employee benefits payable                         4,127,772          1,946,862
+          Compensated absences payable                                   3,422,902          1,459,685
+          Estimate for professional liability                             (236,615)          (850,403)
+          Estimate for workers’ compensation liability                     614,935         (1,350,956)
+          Net pension liability                                           (952,051)        61,155,916
+          Net other post-employment benefits                            (8,527,889)          (141,892)
+          Deferred inflows of resources                                 10,701,826        (53,886,550)
+
+              Net cash provided by operating activities            $    2,352,900     $    6,115,469
+
+
+
+
+                                        See accompanying notes.
+                                                 16
+                               Kern County Hospital Authority
+                                    Notes to Financial Statements
+
+
+Note 1 – Nature of Operations and Reporting Entity
+
+Kern County Hospital Authority (the Authority or Kern Medical) is a 222-bed acute care teaching hospital
+affiliated with the University of California Schools of Medicine at Los Angeles, San Diego, and Irvine. Kern
+Medical is responsible for the provision of health care services for emergency, outpatient, and inpatient
+medical care to all classes of patients including Medicare and Medi-Cal eligible, medically indigent
+persons, and inmates of the County of Kern (the County) institutions and juvenile facilities. The
+management of Kern Medical reports directly to Kern Medical’s Board of Governors.
+
+Assembly Bill 2546 passed the California State Legislature on September 26, 2014, and authorized the
+Board of Supervisors of the County (the Board) to establish, by ordinance, the Kern County Hospital
+Authority to manage, administer, and control Kern Medical Center, an enterprise fund of the County, and
+other health care facilities, and other functions affiliated or consolidated with Kern Medical Center. The
+Board adopted the ordinance organizing the Authority effective November 6, 2015. Pursuant to the
+aforementioned legislation, effective July 1, 2016, ownership, control, management, medical facilities, and
+operation of Kern Medical Center was transferred to the Kern County Hospital Authority. The Kern County
+Hospital Authority is a local unit of government separate and apart from the County and any other public
+entity. The Kern County Hospital Authority recognized the carrying values of assets, deferred outflows of
+resources, liabilities, and deferred inflows of resources of the operations of the Kern Medical Center as of
+July 1, 2016, the effective transfer date.
+
+On July 1, 2016, the County and the Kern County Hospital Authority also entered into an Agreement for
+Health Care Services, Finance, and Support (the Service Agreement) addressing certain financial
+relationships between the two parties, including:
+
+  i.    County’s financial support of the Authority in the form of loans and/or grants;
+
+ ii.    The Authority’s assumption of certain liabilities of the County, which liabilities the County incurred
+        in connection with prior operations of Kern Medical Center;
+
+ iii.   The continued provision of certain health care services to residents of the County;
+
+ iv.    The Authority’s participation in the County Treasury; and
+
+ v.     County’s consent for the Authority to participate in and receive, and otherwise access, certain
+        County general purpose funds and local revenue fund amounts identified or earmarked for health
+        care services to the indigent, including Medi-Cal beneficiaries and uninsured patients.
+
+During the year ended June 30, 2018, Kern Medical formed the Kern Medical Surgery Center (KMSC),
+which operates in Bakersfield, California. KMSC is a wholly owned subsidiary of Kern Medical and is an
+independently run outpatient surgery center. KMSC is presented as a blended component unit of Kern
+Medical.
+
+
+
+
+                                                       17
+                              Kern County Hospital Authority
+                                   Notes to Financial Statements
+
+
+Note 2 – Summary of Significant Accounting and Reporting Policies
+
+Basis of accounting and presentation – The accompanying financial statements have been prepared
+using the economic resource measurement focus and the accrual basis of accounting, in accordance with
+U.S. generally accepted accounting principles for health care organizations, and are presented in
+accordance with the reporting model as prescribed in Governmental Accounting Standards Board (GASB)
+Statement No. 34, Basic Financial Statement – and Management’s Discussion and Analysis – for State
+and Local Governments (GASB 34). GASB 34 and subsequent amendments including GASB Statement
+No. 63, established standards for external financial reporting and requires that resources be classified for
+accounting and reporting purposes into the following net position categories:
+
+Investment in capital assets – Capital assets, net of accumulated depreciation and outstanding principal
+balances of debt attributable to the acquisition, construction, or improvement of those assets.
+
+Unrestricted net position – This amount represents the amount of net position that is not subject to
+externally imposed constraints. Unrestricted net position may be designated for specific purposes by
+action of the Board of Governors or may otherwise be limited by contractual agreements with outside
+parties.
+
+Use of estimates – The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires management to make estimates and
+assumptions that affect certain reported amounts and disclosures. Actual results could differ from those
+estimates.
+
+Leases – Kern Medical recognizes lease contracts or equivalents that have a term exceeding one year
+that meet the definition of an other than short-term lease. Kern Medical uses a discount rate that is
+explicitly stated or implicit in the contract. When a readily determinable discount rate is not available, the
+discount rate is determined using the Kern Medical’s incremental borrowing rate at the start of the lease
+for a similar asset type and term length to the contract. Short-term lease payments are expensed when
+incurred. Kern Medical has recorded right-to-use lease assets in accordance with GASB Statement
+No. 87, Leases (GASB 87). The right-to-use assets are initially measured at an amount equal to the initial
+measurement of the related lease liability plus any lease payments made prior to the lease term, less
+lease incentives, and plus ancillary charges necessary to place the lease into service. The right-to-use
+assets are amortized on a straight-line basis over the life of the related lease.
+
+Subscription-Based Information Technology Arrangements – Kern Medical is the end user for
+various SBITAs. Short-term SBITAs, which have a maximum possible term of 12 months or less, are
+recognized as an outflow of resources when payment is made. For SBITAs with subscription terms
+extending beyond one year, Kern Medical recognizes an intangible right-to-use subscription asset and a
+corresponding subscription liability.
+
+Cash and revolving cash fund – Kern Medical considers all highly liquid investments with original
+maturities of three months or less to be cash or a revolving cash fund. Cash consists of bank deposits,
+which are carried at cost which approximates fair value.
+
+
+
+
+                                                      18
+                              Kern County Hospital Authority
+                                   Notes to Financial Statements
+
+
+Patient accounts receivable – Kern Medical reports patient accounts receivable for services rendered at
+net realizable amounts from third-party payers, patients, and others. Kern Medical provides an allowance
+for uncollectible accounts based upon a review of outstanding receivables and historical collection
+information. As a service to the patient, Kern Medical bills third-party payers directly and bills the patient
+when the patient’s liability is determined. Patient accounts receivable are due in full when billed. Accounts
+are considered delinquent and subsequently written off as bad debts based on individual credit evaluation
+and specific circumstances of the account.
+
+Inventories – Inventories consist of expendable supplies held for consumption. Supply inventories are
+stated at the lower of cost, or market.
+
+Capital assets – Capital assets, which include property, plant, and equipment, are stated at cost if
+purchased, or fair value on the date received if donated. Kern Medical has established a policy to
+capitalize expenses for capital assets with an individual cost of $5,000 for equipment, $25,000 for
+intangibles, and $50,000 for structures with a useful life greater than one year. In accordance with
+GASB Statement No. 89, Accounting for Interest Cost Incurred Before the End of a Construction Period,
+interest cost is not capitalized during the period of construction. Intangible assets represent software
+purchases and are amortized based on estimated useful life. Capital assets other than intangible assets
+are depreciated using the straight-line method over the estimated useful lives of the assets as follows:
+
+Structures and improvements                                              10 to 40 years
+Equipment and intangibles                                                 3 to 20 years
+
+Capital assets are reviewed for impairment when events or changes in circumstances suggest that the
+service utility of the capital asset may have significantly and unexpectedly declined. Capital assets are
+considered impaired if both the decline in service utility of the capital asset is large in magnitude and the
+event or change in circumstance is outside the normal life cycle of the capital asset. Such events or
+changes in circumstances that may be indicative of impairment include evidence of physical damage,
+enactment or approval of laws or regulations or other changes in environmental factors, technological
+changes or evidence of obsolescence, changes in the manner or duration of use of a capital asset, and
+construction stoppage. The determination of the impairment loss is dependent upon the event or
+circumstance in which the impairment occurred. Impairment losses, if any, are recorded in the statement
+of revenues, expenses, and changes in net position. There were no impairment losses recorded during
+the years ended June 30, 2024 and 2023.
+
+Compensated absences – Kern Medical policies permit most employees to accumulate vacation and
+sick leave benefits that may be realized as paid time off or, in limited circumstances, as a cash payment
+or other post-employment benefit. Expense and the related liability are recognized as vacation benefits
+and are earned whether the employee is expected to realize the benefit as time off or in cash or other
+post-employment benefit. Expense and the related liability for sick leave benefits are recognized when
+earned to the extent the employee is expected to realize the benefit in cash determined using the
+termination payment method. Compensated absence liabilities are computed using the regular pay and
+termination pay rates in effect at the statement of net position date plus an additional amount for
+compensation-related payments such as Social Security and Medicare taxes computed using rates in
+effect at that date.
+
+
+
+
+                                                      19
+                              Kern County Hospital Authority
+                                   Notes to Financial Statements
+
+
+Under the terms of union contracts, employees are granted vacation and sick leave in varying amounts
+depending upon their respective bargaining unit. In the event of termination or death, an employee, or the
+employee’s estate, is compensated 100% of accumulated vacation. In the event of an employee’s death
+or retirement, excluding deferred retirement, an employee, or the employee’s estate, is compensated for
+accumulated sick leave in varying amounts from 50% to 100% depending on the employee’s bargaining
+unit and length of service.
+
+Net patient service revenue – Kern Medical has agreements with third-party payers that provide for
+payments to Kern Medical at amounts different from its established rates. Net patient service revenue is
+reported at the estimated net realizable amounts receivable from patients, third-party payers, and others
+for services rendered, including a provision for bad debt and estimated retroactive adjustments under
+reimbursement agreements with third-party payers. Retroactive adjustments are accrued on an estimated
+basis during the period the related services are rendered and adjusted in future periods, as final
+settlements are determined.
+
+Normal estimation differences between subsequent cash collections on patient accounts receivable and
+net patient accounts receivable estimated in the prior year are reported as adjustments to net patient
+service revenue in the current period. Changes in revenue due to changes in estimates of patient
+accounts receivable allowances for prior years were not significant during the years ended June 30, 2024
+and 2023.
+
+Third-party payers – Kern Medical is reimbursed for services provided to patients under certain
+programs administered by governmental agencies. Laws and regulations governing the Medicare and
+Medi-Cal programs are complex and subject to interpretation. Kern Medical believes that it is in
+compliance with all applicable laws and regulations and is not aware of any pending or threatened
+investigations involving allegations of potential wrongdoing. While no such regulatory inquiries have been
+made, compliance with such laws and regulations can be subject to future government review and
+interpretation as well as significant regulatory action including fines, penalties, and exclusion from the
+Medicare and Medi-Cal programs.
+
+The majority of Kern Medical’s receivables are related to the care of patients covered by Medi-Cal,
+Medicare, and special funding created by legislative acts that subsidize certain health care facilities that
+treat a disproportionate share of Medi-Cal beneficiaries.
+
+Uncompensated care – The County is mandated to provide medical care to indigent and dependent
+poor County residents under California Welfare and Institutions Code Section 17000. The County fulfills
+its Section 17000 obligation through services provided at Kern Medical. Through its Medically Indigent
+Adult Program, patients are charged for services and supplies based on their ability to pay. In assessing a
+patient’s ability to pay, Kern Medical utilizes state-determined poverty levels. Additionally, Kern Medical
+provides services to patients that are outside of the Medically Indigent Adult Program and does not
+receive compensation for those services. Kern Medical maintains records to identify, monitor, and report
+the level of indigent and uncompensated care provided to the community. These records include the
+estimates of cost of services and supplies furnished yet uncompensated for, which are based upon a ratio
+of cost to charges. The following information measures the level of uncompensated care provided during
+the years ended June 30, 2024 and 2023:
+
+                                                                             2024                  2023
+
+Estimated cost of services provided but uncompensated                  $     6,760,000       $    4,250,000
+
+                                                     20
+                             Kern County Hospital Authority
+                                 Notes to Financial Statements
+
+
+Pensions – For purposes of measuring the net pension liability and deferred outflows/inflows of
+resources related to pensions, and pension expense, information about the fiduciary net position of the
+Local Government of the County of Kern’s Kern County Employees’ Retirement Association (KCERA)
+plans (the Plans) and additions to/deductions from the Plans’ fiduciary net position have been determined
+on the same basis as they are reported by KCERA. For this purpose, benefit payments (including refunds
+of employee contributions) are recognized when due and payable in accordance with the benefit terms.
+Investments are reported at fair value.
+
+Disclosures about fair value of financial instruments – The carrying amount of revolving fund cash,
+patient accounts receivable, other current assets, accounts payable, and accrued expenses approximate
+fair value because of the short-term maturity of these instruments.
+
+Risk management – Kern Medical is exposed to various risks of loss from torts; theft of, damage to, and
+destruction of assets; business interruption; errors and omissions; employee injuries and illness; natural
+disasters; and employee health, dental, and accident benefits. As discussed in Note 16, commercial
+insurance coverage is purchased by Kern Medical for claims arising from such matters where Kern
+Medical has not retained the risk of loss. Kern Medical is self-insured for medical malpractice claims and
+judgments. The provision for estimated self-insured medical malpractice includes estimates of the
+ultimate costs for both reported claims and claims incurred but not reported, and other allocated claim
+adjustment expenses.
+
+Concentration of credit risk – Receivables from government programs present the only concentrated
+group of credit risk for Kern Medical. Management does not believe that there are any credit risks
+associated with these governmental agencies. Negotiated and private receivables consist of receivables
+from various payers, including individuals involved in diverse activities, subject to differing economic
+conditions, and do not represent any concentrated credit risk to Kern Medical. Management continually
+monitors and adjusts its reserves and allowances associated with these receivables, and such
+allowances have historically been adequate to cover losses realized.
+
+Deposit concentration risk is managed by placing cash and cash equivalents in various financial
+institutions. The amount of deposits at times may exceed federally insured limits.
+
+Income taxes – Kern Medical is exempt from federal and state income tax pursuant to Internal Revenue
+Code (IRC) Section 115 and similar provisions of the California Franchise Tax Code and is also exempt
+from federal and state income tax filing requirements.
+
+Operating revenues and expenses – The statement of revenues, expenses, and changes in net
+position distinguishes between operating and non-operating revenues and expenses. Operating revenues
+result from exchange transactions associated with providing health care services, Kern Medical’s principal
+activity. Non-exchange revenues, including grants, contributions, and income (losses) from investments,
+are reported as nonoperating revenues. Operating expenses are all expenses incurred to provide health
+care services.
+
+
+
+
+                                                    21
+                              Kern County Hospital Authority
+                                  Notes to Financial Statements
+
+
+Recent accounting pronouncements – In June 2022, the GASB issued GASB Statement No. 101,
+Compensated Absences (GASB 101). GASB 101 requires that liabilities for compensated absences be
+recognized for (1) leave that has not been used and (2) leave that has been used but not yet paid in cash
+or settled through noncash means. A liability should be recognized for leave that has not been used if
+(a) the leave is attributable to services already rendered, (b) the leave accumulates, and (c) the leave is
+more likely than not to be used for time off or otherwise paid in cash or settled through noncash means.
+GASB 101 requires that a liability for certain types of compensated absences—including parental leave,
+military leave, and jury duty leave—not be recognized until the leave commences. This Statement also
+requires that a liability for specific types of compensated absences not be recognized until the leave is
+used. The guidance is effective for Kern Medical in the year ending June 30, 2025. Kern Medical is
+currently assessing the impact of this standard on Kern Medical’s financial statements.
+
+In December 2023, the GASB issued Statement No. 102, Risks and Uncertainties Disclosures. GASB
+Statement No. 102 is meant to provided financial statement users with information about certain risks
+when circumstances make a government vulnerable to a heightened possibility of loss or harm. The
+requirements of GASB Statement No. 102 are effective for fiscal years beginning after June 15, 2024,
+and all reporting periods thereafter. Kern Medical is currently evaluating the impact of the adoption of
+GASB Statement No. 102 which his effective for the fiscal year ending June 30, 2025.
+
+
+Note 3 – Patient Accounts Receivable
+
+Kern Medical grants credit without collateral to its patients, many of whom are area residents and are
+insured under third-party payer agreements. Gross patient accounts receivable as of June 30, 2024 and
+2023, consisted of:
+
+                                                                          2024                  2023
+
+Medicare                                                                        22 %                 21 %
+Medi-Cal                                                                        56                   60
+Other third-party and commercial payor                                          17                   16
+Self pay                                                                         4                    3
+County responsibility                                                            1                    -
+
+           Total                                                              100 %                 100 %
+
+
+
+
+                                                    22
+                                             Kern County Hospital Authority
+                                                  Notes to Financial Statements
+
+
+Note 4 – Capital Assets, Depreciation, and Amortization
+
+Capital asset activity for the years ended June 30, 2024 and 2023, is shown below:
+
+                                                                   Beginning                                                                     Ending
+                                                                    July 1,                                                                     June 30,
+                                                                     2023            Additions          Disposals           Transfers             2024
+Capital assets not subject to depreciation
+   Land                                                        $     1,854,424   $            -     $               -   $             -     $     1,854,424
+   Construction in progress                                          8,500,062        6,783,900                     -        (7,086,543)          8,197,419
+
+           Total capital assets not subject to depreciation         10,354,486        6,783,900                     -        (7,086,543)         10,051,843
+
+Capital assets subject to depreciation
+   Equipment                                                        77,372,515        4,401,872                     -        3,754,868           85,529,255
+   Structures and improvements                                     100,611,199           20,381                     -        3,331,675          103,963,255
+   Intangibles                                                      57,626,554                -                     -                -           57,626,554
+
+           Total capital assets subject to depreciation            235,610,268        4,422,253                     -        7,086,543          247,119,064
+
+Less: accumulated depreciation and amortization for
+   Equipment                                                        58,044,534        5,983,648                     -                   -        64,028,182
+   Structures and improvements                                      67,969,930        2,396,775                     -                   -        70,366,705
+   Intangibles                                                      24,012,029        3,395,762                     -                   -        27,407,791
+
+           Total accumulated depreciation and amortization         150,026,493       11,776,185                     -                   -       161,802,678
+
+           Total capital assets subject to depreciation, net        85,583,775       (7,353,932)                    -        7,086,543           85,316,386
+
+           Total capital assets, net                           $ 95,938,261      $     (570,032)    $               -   $               -   $    95,368,229
+
+
+
+                                                                   Beginning                                                                     Ending
+                                                                    July 1,                                                                     June 30,
+                                                                     2022            Additions          Disposals           Transfers             2023
+Capital assets not subject to depreciation
+   Land                                                        $     1,854,424   $            -     $               -   $             -     $     1,854,424
+   Construction in progress                                          6,992,574        4,642,905                     -        (3,135,417)          8,500,062
+
+           Total capital assets not subject to depreciation          8,846,998        4,642,905                     -        (3,135,417)         10,354,486
+
+Capital assets subject to depreciation
+   Equipment                                                        69,472,946        7,498,696                     -           400,873          77,372,515
+   Structures and improvements                                      98,202,405                -                     -         2,408,794         100,611,199
+   Intangibles                                                      57,300,804                -                     -           325,750          57,626,554
+
+           Total capital assets subject to depreciation            224,976,155        7,498,696                     -         3,135,417         235,610,268
+
+Less: accumulated depreciation and amortization for
+   Equipment                                                        52,184,908        5,859,626                     -                   -        58,044,534
+   Structures and improvements                                      65,067,959        2,901,971                     -                   -        67,969,930
+   Intangibles                                                      20,598,465        3,413,564                     -                   -        24,012,029
+
+           Total accumulated depreciation and amortization         137,851,332       12,175,161                     -                   -       150,026,493
+
+           Total capital assets subject to depreciation, net        87,124,823        (4,676,465)                   -         3,135,417          85,583,775
+
+           Total capital assets, net                           $ 95,971,821      $       (33,560)   $               -   $               -   $    95,938,261
+
+
+
+
+                                                                           23
+                                Kern County Hospital Authority
+                                        Notes to Financial Statements
+
+
+Note 5 – Long-Term Debt
+
+The following is a summary of long-term obligation transactions of Kern Medical for the years ended
+June 30, 2024 and 2023:
+
+                                                                                                       Amounts       Amounts Due
+                              July 1,          Incurred             Satisfied        June 30,         Due Within     in More Than
+                               2023            or Issued           or Matured          2024           One Year         One Year
+
+Pension obligation bonds   $ 10,205,194    $               -   $     1,991,965   $    8,213,229   $     1,062,281    $   7,150,948
+
+                                                                                                       Amounts       Amounts Due
+                              July 1,          Incurred             Satisfied        June 30,         Due Within     in More Than
+                               2022            or Issued           or Matured          2023           One Year         One Year
+
+Pension obligation bonds   $ 13,143,781    $               -   $     2,938,587   $ 10,205,194     $     1,991,965    $   8,213,229
+
+
+Scheduled principal and interest repayments for long-term debt are as follows:
+
+                                                                                         Principal                  Interest
+Years Ending June 30,
+2025                                                                                 $     1,062,281           $     2,542,598
+2026                                                                                       1,058,183                 2,730,055
+2027                                                                                       1,981,756                 1,986,653
+2028                                                                                       4,111,009                    28,674
+
+                                                                                     $     8,213,229           $     7,287,980
+
+Total interest costs incurred for the years ended June 30, 2024 and 2023, were approximately $3,182,000
+and $1,794,000, respectively.
+
+Pension obligation bonds – In May 2003, the County issued pension obligation bonds to finance the
+County’s share of the unfunded accrued actuarial liability of the Kern County Employees’ Retirement
+Association. In August 2008, the County issued pension obligation bonds, Series 2008 A. The Series
+2003 B Bonds were redeemed with the proceeds of the Series 2008 A Refunding Bonds. As of June 30,
+2024 and 2023, the amounts of total 2003 and 2008 pension obligation bonds outstanding for the County
+as a whole were approximately $73,651,000 and $91,514,000, respectively. Of these amounts,
+approximately $8,213,000 and $10,205,000 were allocated to Kern Medical, respectively. The initial basis
+of the amount allocated to Kern Medical was determined by Kern Medical’s share of the County-wide
+retirement contribution for the year ended June 30, 2003.
+
+The Series 2003 A Bonds were issued as Current Interest Bonds and Capital Appreciation Bonds; the
+Series 2003 B Bonds were refunded as Adjustable Rate Bonds in August 2008. The bonds have various
+maturity dates between 2006 and 2023 for the Current Interest Bonds and from 2023 and 2028 for the
+Capital Appreciation Bonds. Series 2003 A Bonds have fixed interest rates that range from 2.33% to
+4.88% for the current interest bonds and 5.50% to 5.57% for the capital appreciation bonds. Starting in
+April 2014, the 2008 A Bonds have a fixed interest rate of 4.185%.
+
+
+
+
+                                                               24
+                                Kern County Hospital Authority
+                                     Notes to Financial Statements
+
+
+Line of credit – In March 2019, Kern Medical entered into a revolving line of credit agreement with a
+financial institution, secured by revenues and nongovernmental receivables that have been pledged as
+security pursuant to the agreement with the financial institution. Amounts available under the revolving
+credit agreement are $30,000,000 with a maturity date of February 28, 2025. Interest is payable on a
+monthly basis at the current Daily Bloomberg Short Term Bank Yield Index rate plus 170 basis points. As
+of both June 30, 2024 and 2023, there were no outstanding borrowings.
+
+
+Note 6 – Interest Payable
+
+The following is a summary of interest payable transactions for the pension obligation bonds of Kern
+Medical for the years ended June 30, 2024 and 2023:
+
+                                                         Amount           Amount
+                                     July 1, 2023        Accrued           Paid           June 30, 2024
+
+Current interest payable         $        467,089   $     1,851,140   $    1,434,598     $      883,631
+Non-current interest payable            6,731,300           420,331                -          7,151,631
+
+       Total interest payable    $      7,198,389   $     2,271,471   $    1,434,598     $    8,035,262
+
+                                                         Amount           Amount
+                                     July 1, 2022        Accrued           Paid           June 30, 2023
+
+Current interest payable         $         65,186   $      767,237    $      365,334     $      467,089
+Non-current interest payable            6,218,422          512,878                 -          6,731,300
+
+       Total interest payable    $      6,283,608   $     1,280,115   $      365,334     $    7,198,389
+
+
+Note 7 – Net Patient Service Revenue
+
+Kern Medical has agreements with third-party payers that provide for payments to Kern Medical at
+amounts different from its established rates. These payment arrangements include:
+
+Medicare – Inpatient acute care services and substantially all outpatient services rendered to Medicare
+program beneficiaries are paid at prospectively-determined rates. These rates vary according to a patient
+classification system that is based on clinical, diagnostic, acuity, and other factors. Kern Medical is
+reimbursed for certain services at tentative rates with final settlement determined after submission of
+annual cost reports by Kern Medical and audits thereof by the Medicare administrative contractor. The
+Medicare administrative contractor has audited Kern Medical’s cost reports through June 30, 2023.
+
+Medi-Cal – Inpatient acute services rendered to Medi-Cal program beneficiaries are paid at a
+prospectively determined rate per discharge. These rates vary according to a patient classification system
+based on clinical, diagnostic, and other factors. Outpatient services are reimbursed based upon a fee
+schedule per procedure, test, or service.
+
+
+
+
+                                                    25
+                            Kern County Hospital Authority
+                                Notes to Financial Statements
+
+
+Approximately 88% of net patient service revenue is from participation in the Medicare and state-
+sponsored Medi-Cal programs for both the years ended June 30, 2024 and 2023. Laws and regulations
+governing the Medicare and Medi-Cal programs are complex and subject to interpretation and change. As
+a result, it is reasonably possible that recorded estimates will change in the near term.
+
+Kern Medical has also entered into payment agreements with certain commercial insurance carriers,
+health maintenance organizations, and preferred provider organizations. The basis for payment to Kern
+Medical under these agreements includes prospectively determined rates per discharge, discounts from
+established charges, and prospectively determined daily rates.
+
+
+Note 8 – Indigent Patient Care Funding
+
+Kern Medical is entitled to receive supplemental funding from various governmental sources based on the
+patients served. Indigent patient care funding on the accompanying statements of revenues, expenses,
+and changes in net position includes the following major payment arrangements for the years ended
+June 30, 2024 and 2023:
+
+                                                                         2024                2023
+
+Global payment program                                             $   42,668,101      $   31,357,251
+Waiver Programs                                                         7,762,087           5,560,001
+Medi-Cal managed care supplemental programs                            29,509,069          22,517,890
+Enhanced payment program                                               47,047,080          33,962,893
+Quality incentive program                                              56,648,422          51,787,032
+Graduate medical education program                                      9,346,741           8,338,255
+Other                                                                   3,730,498          19,774,848
+
+          Total                                                    $ 196,711,998       $ 173,298,170
+
+Due from government agencies on the accompanying statements of net position includes the following
+supplemental payment programs as of June 30, 2024 and 2023:
+
+                                                                         2024                2023
+
+Global payment program                                             $     2,880,925     $       (17,237)
+Waiver Programs                                                        (12,051,607)        (33,758,959)
+Medi-Cal managed care supplemental programs                             37,053,489          42,028,092
+Enhanced payment program                                                76,683,587          67,395,693
+Quality incentive program                                               90,998,534          85,104,636
+Graduate medical education program                                         390,396             828,524
+Other                                                                    8,736,235          18,843,180
+
+          Total                                                    $ 204,691,559       $ 180,423,929
+
+
+
+
+                                                  26
+                             Kern County Hospital Authority
+                                  Notes to Financial Statements
+
+
+Medi-Cal waiver – California’s Medi-Cal Hospital/Uninsured Care Demonstration Project (Demonstration)
+is a system for paying selected hospitals, including Kern Medical, for hospital care provided to Medi-Cal
+and uninsured patients. The Demonstration was negotiated between the State of California’s Department
+of Health Services (DHS) and the CMS in 2006 and covers the period from July 1, 2005, to June 30,
+2010. The implementing State legislation (SB 1100) was enacted by the Legislature in September 2005.
+The five-year Demonstration affects payments for 23 public hospitals, including all University of California
+owned hospitals, identified as Designated Public Hospitals, and private and non-designated public safety
+net hospitals that serve large numbers of Medi-Cal patients. The program was extended in 2010 to cover
+the period from July 1, 2010, to June 30, 2015. The program was further extended in 2015 to cover the
+period from July 1, 2015, to June 30, 2020. During the year ended June 30, 2022, the program was
+further extended to cover the period through December 31, 2026.
+
+Under the Demonstration, payments for the public hospitals are comprised of: 1) Fee for Service (FFS)
+cost-based reimbursement for inpatient hospital services (exclusive of physician component);
+2) Disproportionate Share Hospital (DSH) Program payments (formerly SB 855); and 3) distribution from
+a newly created pool of federal funding for uninsured care, known as the Safety Net Care Pool (SNCP).
+The nonfederal share of these three types of payments will be provided by the public hospitals rather than
+the State, primarily through certified public expenditures (CPE) whereby the hospital would expend its
+local funding for services to draw down the Federal financial participation (FFP), currently provided at a
+50% match. For the inpatient hospital FFS cost-based reimbursement, each hospital will provide its own
+CPE and receive all of the resulting Federal match. For the DSH and SNCP distributions, the CPEs of all
+the public hospitals will be used in the aggregate to draw down the Federal match. It is therefore possible
+for one hospital to receive the Federal match that results from another hospital’s CPEs. In this situation,
+the first hospital is referred to as a “recipient” hospital, while the second is referred to as a “donor”
+hospital. A recipient hospital is required to “retain” the FFP amounts resulting from donated CPEs.
+
+The Demonstration prioritizes payments so that, to the extent possible, total payments to hospitals are at
+a minimum “baseline” level. For public hospitals, the baseline level is determined and satisfied on a
+hospital-specific basis. The three funding components that will be utilized to meet each hospital’s baseline
+level are as follows:
+
+   1. Medi-Cal inpatient FFS cost-based reimbursement: The FFP that is paid to the hospital represents
+      approximately half of the facility-specific costs or CPE. The hospital’s amounts will fluctuate based
+      on the number of facility-specific Medi-Cal patients served and the facility-specific cost-
+      computations that will be adjusted on an interim and final basis.
+
+   2. DSH funds: These payments are made to hospitals to take into account the uncompensated costs
+      of care delivered to the uninsured, including undocumented immigrants, as well as shortfalls
+      between Medi-Cal psychiatric and Medi-Cal managed care payments and the cost of care
+      delivered. The nonfederal share of these funds will be a combination of CPEs for these services
+      and Intergovernmental Transfers (IGTs) and as such are subject to interim and final cost
+      settlement. There is an annual fixed allotment of Federal DSH funds, and the waiver allocates
+      almost all of these funds to public hospitals.
+
+
+
+
+                                                    27
+                             Kern County Hospital Authority
+                                 Notes to Financial Statements
+
+
+   3. SNCP distributions: Federal payments made to public hospitals and clinics for uncompensated
+      care delivered to uninsured patients and for certain designated non-hospital costs, such as drugs
+      and supplies for the uninsured. The nonfederal share of these funds will be based on CPEs for
+      these services and as such are subject to interim and final cost settlement. Effective January 1,
+      2016, this program was replaced with the Global Payment Program, described below.
+
+DHS has completed its audit and reconciliation of the 2005-2006 Medi-Cal funds and noted that Kern
+Medical was overpaid in the total amount of $2,116,022. Kern Medical paid this amount back to DHS on
+October 9, 2013. Kern Medical hired a third-party consultant to evaluate its outstanding receivables
+related to the remaining years subject to audit from 2006-2007 through 2013-2014 noting Kern Medical is
+estimated to have been overpaid by DHS in the amount of approximately $41,100,000 over the course of
+these stated 8 years.
+
+Included as an offset within due from governmental agencies in the accompanying statements of net
+position are amounts payable to DHS as of June 30, 2024 and 2023, of approximately $12,052,000 and
+$33,759,000, respectively, which represent the amounts received but not yet earned by Kern Medical
+under the waiver program net of amounts earned but not yet received by Kern Medical under the
+program, primarily related to the matter described above and ongoing audits. Kern Medical recorded
+changes in estimates in amounts expected to be received resulting in a reduction of $21,707,000 and
+$7,146,000 in indigent patient care funding revenue in the accompanying statements of revenues,
+expenses, and changes in net position during the years ended June 30, 2024 and 2023, respectively.
+
+Global Payment Program (GPP) – Effective January 1, 2016, California’s Section 1115 Waiver Renewal
+(Renewal), referred to as Medi-Cal 2020, was approved by CMS. As part of the Renewal, the GPP
+establishes a statewide pool of funding for the remaining uninsured by combining federal DSH and
+uncompensated care funding where selected Designated Public Hospital systems, like Kern Medical, can
+achieve their goal of “global budget” by meeting a service threshold that incentivizes movement from high
+cost, avoidable services to providing higher value, and preventative services.
+
+Medi-Cal Managed Care Supplemental Programs – For newly eligible Medi-Cal patients under the
+Affordable Care Act (ACA) effective January 1, 2014, certain portions of the ACA provided Medi-Cal
+coverage for patients previously covered under risk sharing agreements. The majority of these
+beneficiaries were enrolled in managed Medi-Cal health plans. Due to payment mechanisms between the
+State and the health plans (capitation), an opportunity to receive supplemental funding similar to current
+rate range programs was made available to the DPHs.
+
+Enhanced Payment Program (EPP) and Quality Incentive Program (QIP) – In 2016, CMS published
+the Medicaid and Children’s Health Insurance Program Managed Care Final Rule (Managed Care Rule),
+which went into effect July 1, 2017. The Managed Care Rule limits the ability of states to direct payments
+to health care providers, unless certain conditions are met. Among the allowable exceptions are
+payments tied to performance and payments that provide a uniform payment increase that includes a
+predetermined increase over contracted rates. Some of the existing supplemental payments in managed
+care did not meet these conditions. In order to retain this critical funding, these payments were
+restructured into two new CMS approved programs, effective July 1, 2017: the EPP and the QIP. The
+EPP divides public health care systems into five different classes, with payment terms defined according
+to class. Enhanced funding available to the class is distributed pro rata based on unitization encounter
+data reported to the State. The QIP is meant to meet the Managed Care Rule’s exception that allows
+payments tied to performance.
+                                                    28
+                             Kern County Hospital Authority
+                                 Notes to Financial Statements
+
+
+Graduate Medical Education Program (GME) – In March 2020, CMS formally approved the Medi-Cal
+GME State Plan Amendment, which will provide $150 million of new federal funds to the Public Hospital
+System to support GME. The payments were retroactive to January 2017, which allowed Kern Medical to
+capture some of the retroactive payments during FY 2020. This is an IGT based program; therefore, in
+order to take advantage of the funding, hospitals are required to put up IGT funds and small
+administrative fees, which are then are matched by the federal government at a 50% federal medical
+assistance percentage rate.
+
+California Advancing and Innovating Medi-Cal (CalAIM) – Effective January 1, 2022, DHCS
+implemented the CalAIM initiative aimed at reforming the Medi-Cal system to improve health outcomes
+and promote health equity among beneficiaries. CalAIM encompasses enhanced care management,
+community support services, and financial incentives for managed care plans based on performance
+metrics related to quality of care and patient engagement. The program aims to address social
+determinants of health and improve access to comprehensive care for vulnerable populations. The WPC
+Pilots program has been bridged into the new Providing Access and Transforming Health (PATH)
+program under CalAIM. As with WPC, PATH is designed to provide integrated, patient-centered care
+through coordination of physical and behavioral health and social services to meet patients’ holistic
+needs.
+
+
+Note 9 – Related-Party Transactions
+
+County funding – Kern Medical receives funds from the County as funding for providing care for inmates
+of Kern County jail and inmates of Kern County juvenile hall. The County Board of Supervisors approves
+a budgeted amount to be paid to Kern Medical. Based on the approved budgeted amount, Kern Medical
+recognized revenues of approximately $34,173,000 and $31,016,000 for the years ended June 30, 2024
+and 2023, respectively. These revenues have been classified as county funding revenue in the
+accompanying statements of revenues, expenses, and changes in net position. As of June 30, 2024 and
+2023, Kern Medical recorded amounts receivable of approximately $6,184,000 and $7,825,000,
+respectively, from the County’s General Fund for these services classified in other receivables in the
+accompanying statements of net position.
+
+Kern Medical provides health care services to Medically Indigent Adults as provided under Section 17000
+of the Health and Safety regulations under the State of California. Reimbursement for the services is
+provided by the County’s General Fund though the use of State Health and Welfare Realignment
+Revenues. Based on the approved budgeted amount, Kern Medical recognized county funding revenue in
+the accompanying statements of revenues, expenses, and changes in net position of approximately
+$7,825,000 and $3,875,211 for the years ended June 30, 2024 and 2023, respectively. As of June 30,
+2024 and 2023, there were no amounts due from the County’s General Fund for these services.
+
+Service agreements – Kern Medical has entered into various annual service agreements with two
+related-party organizations since 2016, whereby the related-party organizations provides support services
+related to finance and accounting, information technology, human resources, and organizational
+advancement at a set monthly fee plus any additional services, costs, or expenses pre-approved by Kern
+Medical. During the years ended June 30, 2024 and 2023, Kern Medical paid $2,471,000 and
+$10,474,000 for support services. During the year ended June 30, 2024, Kern Medical terminated the
+service agreements with the related-party organizations and began providing the services internally. As of
+June 30, 2024 and 2023, Kern Medical no amounts were owed to the related-party organizations for
+these services.
+                                                   29
+                              Kern County Hospital Authority
+                                  Notes to Financial Statements
+
+
+Note 10 – Pension Plan
+
+General Information About the Pension Plans
+
+Plan descriptions – The County of Kern’s Board of Supervisors established the KCERA under the
+provisions of the County Employees’ Retirement Law of 1937 (CERL) on January 1, 1945. All permanent
+employees of the County of Kern, Kern Medical, and thirteen related agencies are covered by KCERA,
+which operates as a cost-sharing multi-employer defined benefit plan. KCERA has the responsibility to
+function as an investment and administrative agent for the County of Kern with respect to the pension
+plan. KCERA became independent from the County’s supervision and control as a result of the 1992
+passage of Proposition 162, which legally established the independent control of the Board of Retirement.
+Separate audited financial statements can be obtained through KCERA at 11125 River Run Boulevard,
+Bakersfield, California 93311. Management of the KCERA plan is vested with the Board of Retirement,
+which consists of nine members and two alternates.
+
+The Board of Retirement establishes policy for the operation of the plan, considers applications for
+disability retirement, recommends contributions on the basis of actuarial valuations, and controls
+investments of assets. Prior to January 1, 1996, the Kern County Treasurer-Tax Collector was
+responsible for financial reporting and accounting for all investments as required by Government Code
+Section 31596 et seq., as amended. On January 11, 1987, the Board of Retirement authorized the
+retirement fund to incur an administrative expense and hire an Administrator to serve at the Board of
+Retirement’s pleasure. The Administrator is responsible for the processing and computing of applications
+for retirement benefits, refunds, beneficiary allowances, death benefits, reciprocity, and any other duties
+the Board of Retirement may assign. The Administrator also acts as Secretary for all Board of Retirement
+and Committee meetings and performs other activities as directed by the Board of Retirement. The
+KCERA Plan provides for retirement, disability, death, beneficiary, and cost-of-living benefits.
+
+All regular full-time employees of the County of Kern or contracting districts, including Kern Medical, who
+work 50% or more of their regular standard hours required become members of KCERA effective on the
+first day of the payroll period following the date of hire.
+
+General Tier I and Tier II members are eligible to retire at age 70 regardless of service or at age 50 with
+10 or more years of retirement service credit. A member with 30 years of service is eligible to retire
+regardless of age. General Tier III members are eligible to retire at age 70 regardless of service or at age
+52 with 5 or more years of retirement service credit. The retirement benefit the member will receive is
+based on age at retirement, final average compensation, years of retirement service credit, and benefit
+tier.
+
+The amount of such monthly benefit is determined as a percentage of their final monthly compensation
+and is based on age at retirement and the number of years of service. The final monthly compensation is
+the monthly average of the final 12 months’ compensation, or, if the member so elects, any other
+continuous 12-month period in the member’s work history. If hired on or after January 1, 2013, the final
+compensation is measured over a period of 36 months.
+
+
+
+
+                                                     30
+                               Kern County Hospital Authority
+                                    Notes to Financial Statements
+
+
+An annual 2% cost-of-living adjustment (COLA) for all retirees and continuance beneficiaries was adopted
+as of April 1, 1973. The liability for this annual retirement benefit increase was funded entirely from the
+unreserved fund balance until February 5, 1983. After this date (as recommended by the plan’s
+Independent Actuary, adopted by KCERA Board of Retirement, and approved by the County Board) and
+prior to fiscal year 2003, funding the 2% COLA was included in the employers’ contribution. COLA for all
+retirees and continuance beneficiaries was increased to 2.5% effective April 1, 2002.
+
+The Memorandum of Understanding adopted March 2012 between the County and its general employees
+states that all general members hired prior to the first day of payroll period 2004-16 shall start to pay, in the
+second year of the agreement, one-sixth of the employee’s normal contribution to retirement. In the third year,
+the employee’s normal contribution will increase to one-third. All general members hired on or after the first day
+of payroll period 2005-16 shall pay 100% of the new employee’s normal contribution to retirement. The County
+Administrative Office negotiated an agreement with the Central California Association of Public Employees
+adopting Government Code Section 31676.17 which provides enhanced retirement benefits, commonly known
+as 3% at 60, for General members, in August 2004.
+
+Basis of accounting – KCERA follows GASB accounting principles and reporting guidelines. The financial
+statements are prepared using the accrual basis of accounting and reflect the overall operations of KCERA.
+Employer and member contributions are recognized in the period in which the contributions are due, and benefits
+and refunds of prior contributions are recognized when due and payable in accordance with the terms of KCERA.
+
+Fair valuation of investments – Fair value for investments is derived by various methods as indicated in
+the following table:
+
+Publicly traded stocks                         Most recent exchange closing price. International
+                                               securities reflect currency exchange rates in effect as of
+                                               June 30, 2024.
+
+Short-term investments and bonds               Institutional evaluations or priced at par.
+
+OTC securities                                 Evaluations based on good faith opinion as to what a
+                                               buyer in the marketplace would pay for a security.
+
+Commingled funds                               Net asset value provided by the investments manager.
+
+Alternative investments                        Provided by the Fund manager based on the underlying
+                                               financial statements and performance of the investments.
+
+Private equity real estate investments         Estimated based on the price that would be received to
+                                               sell an asset in an orderly transaction between
+                                               marketplace participants at the measurement date.
+                                               Investments without a public market are valued based on
+                                               assumptions made and multiple valuation techniques
+                                               used by the investment manager.
+
+
+
+
+                                                       31
+                              Kern County Hospital Authority
+                                  Notes to Financial Statements
+
+
+Contributions – As a condition of participation under the provisions of CERL, members are required to
+contribute to KCERA a percentage of their salaries. Member contribution rates for fiscal year 2023 ranged
+from 4.72% to 19.29% and were applied to the member’s base pay plus pensionable special pays. For
+general members hired prior to 2013, contribution rates were determined by benefit tier and KCERA entry
+age. The contribution rates of general members who first joined KCERA on or after January 1, 2013, are
+at least 50% of the normal cost rate. Furthermore, the rate of members integrated with Social Security is
+reduced by one-third on the first $350 of monthly salary.
+
+Interest is credited to member contributions semi-annually on June 30 and December 31, in accordance
+with Article 5.5 of the CERL. Member contributions and credited interest are refundable upon termination
+of membership.
+
+Each year, an actuarial valuation is performed for the purpose of determining the funded ratio of the
+retirement plan and the employer contributions that are necessary to pay benefits accruing to KCERA
+members that were not otherwise funded by member contributions or investment earnings. The employer
+contribution rates are actuarially determined by using the Entry Age Normal Actuarial Cost method.
+Employer rates include the “normal cost” and an annual amortization payment toward the Plan’s
+unfunded actuarial accrued liability. Contribution rates determined in each actuarial valuation (as of
+June 30) apply to the fiscal year beginning 12 months after the valuation date. Employer rates for fiscal
+year 2023 ranged from 36.03% to 76.91% of covered payroll. Contributions to the pension plan from Kern
+Medical were approximately $44,690,000 and $40,769,000 for the years ended June 30, 2024 and 2023,
+respectively.
+
+Actuarial assumptions – The total pension liabilities in the June 30, 2023 actuarial valuation was
+determined using the following actuarial assumptions. Total pension liability represents the portion of the
+actuarial present value projected benefit payments attributable to past periods of service for current and
+inactive employees.
+
+Inflation                        2.50%
+
+Projected salary increases       General: 3.70% to 8% and Safety: 4% to 10%,
+                                 varying by service, including inflation.
+
+COLA increases                   2.50% (actual increases contingent upon CPI increases
+                                 with a 2.50% maximum).
+
+Administrative expenses          0.95% of payroll allocated to both the employer and
+                                 member based on the components of the total contribution
+                                 rate (before expenses) for the employer and member.
+
+Investment rate of return        7%, net of pension plan investment expenses,
+                                 including inflation.
+
+Mortality                        Pub-2010 General Healthy Retiree Amount-Weighted Mortality Table (separate tables
+                                 for males and females) with rates unadjusted for males and increased by 15%
+                                 for females, projected 30 years (from 2010) with the two-dimensional mortality
+                                 improvement scale MP-2021, weighted 30% male and 70% female.
+
+
+
+
+                                                      32
+                                Kern County Hospital Authority
+                                  Notes to Financial Statements
+
+
+The total pension liability as of June 30, 2024, was determined by an actuarial valuation as of June 30,
+2023. The total pension liability as of June 30, 2023, was determined by an actuarial valuation as of
+June 30, 2022. The actuarial assumptions for the June 30, 2024 and 2023 actuarial reports were based
+on the results of an experience study for the period July 1, 2016 through June 30, 2019.
+
+The Entry Age Normal Actuarial Cost method used in KCERA’s annual actuarial valuation has also been
+applied in measuring the service cost and Total Pension Liability (TPL) with one exception. For purposes
+of measuring the service cost and TPL, KCERA has reflected the same plan provisions used in
+determining the member’s actuarial present value of projected benefits. This is different from the version
+of this method applied in KCERA’s annual funding valuation, where the normal cost and actuarial-accrued
+liability are determined as if the current benefit accrual rate had always been in effect.
+
+The long-term expected rate of return on pension plan investments was determined using a building-block
+method in which expected future real rates of return (expected returns net of pension plan investment
+expenses and inflation) are developed for each major asset class. This data is combined to produce the
+long-term expected rate of return by weighting the expected future real rates of return by the target asset
+allocation percentages and by adding expected inflation. The target allocation and projected arithmetic
+real rates of return for each major asset class, after deducting inflation but before investment expenses,
+used in the derivation of the long-term expected investment rate of return assumptions are summarized
+below:
+
+                                                                   Target           Long-term Expected
+                                                                  Allocation        Real Rate of Return
+
+Global equity                                                        37.00 %                      7.05 %
+Core fixed income                                                    14.00                        1.97
+High yield corporate credit                                           6.00                        4.63
+Emerging market debt blend                                            4.00                        4.63
+Commodities                                                           4.00                        4.21
+Core real estate                                                      5.00                        3.86
+Private real estate                                                   5.00                        6.70
+Midstream                                                             5.00                        8.00
+Capital efficiency alpha pool                                         8.00                        3.10
+Hedge funds                                                          10.00                        3.10
+Private equity                                                        5.00                       10.27
+Private credit                                                        5.00                        6.97
+Cash                                                                 (8.00)                       0.63
+
+                                                                       100 %
+
+Discount rate – The discount rates used in the actuarial valuation of the total pension liability were 7%
+and 7.25% as of June 30, 2024 and 2023, respectively. The projection of cash flows used to determine
+the discount rates assumed member contributions would be made at the current contribution rate and that
+employer contributions would be made at rates equal to the actuarially determined contribution rates.
+
+
+
+
+                                                    33
+                              Kern County Hospital Authority
+                                   Notes to Financial Statements
+
+
+For this purpose, only employee and employer contributions intended to fund benefits for current plan
+members and their beneficiaries are included. Projected employer contributions intended to fund the
+service costs for future plan members and their beneficiaries, as well as projected contributions from
+future plan members, are not included. Based on those assumptions, the pension plan’s fiduciary net
+position was projected to be available to make all projected future benefit payments for current plan
+members. Therefore, the long-term expected rate of return on pension plan investments was applied to all
+periods of projected benefit payments to determine the actuarial valuation of the total pension liability as
+of June 30, 2024.
+
+The discount rate assumptions have been developed without taking into consideration any impact of the
+50/50 allocation of future excess earnings between the retirement and Supplement Retirement Benefit
+Reserve (SRBR) asset pools.
+
+Sensitivity of the net pension liability to changes in the discount rate – The following presents the
+net pension liability as of June 30, 2024, calculated using a discount rate of 7%, and what the net pension
+liability would be if it were calculated using a discount rate that is one point lower (6%) or one point higher
+(8%) than the current rate:
+
+                                                        1%                 Current                  1%
+                                                     Decrease           Discount Rate            Increase
+                                                       (6%)                 (7%)                   (8%)
+Kern Medical’s proportionate share
+ of the net pension liability                     $ 485,807,297         $ 344,447,058         $ 228,273,058
+
+Pension fund fiduciary net position – Detailed information about the pension fund’s fiduciary net
+position is available in the separately issued KCERA annual report.
+
+Pension liabilities, pension expenses, and deferred outflows/inflows of resources related to
+pensions – Kern Medical’s net pension liability for the Plan is measured as the proportionate share of the
+net pension liability. As of June 30, 2024, Kern Medical reported a liability of approximately $344,447,000
+for its proportionate share of the net pension liability. The net pension liability was measured as of
+June 30, 2023, and the total pension liability used to calculate the net pension liability was determined by
+an actuarial valuation as of that date. The net pension liability for each membership class is the total
+pension liability minus the Plan’s Fiduciary Net Position. The total pension liability for each membership
+class is obtained from internal valuation results based on the actual participants in each membership
+class. The Plan’s Fiduciary Net Position for each membership class was estimated by adjusting the
+valuation value of assets for each membership class by the ratio of the total KCERA Plan’s Fiduciary Net
+Position (excluding SRBR) to total KCERA valuation value of assets. Based on this methodology, any
+non-valuation reserves are allocated amongst the membership classes based on each membership class’
+valuation value of assets. Kern Medical’s proportion of the net pension liability was based on a projection
+of Kern Medical’s long-term share of contributions to the pension plan relative to the projected
+contributions of all participating County departments and agencies, actuarially determined. As of June 30,
+2024, Kern Medical’s proportion was 13.7%, which was a decrease of .8% from its proportion measured
+as of June 30, 2023.
+
+
+
+
+                                                      34
+                             Kern County Hospital Authority
+                                 Notes to Financial Statements
+
+
+For the years ended June 30, 2024 and 2023, Kern Medical recognized pension expense of
+approximately $44,307,000 and $44,704,000, respectively. Pension expense represents the change in
+net pension liability during the measurement period, adjusted for actual contributions and the deferred
+recognition of changes in investment gain/loss, actuarial gain/loss, actuarial assumptions or methods, and
+plan benefits. As of June 30, 2024 and 2023, Kern Medical reported deferred outflows and deferred
+inflows of resources related to pensions from the following sources:
+
+                                                                                        2024
+                                                                          Deferred                  Deferred
+                                                                         Outflows of               Inflows of
+                                                                         Resources                 Resources
+
+Differences between expected and actual experience                   $              -          $    (10,726,366)
+Changes in assumptions                                                     24,358,715                         -
+Net excess of projected over actual earnings
+ on pension plan investments                                               22,810,708                           -
+Changes in proportion and differences between Kern Medical
+ contributions and proportionate share of contributions                    10,103,570               (21,152,722)
+Kern Medical contributions subsequent to the measurement date              59,088,487                         -
+
+          Total                                                     $ 116,361,480              $    (31,879,088)
+
+                                                                                        2023
+                                                                          Deferred                  Deferred
+                                                                         Outflows of               Inflows of
+                                                                         Resources                 Resources
+
+Differences between expected and actual experience                   $              -          $    (12,415,363)
+Changes in assumptions                                                      8,996,004                         -
+Net difference between projected and actual earnings
+ on pension plan investments                                               21,166,578                           -
+Changes in proportion and differences between Kern Medical
+ contributions and proportionate share of contributions                    18,516,606               (10,300,967)
+Kern Medical contributions subsequent to the measurement date              52,437,988                         -
+
+          Total                                                     $ 101,117,176              $    (22,716,330)
+
+
+
+
+                                                   35
+                               Kern County Hospital Authority
+                                 Notes to Financial Statements
+
+
+Deferred outflows and deferred inflows of resources above represent the unamortized portion of changes
+to the total pension liability to be recognized in future periods in a systematic and rational manner.
+Approximately $59,088,000 and $52,438,000 reported as deferred outflows of resources relate to
+contributions subsequent to the measurement date that will be recognized as a reduction of the net
+pension liability during the years ended June 30, 2024 and 2023, respectively. Other amounts reported as
+deferred outflows and deferred inflows of resources related to pension will be recognized as pension
+expense as follows:
+
+Years Ending June 30,
+2025                                                                 $    9,637,730
+2026                                                                      2,183,181
+2027                                                                     15,644,623
+2028                                                                      2,294,733
+
+                                                                     $   29,760,267
+
+The changes in net pension liability obligation are as follows as of June 30, 2024 and 2023:
+
+                                                                           2024                  2023
+
+Beginning net pension liability                                      $ 345,399,109        $ 284,243,193
+Pension expense                                                         44,307,592           44,703,770
+Employer contributions                                                 (44,690,354)         (40,768,957)
+Deferred outflows of resources – change in assumptions                  19,953,392           (7,934,629)
+Deferred inflows of resources – differences between
+ expected and actual earnings on investments                              7,230,928            70,863,776
+Deferred inflows of resources – differences between
+ expected and actual experience                                           (3,599,472)           4,592,923
+Deferred outflows of resources – changes in proportion
+ and differences between Kern Medical contributions
+ and proportionate share of contributions                                (13,584,440)          (10,300,967)
+ Changes in prior years inflow/outflow                                    (4,889,013)                    -
+ Changes in prior years inflow proportions                                (5,680,684)                    -
+
+Ending net pension liability                                         $ 344,447,058        $ 345,399,109
+
+
+
+
+                                                    36
+                              Kern County Hospital Authority
+                                   Notes to Financial Statements
+
+
+Note 11 – Physician Employee Retirement Plan
+
+Kern Medical, through the County, contributes to the Kern County Physician Employee Retirement Plan
+(the Plan), a defined contribution plan. The Plan covers salaried physicians in the employment of the
+County, except physicians employed under Civil Service and physicians employed and paid on an hourly
+basis. Kern Medical contributions for each plan year (as defined in the Plan Document) under the
+amended and restated Plan Document shall be as follows: Kern Medical shall contribute as Kern
+Medical’s required contribution the sum of $17,500 for the account of Core Physician for each completed
+Plan Year of service (as defined in the Plan Document) by Core Physician. Participants are allowed to
+make voluntary contributions to the Plan. All amounts contributed are vested immediately. Kern Medical
+contributed approximately $1,823,000 and $1,731,000 to the Plan during the years ended June 30, 2024
+and 2023, respectively. Audited financial statements for the Plan may be obtained through the Kern
+County Auditor-Controller-County Clerk, 1115 Truxtun Avenue, Bakersfield, California 93301.
+
+
+Note 12 – Post-Retirement Health Care Benefits
+
+Plan description – In addition to the pension benefits described in Note 11, the County and its Special
+Districts (including Kern Medical) provide post-retirement health care benefits in accordance with union
+contracts and Board of Supervisors’ order. The post-retirement health care benefits are provided through
+a cost-sharing multiple-employer postemployment health benefit (OPEB) plan established in an
+irrevocable trust administered by Public Agency Retirement Services (PARS). PARS issues a separate
+annual financial report that can be obtained by writing to PARS at 4350 Von Karman Ave., Suite 100,
+Newport Beach, California 92660.
+
+Benefits provided – The OPEB plan provides post-retirement health care through two programs in
+accordance with union contracts and Board orders.
+
+The Retiree Health Premium Supplement Program (RHPSP) provides benefits to employees who:
+1) elected to participate or were required to participate, 2) retire on or after July 1, 1990, 3) are between
+the ages of 50 and 64, and 4) have at least 20 years of continuous County service as a permanent
+employee. The supplement amount is permanently fixed once determined and, depending on years of
+service, is equal to 50-100% of the active employee monthly health premium for a single individual at the
+time of retirement.
+
+The Retiree Health Stipend (RHS) provides a stipend to employees who choose continuous County
+health coverage upon retirement. The monthly stipend paid on behalf of each retiree is a maximum of
+$39.75 for single coverage, $53.69 for two-party coverage, and $61.50 for family coverage, limited to the
+cost of the plan selected.
+
+Contributions – Kern Medical’s Actuarially Determined Contribution rate is based off an employer portion
+and employee portion with Kern Medical contributing all of the RHS portion. The employee contribution
+for the RHPSP is 2.12% of covered payroll for a majority of the employee union contracts. Employee and
+employer contributions to the OPEB plan from Kern Medical were approximately $245,000 and $488,000,
+respectively, for the year ended June 30, 2024 and 2023.
+
+
+
+
+                                                     37
+                             Kern County Hospital Authority
+                                 Notes to Financial Statements
+
+
+OPEB liability/(asset), OPEB expense, and deferred outflows of resources and deferred inflows of
+resources relating to OPEB – As of June 30, 2024 and 2023, Kern Medical reported an asset and a
+liability of approximately $1,453,000 and $7,075,000, respectively, for its proportionate share of the net
+OPEB liability. The net OPEB liability/(asset) was measured as of June 30, 2024 and 2023, and the Total
+OPEB Liability (TOL) used to calculate the net OPEB liability/(asset) was determined by an actuarial
+valuation as of these dates. Kern Medical’s proportion of the net OPEB liability/(asset) was based on the
+proportion of TOL for each group, calculated according to classification in census data. As of June 30,
+2024 and 2023, Kern Medical’s proportion was 5.264% and 10.038%, respectively.
+
+For the years ended June 30, 2024 and 2023, Kern Medical recognized OPEB (income) expense of
+approximately $(3,226,220) and $591,000, respectively. As of June 30, 2024 and 2023, Kern Medical
+reported deferred outflows of resources and deferred inflows of resources related to OPEB from the
+following sources:
+
+                                                                                       2024
+                                                                          Deferred                 Deferred
+                                                                         Outflows of              Inflows of
+                                                                         Resources                Resources
+
+Changes in proportion and differences between Kern Medical           $       744,833          $    (1,797,027)
+ contributions and proportionate share of contributions
+Difference between expected and actual experience                             34,885               (1,350,746)
+Net difference between actual over projected
+ earnings on OPEB plan investments                                                 -                  (37,586)
+Changes in assumptions                                                     1,545,453               (1,005,627)
+
+          Total                                                      $     2,325,171          $    (4,190,986)
+
+                                                                                       2023
+                                                                          Deferred                 Deferred
+                                                                         Outflows of              Inflows of
+                                                                         Resources                Resources
+
+Changes in proportion and differences between Kern Medical           $     1,067,937          $      (227,748)
+ contributions and proportionate share of contributions
+Difference between expected and actual experience                            604,147               (1,907,511)
+Net difference between actual over projected
+ earnings on OPEB plan investments                                                 -                        -
+Changes in assumptions                                                     3,900,685                 (516,659)
+
+          Total                                                      $     5,572,769          $    (2,651,918)
+
+
+
+
+                                                    38
+                              Kern County Hospital Authority
+                                Notes to Financial Statements
+
+
+Amounts reported as deferred outflows of resources and deferred inflows of resources related to OPEB
+will be recognized in OPEB expense as follows:
+
+Years Ending June 30,
+2025                                                               $     (146,339)
+2026                                                                        7,488
+2027                                                                     (218,889)
+2028                                                                     (532,478)
+2029                                                                     (564,237)
+Thereafter                                                               (411,360)
+
+                                                                   $   (1,865,815)
+
+Actuarial methods and assumptions – The total OPEB liability/(asset) in the June 30, 2024 actuarial
+valuation was determined using the following assumptions, applied to all periods included in the
+measurement, unless otherwise specified:
+
+Inflation                               2.75%
+
+Payroll growth                          Inflation of 2.50% per year plus “across the board” real
+                                        salary increases of 0.50% per year.
+
+
+Mortality                               Pub-2010 General Healthy Retiree Headcount-Weighted
+                                        Mortality Table, projected generationally with
+                                        two-dimensional mortality improvement scale MP-2021.
+
+
+Discount rate                           6.50%. Based on asset allocation in PARS OPEB Trust
+                                        and understanding that the County of Kern is contributing
+                                        $70 per pay period per eligible employee and eligible
+                                        employees are contributing 2.12% of payroll.
+
+Healthcare cost trend rates
+  Supplement                            7.50% to 2024/2025 grading down by 0.25% per year to
+                                        an ultimate rate of 4.50%. Supplement is fixed for all
+                                        other bargaining units.
+
+   Stipend                              0.00%
+
+The non-health actuarial assumptions used in the June 30, 2024 and 2023 valuations were based on the
+KCERA Experience Study dated May 24, 2023, for the period July 1, 2019, through June 30, 2022.
+
+
+
+
+                                                  39
+                                Kern County Hospital Authority
+                                  Notes to Financial Statements
+
+
+The long-term expected rate of return on OPEB plan investments was determined using a building-block
+method in which expected future real rates of return (expected returns, net of investment expenses and
+inflation) are developed for each major asset class. These returns are combined to produce the long-term
+expected rate of return by weighting the expected future real rates of return by the target asset allocation
+percentage, adding expected inflation and subtracting expected investment expenses and a risk margin.
+The target allocation and projected arithmetic real rates of return for each major asset class, after
+deducting inflation, but before deducting investment expenses, used in the derivation of the long-term
+expected investment rate of return assumption are summarized in the following table:
+
+                                                                         Target         Long-term Expected
+                  Asset Class                                           Allocation      Real Rate of Return
+
+Equity – large cap core                                                  29.09 %                   6.72 %
+Equity – mid cap core                                                     4.38                     6.72
+Equity – small cap core                                                   9.41                     6.72
+Equity – international                                                    5.58                     7.12
+Equity emerging market                                                    3.01                     8.82
+Real estate                                                               2.00                     4.22
+Fixed income – intermediate term bond                                    37.02                     0.72
+Alternatives                                                              5.05                     3.07
+Cash                                                                      4.46                     0.22
+
+          Total                                                            100 %
+
+Discount rate – The discount rate used to measure the TOL was 6.50% as of June 30, 2024 and 2023.
+The projection of cash flows used to determine the discount rate assumed plan member contributions will
+be made at the current contribution rate and that employer contributions will be made at a flat $70 per
+eligible employee per pay period. For this purpose, only employee and employer contributions that are
+intended to fund benefits for current plan members and their beneficiaries are included. Projected
+employer contributions that are intended to fund the service costs for future plan members and their
+beneficiaries, as well as projected contributions from future plan members, are not included. Based on
+those assumptions, the Plan’s Fiduciary Net Position was projected to be available to make all projected
+future benefit payments for current plan members. Therefore, the long-term expected rate of return on
+OPEB plan investments was applied to all periods of projected benefit payments to determine the TOL as
+of June 30, 2024.
+
+Sensitivity of the net OPEB liability/(asset) to changes in the discount rate – The following presents
+the County’s proportionate share of the net OPEB liability/(asset), as well as what the County’s
+proportionate share of the net OPEB liability/(asset) would be if it were calculated using a discount rate
+that is 1-percentage-point lower (5.50%) or 1-percentage-point higher (7.50%) than the current discount
+rate:
+
+                                                    1% Decrease           Current Discount   1% Increase
+                                                      (5.50%)              Rate (6.50%)        (7.50%)
+
+Net OPEB liability/(asset)                         $      (1,057,675)      $   (1,452,817)   $   (1,809,190)
+
+
+
+
+                                                     40
+                               Kern County Hospital Authority
+                                   Notes to Financial Statements
+
+
+Sensitivity of the net OPEB liability/(asset) to changes in the health care cost trend rates – The
+following presents Kern Medical’s proportionate share of the net OPEB liability/(asset), as well as what
+Kern Medical’s proportionate share of the net OPEB liability/(asset) would be if it were calculated using
+health care cost trend rates that are 1 percentage point lower or 1 percentage point higher than the
+current health care cost trend rates:
+
+                                                                              Current
+                                                      1% Decrease          Trend Rates*         1% Increase
+
+Net OPEB liability/(asset)                           $     (1,726,451)    $   (1,452,817)     $    (1,135,551)
+
+
+Note 13 – Self-Insurance Programs
+
+Medical malpractice claims – Kern Medical is self-insured for medical malpractice claims for the first
+$2,000,000 per incident, with a $10,000,000 total maximum policy limitation. Kern Medical also maintains
+excess liability coverage for claims in excess of total maximum policy limitation. Insurance coverage is on
+a claims-made basis.
+
+Accounting principles generally accepted in the United States of America require a health care provider to
+accrue the expense of its share of malpractice claim costs, if any, for any reported and unreported
+incidents of potential improper professional service occurring during the year by estimating the probable
+ultimate costs of the incidents. Annual estimated provisions are accrued based on Kern Medical’s past
+experience as well as other considerations, including the nature of the claim or incident and relevant trend
+factors. Losses from asserted and unasserted claims identified under Kern Medical’s incident reporting
+system are actuarially determined based on Kern Medical’s past experience as well as other
+considerations, including the nature of each claim or incident and relevant trend factors. These unpaid
+claim liabilities were discounted at 3.5% in both 2024 and 2023, to account for the time value of money to
+determine the current estimated liabilities as reflected below. It is reasonably possible that this estimate
+could change materially in the near term.
+
+A reconciliation for professional liability claims (including claims incurred but not reported) for the years
+ended June 30 are as follows:
+
+                                                           2024                2023                 2022
+
+Balance, beginning of year                           $     6,714,868      $    7,565,271       $    7,869,176
+Current year claims incurred and changes in
+ estimates for claims incurred in prior periods             (235,615)           (849,071)            (302,105)
+Claims and expenses paid                                      (1,000)             (1,332)              (1,800)
+Balance, end of year                                 $     6,478,253      $    6,714,868       $    7,565,271
+
+Workers’ compensation claims – Under the California Unemployment and Workers’ Compensation
+Insurance provisions, Kern Medical has elected to pay the actual claims filed for unemployment and
+workers’ compensation benefits. Reinsurance policies have been purchased by Kern Medical for claims
+incurred above selected retention levels for a small portion of enrolled members. The liability associated
+with the self-insurance policies of Kern Medical is based upon Kern Medical’s historical trend analysis and
+includes amounts for claims incurred but not reported.
+                                                      41
+                             Kern County Hospital Authority
+                                  Notes to Financial Statements
+
+
+A reconciliation for workers’ compensation claims (including claims incurred but not reported), for the
+years ended June 30 are as follows:
+
+                                                         2024               2023                2022
+
+Balance, beginning of year                         $     3,981,454     $    5,332,410      $    6,073,555
+Current year claims incurred and changes in
+ estimates for claims incurred in prior periods           714,588          (1,241,029)           (660,887)
+Claims and expenses paid                                  (99,653)           (109,927)            (80,258)
+
+Balance, end of year                               $     4,596,389     $    3,981,454      $    5,332,410
+
+
+Note 14 – Deferred Compensation
+
+Kern Medical offers its employees a deferred compensation plan created by the County in accordance
+with IRC Section 457. The plan, available to all County employees, permits them to defer a portion of their
+salary until future years. The deferred compensation is not available to employees until termination,
+retirement, or unforeseeable emergency. Amounts accumulated under the plan have been invested in
+several investment options at the direction of the employee.
+
+In accordance with requirements of IRC Section 457 and the Small Business Job Protection Act of 1996,
+the assets in the plan were transferred to a trust as approved by the County Board of Supervisors. The
+trust holds the plan assets for the exclusive benefit of the participants and their beneficiaries.
+
+Completed financial statements for the Deferred Compensation Plan may be obtained from the Office of
+the Kern County Treasurer-Tax Collector located at 1115 Truxtun Avenue, Bakersfield, California 93301.
+
+
+Note 15 – Commitments and Contingencies
+
+Litigation – Kern Medical is the subject of certain claims and assessments arising in the normal course of
+its operations. In certain instances, these matters have been tried and awards have been submitted by
+the respective juries and/or courts.
+
+The County, along with seven other counties, is the plaintiff in a case regarding Medi-Cal outpatient
+payment rates for current and prior services. The complaint is that the DHS did not comply with certain
+federal and state requirements in setting current and prior outpatient payment rates. The case was settled
+during the 2005 year in the County’s favor and Kern Medical received one-half of the settlement amount.
+The other half is contingent upon the Federal government’s provision of Federal financial participation for
+the settlement. Therefore, Kern Medical has not accrued any amounts as a result of this settlement.
+
+
+
+
+                                                    42
+                             Kern County Hospital Authority
+                                  Notes to Financial Statements
+
+
+Regulatory matters – The health care industry is subject to numerous laws and regulations of federal,
+state, and local governments. These laws and regulations include, but are not necessarily limited to,
+matters such as licensure, accreditation, governmental health care program requirements, and
+reimbursements for patient services. Government activity has continued with respect to investigations and
+allegations concerning possible violations of fraud and abuse statutes and regulations by health care
+providers. Violations of these laws and regulations could result in expulsion from government health care
+programs together with the imposition of significant fines and penalties, as well as significant repayments
+for patient services previously billed. Management believes that Kern Medical is in compliance with fraud
+and abuse, as well as other applicable government laws and regulations. Compliance with such laws and
+regulations can be subject to future government review and interpretation as well as regulatory action
+unknown or unasserted at this time.
+
+In addition, Kern Medical is subject to changes in government legislation that could impact Medicare and
+Medi-Cal payment levels and is also subject to increased levels of managed care penetration and
+changes in payer patterns that may impact the level and timing of payments for services rendered.
+
+Final determination of amounts earned under prospective payment and cost reimbursement activities is
+subject to review by appropriate governmental authorities or their agents. In the opinion of management,
+adequate provision has been made for any adjustments that could result from such reviews.
+
+
+Note 16 – Construction and Seismic Standards
+
+Under current California laws, Kern Medical’s facilities must comply with specific provisions related to
+structural and nonstructural seismic standards. These laws generally required hospitals to retrofit,
+remodel, or upgrade several buildings before 2013, subject to legislative changes and certain available
+exemptions. Kern Medical is currently working on improvements to noncompliant buildings in order to
+receive exemptions available under current legislation through 2030. Preliminary cost estimates have
+been generated for the plan. Kern is currently working to obtain grant funds for the seismic upgrades.
+
+
+Note 17 – Leases
+
+Kern Medical is a lessee for noncancellable leases of building space and equipment with lease terms
+through 2029. There are no residual value guarantees included in the measurement of Kern Medical’s
+lease liability nor recognized as an expense for the years ended June 30, 2024 and 2023. Kern Medical
+does not have any commitments that were incurred at the commencement of the leases. Kern Medical is
+subject to variable equipment usage payments that are expensed when incurred. There were no amounts
+recognized as variable lease payments as lease expense on the statement of changes of net position for
+the years ended June 30, 2024 and 2023. No termination penalties were incurred during the fiscal year.
+
+
+
+
+                                                    43
+                                   Kern County Hospital Authority
+                                     Notes to Financial Statements
+
+
+Kern Medical has the following right-to-use and lease liability activities as of June 30, 2024:
+
+                                              July 1               Additions             Deletions               June 30
+
+Right-to-use assets
+   Building                              $    11,700,067       $    1,736,543        $     (213,773)         $   13,222,837
+   Equipment                                   1,513,671            6,150,103                     -               7,663,774
+
+       Total right-to-use assets              13,213,738            7,886,646              (213,773)             20,886,611
+
+Less accumulated amortization
+   Building                                    5,277,771            2,081,615              (213,773)              7,145,613
+   Equipment                                     840,928            1,222,069                     -               2,062,997
+
+Net right-to-use assets                   $    7,095,039       $    4,582,962        $               -       $ 11,678,001
+
+Lease liabilities                         $    7,374,990       $    7,757,590        $    (3,089,257)        $ 12,043,323
+
+
+Kern Medical has the following right-to-use and lease liability activities as of June 30, 2023:
+
+                                              July 1               Additions             Deletions               June 30
+
+Right-of-use assets
+   Building                              $    10,266,761       $    1,713,090        $      (279,784)        $   11,700,067
+   Equipment                                   2,822,818                7,646             (1,316,793)             1,513,671
+
+       Total right-to-use assets              13,089,579            1,720,736             (1,596,577)            13,213,738
+
+Less accumulated amortization
+   Building                                    3,827,626            1,729,929               (279,784)             5,277,771
+   Equipment                                   1,297,228              860,493             (1,316,793)               840,928
+
+Net right-to-use assets                  $     7,964,725       $     (869,686)       $               -       $    7,095,039
+
+Lease liabilities                         $    8,344,683       $    1,751,094        $    (2,720,787)        $    7,374,990
+
+
+Kern Medical recognized approximately $3,007,000 and $2,590,000 in amortization expense as of
+June 30, 2024 and 2023, respectively. Amortization expense is included in the depreciation and
+amortization expense on the Statements of Revenues, Expenses, and Changes in Net Position.
+
+The future principal and interest lease payments as of June 30, 2024, were as follows:
+
+                                                       Principal                   Interest                      Total
+Years Ending June 30,
+2025                                               $       3,450,414           $      337,805            $       3,788,219
+2026                                                       3,064,413                  231,389                    3,295,802
+2027                                                       2,296,051                  143,815                    2,439,866
+2028                                                       1,776,082                   78,265                    1,854,347
+2029                                                         903,971                   28,549                      932,520
+Thereafter                                                   552,392                   37,732                      590,124
+
+                                                   $   12,043,323              $      857,555            $   12,900,878
+
+
+
+
+                                                       44
+                                 Kern County Hospital Authority
+                                   Notes to Financial Statements
+
+
+Kern Medical evaluated the right-to-use assets for impairment and determined there was no impairment
+for the year ended June 30, 2024.
+
+
+Note 18 – Subscription-Based Information Technology Arrangements
+
+Kern Medical has the following SBITA asset and liability activities as of June 30, 2024:
+
+                                             July 1              Additions             Deletions               June 30
+
+SBITA assets – software                  $   3,978,352       $               -     $            -          $    3,978,352
+Less accumulated amortization                 (951,969)                      -           (773,296)             (1,725,265)
+
+       Total SBITA assets, net               3,026,383                       -           (773,296)              2,253,087
+
+SBITA liabilities                        $   3,095,103       $         4,929       $     (752,763)         $    2,347,269
+
+
+Kern Medical has the following SBITA asset activities as of June 30, 2023:
+
+                                             July 1              Additions             Deletions               June 30
+
+SBITA assets – software                  $   2,962,452       $    1,015,900        $               -       $    3,978,352
+Less accumulated amortization                 (229,468)            (722,501)                       -             (951,969)
+
+       Total SBITA assets, net               2,732,984               293,399                       -            3,026,383
+
+SBITA liabilities                        $   2,757,409       $    1,015,901        $     (678,207)         $    3,095,103
+
+
+The future principal and interest SBITA payments as of June 30, 2024, were as follows:
+
+                                                      Principal                  Interest                      Total
+Years Ending June 30,
+2025                                             $         754,163           $         64,949          $        819,112
+2026                                                       762,462                     40,485                   802,947
+2027                                                       666,518                     15,823                   682,341
+2028                                                       164,126                      1,336                   165,462
+
+                                                 $       2,347,269           $      122,593            $       2,469,862
+
+
+
+
+                                                      45
+Required Supplementary Information
+                                             Kern County Hospital Authority
+                              Other Post-Employment Benefits
+            Schedule of the Proportionate Share of the Net OPEB Liability (Asset)
+                                      for Kern Medical
+
+
+Last 10 Fiscal Years*
+                                                                                                                          Proportionate
+                                                                                                                           Share of the
+                                                                                                                            Net OPEB           Plan’s Fiduciary
+  Reporting Date                                                                                                           Liability as a      Net Position as
+   for Employer           Measurement            Proportion               Proportionate                                  Percentage of its      a Percentage
+  under GASB 75            Date as of            of the Net               Share of Net           Covered-Employee       Covered-Employee         of the Total
+   as of June 30            June 30          OPEB Liability/(Asset)    OPEB Liability/(Asset)         Payroll                 Payroll        OPEB Liability/(Asset)
+
+       2018                   2018                    7.2%             $            4,306,044    $       48,177,262            8.9%                 56.6%
+       2019                   2019                    7.5%             $            3,772,716    $       49,863,466            7.6%                 62.7%
+       2020                   2020                    8.1%             $            3,753,285    $       27,390,597           13.7%                 66.0%
+       2021                   2021                    8.2%             $            1,653,757    $       26,173,524            6.3%                 84.9%
+       2022                   2022                    9.8%             $            7,216,964    $       23,920,585           30.2%                 57.5%
+       2023                   2023                   10.0%             $            7,075,072    $       25,712,458           27.5%                 60.5%
+       2024                   2024                    5.3%             $           (1,452,817)   $       25,670,590            5.7%                 128.9%
+
+*Based on the total covered employee payroll for employees classified as Kern Medical in the census data. Fiscal year
+2018 was the first year of implementation; therefore, only seven years are presented.
+
+
+
+
+                                          See accompanying report of independent auditors.
+                                                               47
+                                   Kern County Hospital Authority
+                                 Pension Plan
+Schedule of the Proportionate Share of the Net Pension Liability for Kern Medical
+
+
+Last 10 Fiscal Years
+
+                                                                                    Proportionate
+                                                                                     Share of the
+                                                                                     Net Pension       Plan’s Fiduciary
+  Reporting Date                                                                     Liability as a    Net Position as
+   for Employer          Proportion         Proportionate          County’s        Percentage of its    a Percentage
+  under GASB 68          of the Net         Share of Net       Covered-Employee   Covered-Employee       of the Total
+   as of June 30       Pension Liability   Pension Liability        Payroll             Payroll        Pension Liability
+
+       2015                15.97%          $    330,492,938    $     77,008,989       429.16%              62.95%
+       2016                15.67%          $    345,262,534    $     81,925,123       421.44%              61.87%
+       2017                13.67%          $    329,935,445    $     78,433,199       420.66%              59.37%
+       2018                12.41%          $    293,255,458    $     78,815,070       372.08%              62.49%
+       2019                13.18%          $    307,234,709    $     89,068,706       344.94%              64.19%
+       2020                13.52%          $    322,103,797    $     93,857,773       343.18%              64.43%
+       2021                14.32%          $    381,152,811    $    104,248,078       365.62%              62.00%
+       2022                15.04%          $    284,243,193    $    107,477,006       264.47%              73.38%
+       2023                14.51%          $    345,399,109    $    106,790,632       323.44%              67.86%
+       2024                13.69%          $    344,447,058    $    116,976,730       323.44%              68.52%
+
+
+
+
+                                 See accompanying report of independent auditors.
+                                                      48
+                                    Kern County Hospital Authority
+                                             Pension Plan
+                               Schedule of Contributions for Kern Medical
+
+
+Last 10 Fiscal Years
+
+  Reporting Date                                                                                             Contributions as
+   for Employer             Actuarially                               Contribution        Kern Medical’s     a Percentage of
+  under GASB 68            Determined           Kern Medical’s         Deficiency        Covered-Employee   Covered-Employee
+   as of June 30           Contribution          Contribution          (Excess)               Payroll            Payroll
+
+       2015            $       26,665,873   $        26,665,873   $                  -   $     77,008,989        34.63%
+       2016            $       26,558,513   $        26,558,513   $                  -   $     81,925,123        32.42%
+       2017            $       26,222,853   $        26,222,853   $                  -   $     78,433,199        33.43%
+       2018            $       28,411,580   $        28,411,580   $                  -   $     78,815,070        36.05%
+       2019            $       30,922,108   $        30,922,108   $                  -   $     89,068,706        34.72%
+       2020            $       29,801,356   $        29,801,356   $                  -   $     93,857,773        31.75%
+       2021            $       38,354,347   $        38,354,347   $                  -   $    104,248,078        36.79%
+       2022            $       38,713,478   $        38,713,478   $                  -   $    107,477,006        36.02%
+       2023            $       40,768,957   $        40,768,957   $                  -   $    106,790,632        38.18%
+       2024            $       44,690,354   $        44,690,354   $                  -   $    116,976,730        38.20%
+
+
+
+
+                                  See accompanying report of independent auditors.
+                                                       49
+Report of Independent Auditors on Internal Control Over Financial Reporting
+and on Compliance and Other Matters Based on an Audit of Financial
+Statements Performed in Accordance with Government Auditing Standards
+
+
+The Board of Governors
+Kern County Hospital Authority
+We have audited, in accordance with the auditing standards generally accepted in the United States
+of America and the standards applicable to financial audits contained in Government Auditing
+Standards issued by the Comptroller General of the United States, the consolidated financial
+statements of Kern County Hospital Authority, which comprise the consolidated statements of net
+position as of and for the year ended June 30, 2024 and the related consolidated statements of
+revenues, expenses, and changes in net position and cash flows for the year then ended, and the
+related notes to the financial statements, which collectively comprise Kern County Hospital Authority’s
+basic financial statements, and have issued our report thereon dated December 23, 2024.
+
+Report on Internal Control Over Financial Reporting
+In planning and performing our audit of the financial statements, we considered Kern County Hospital
+Authority’s internal control over financial reporting (internal control) as a basis for designing audit
+procedures that are appropriate in the circumstances for the purpose of expressing our opinion on the
+financial statements, but not for the purpose of expressing an opinion on the effectiveness of Kern
+County Hospital Authority’s internal control. Accordingly, we do not express an opinion on the
+effectiveness of Kern County Hospital Authority’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees, in the normal course of performing their assigned functions, to prevent,
+or detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a
+combination of deficiencies, in internal control such that there is a reasonable possibility that a
+material misstatement of the entity’s financial statements will not be prevented, or detected and
+corrected, on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies,
+in internal control that is less severe than a material weakness, yet important enough to merit
+attention by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of
+this section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify
+any deficiencies in internal control that we consider to be material weaknesses. However, material
+weaknesses or significant deficiencies may exist that were not identified.
+
+
+
+
+                                                    50
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether Kern County Hospital Authority’s financial
+statements are free from material misstatement, we performed tests of its compliance with certain
+provisions of laws, regulations, contracts, and grant agreements, noncompliance with which could
+have a direct and material effect on the financial statements. However, providing an opinion on
+compliance with those provisions was not an objective of our audit, and accordingly, we do not
+express such an opinion. The results of our tests disclosed no instances of noncompliance or other
+matters that are required to be reported under Government Auditing Standards.
+
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the
+entity’s internal control or on compliance. This report is an integral part of an audit performed in
+accordance with Government Auditing Standards in considering the entity’s internal control and
+compliance. Accordingly, this communication is not suitable for any other purpose.
+
+
+
+
+Los Angeles, California
+December 23, 2024
+
+
+
+
+                                                  51
+

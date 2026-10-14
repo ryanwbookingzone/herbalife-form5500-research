@@ -160,11 +160,53 @@ python3 quick_screen_pipeline.py
 | UC hospitals | UC Health | YES | YES |
 | Children's Hospital LA | - | YES (51%) | NO |
 
+## Self-Insurance Reserves (Captive Opportunity Sizing)
+
+Self-insurance reserves from audit risk management notes size the captive insurance opportunity. Data includes:
+- **Professional/General Liability Reserve** - Malpractice and general liability claims
+- **Workers' Compensation Reserve** - Self-insured WC claims
+- **Employee Health IBNR** - Incurred but not reported claims for self-insured health plans
+- **Self-Insurance Trust Fund Balance** - Assets held for claims
+
+### Self-Insurance Reserves Summary - 18 Targets
+
+| System | State | Operating Cash+Inv | Total SI Reserves | Prof Liab | Workers Comp | Health IBNR | Source |
+|--------|-------|-------------------|-------------------|-----------|--------------|-------------|--------|
+| Alameda Health System | CA | $31.8M | **$56.3M** | $20.0M | $20.0M | $16.3M | [FY25 Audit](http://www.alamedahealthsystem.org/wp-content/uploads/2026/01/2026-01-07-BOT-Special-Meeting-Boardbook-rev2.pdf) |
+| Kern County Hospital Authority | CA | $174.8M | **$11.1M** | $6.5M | $4.6M | - | [FY24 Audit Note 13](https://www.kernmedical.com/documents/Kern-County-Hospital-Authority-FY-2024-Audited-FS-Final-12.23.24.pdf) |
+| Tahoe Forest Hospital District | CA | $174.2M | **$8.0M** | - | $4.0M | $4.0M | [FY24 Audit Note 9](https://www.tfhd.com/wp-content/uploads/2025/09/0.-Tahoe-Forest-Hospital-District-6-30-24-FS-Issued-10-29-24.pdf) |
+| Lompoc Valley Medical Center | CA | $25.9M | **$1.5M** | $10K | $1.5M | - | [FY24 Audit](https://www.lompocvmc.com/files/95f1acfc1/LHDafs24.2%29.pdf) |
+| Northern Inyo Healthcare District | CA | $39.6M | **$1.1M** | - | - | $1.1M | [FY25 Audit](https://www.nih.org/documents/2026/Financials/NIHD-Signed-Financial-Statements-FY25.pdf) |
+| Southern Mono Healthcare District | CA | $152.8M | **$934K** | - | - | $934K | [Mammoth Hospital Financials](https://www.mammothhospital.com/about-us/financials/) |
+| Kaweah Delta Health Care District | CA | $269.8M | Trust: $827K | - | - | - | [FY24 Audit](https://www.kaweahhealth.org/about-us/board-of-directors/audited-financials/) |
+| San Benito Health Care District | CA | $38.8M | **$500K** | - | - | $500K | [FY24 Audit](https://www.hazelhawkins.com/images/FY24-Audited-Financial-Statement.pdf) |
+| Modoc Medical Center | CA | $37.9M | **$5K** | $5K | - | - | [FY24 Audit Note 13](https://modocmedicalcenter.org/wp-content/uploads/2026/05/Last-Frontier-Healthcare-District-6.30.24-Issued-FS.pdf) |
+| Riverside University Health System | CA | $265.8M | County ISF | County | County | County | [FY24 County ACFR](https://auditorcontroller.org/sites/g/files/aldnop171/files/2025-01/FY24%20ACFR%20%28Final%29.pdf) |
+| Contra Costa Regional Medical Center | CA | $103.3M | County ISF | County | County | County | [FY24 County Budget](https://www.contracosta.ca.gov/DocumentCenter/View/83766/FY24-25-Adopted-Budget-Book) |
+| Pioneers Memorial | CA | $46.9M | BETA pool | - | - | - | BETA participant |
+| Bear Valley | CA | $43.7M | BETA pool | - | - | - | BETA participant |
+| Fairchild | CA | $44.9M | Commercial | - | - | - | Commercial insurance |
+| San Bernardino Mountains | CA | $43.4M | Commercial | - | - | - | Commercial insurance |
+| San Gorgonio | CA | $37.3M | Commercial | - | - | - | Commercial insurance |
+| Mayers Memorial | CA | $36.6M | Commercial | - | - | - | Commercial insurance |
+| Oak Valley | CA | $30.2M | BETA pool | - | - | - | BETA participant |
+
+**Totals:** $1.60B operating cash+investments, **$79.4M disclosed self-insurance reserves**
+
+### Key Findings
+
+1. **Alameda Health System** has the largest self-insurance exposure ($56.3M) despite smaller operating investments - significant captive opportunity
+2. **Kern County Hospital Authority** has material malpractice ($6.5M) and workers' comp ($4.6M) reserves - audit-verified
+3. **Tahoe Forest** self-insures employee health and workers' comp with $8M IBNR
+4. **County systems** (Riverside, Contra Costa) route self-insurance through County internal service funds
+5. **BETA participants** (Pioneers, Bear Valley, Oak Valley) pool malpractice risk through Beta Healthcare Group
+6. **Small districts** (Fairchild, San Bernardino Mountains, San Gorgonio, Mayers) use commercial insurance
+
 ## Data Storage
 
 Results are stored in Frappe as:
 - **BZ Company Listing** - Entity record
-- **BZ Source Financial Fact** - Evidence records with source URL, page reference, and quote
+- **BZ Source Financial Fact** - Evidence records with source URL, page reference, and quote (including self_insurance category)
 
 ## Audit Sources by Type
 

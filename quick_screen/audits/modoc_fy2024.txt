@@ -1,0 +1,1785 @@
+      Last Frontier
+Healthcare District
+  Financial Statements and Supplementary Information
+
+                  Years Ended June 30, 2024 and 2023
+Independent Auditor's Report
+
+Board of Directors
+Last Frontier Healthcare District
+Alturas, California
+
+Report on the Audit of the Financial Statements
+
+Opinion
+
+We have audited the accompanying financial statements of Last Frontier Healthcare District (the "District"),
+which comprise the statements of net position as of June 30, 2024 and 2023, and the related statements of
+revenues, expenses, and changes in net position, and cash flows for the years then ended, and the related notes
+to the financial statements.
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial
+position of Last Frontier Healthcare District as of June 30, 2024 and 2023, and the changes in financial position
+and its cash flows for the years then ended in accordance with accounting principles generally accepted in the
+United States of America (''GAAP'').
+
+Basis for Opinion
+
+We conducted our audits in accordance with auditing standards generally accepted in the United States of
+America ("GAAS") and the standards applicable to financial audits contained in Government Auditing Standards
+(Government Auditing Standards), issued by the Comptroller General of the United States. Our responsibilities
+under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial
+Statements section of our report. We are required to be independent of Last Frontier Healthcare District and to
+meet our other ethical responsibilities, in accordance with the relevant ethical requirements relating to our
+audits. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for
+our audit opinion.
+
+Emphasis of Matter
+
+As described in Note 1 to the financial statements, Last Frontier Healthcare District adopted new accounting
+guidance, GASB Statement No. 96 - Subscription-Based Information Technology Arrangements. Our opinion is not
+modified with respect to this matter.
+
+
+
+
+                                                                                                                     1
+Responsibilities of Management for the Financial Statements
+
+Management is responsible for the preparation and fair presentation of the financial statements in accordance
+with GAAP, and for the design, implementation, and maintenance of internal control relevant to the preparation
+and fair presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+
+In preparing the financial statements, management is required to evaluate whether there are conditions or
+events, considered in the aggregate, that raise substantial doubt about Last Frontier Healthcare District's ability
+to continue as a going concern for twelve months beyond the financial statement date, including any currently
+known information that may raise substantial doubt shortly thereafter.
+
+Auditor's Responsibilities for the Audit of the Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our
+opinion. Reasonable assurance is a high level of assurance, but is not absolute assurance and, therefore, is not a
+guarantee that an audit conducted in accordance with GAAS and Government Auditing Standards will always
+detect a material misstatement when it exists. The risk of not detecting a material misstatement resulting from
+fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions,
+misrepresentations, or the override of internal control. Misstatements are considered material if there is a
+substantial likelihood that, individually or in the aggregate, they would influence the judgment made by a
+reasonable user based on the financial statements.
+
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+
+      Exercise professional judgment and maintain professional skepticism throughout the audit.
+
+      Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or
+       error, and design and perform audit procedures responsive to those risks. Such procedures include
+       examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+
+      Obtain an understanding of internal control relevant to the audit in order to design audit procedures that
+       are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+       effectiveness of Last Frontier Healthcare District’s internal control. Accordingly, no such opinion is
+       expressed.
+
+      Evaluate the appropriateness of accounting policies used and the reasonableness of significant accounting
+       estimates made by management, as well as evaluate the overall presentation of the financial statements.
+
+      Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that raise
+       substantial doubt about Last Frontier Healthcare District's ability to continue as a going concern for a
+       reasonable period of time.
+
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters that
+we identified during the audit.
+
+
+                                                                                                                      2
+Required Supplementary Information
+GAAP require that a management discussion and analysis ("MD&A") on pages 4 through 8 be presented to
+supplement the basic financial statements. Such information is the responsibility of management and, although
+not a part of the basic financial statements, is required by the Governmental Accounting Standards Board who
+considers it to be an essential part of financial reporting for placing the financial statements in an appropriate
+operational, economic, or historical context. We have applied certain limited procedures to the required
+supplementary information in accordance with GAAS, which consisted of inquiries of management about the
+methods of preparing the information and comparing the information for consistency with management's
+responses to our inquires, the financial statements, and other knowledge we obtained during our audit of the
+financial statements. We do not express an opinion or provide any assurance on the information because the
+limited procedures do not provide us with sufficient evidence to express an opinion or provide any assurance.
+
+Supplementary Information
+Our audits were conducted for the purpose of forming an opinion on the financial statements as a whole. The
+accompanying schedule of expenditures of federal awards is presented for purposes of additional analysis as
+required by Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost
+Principles, and Audit Requirements for Federal Awards, and is not a required part of the financial statements
+part of the financial statements. Such information is the responsibility of management and was derived from and
+relates directly to the underlying accounting and other records used to prepare the financial statements. The
+information has been subjected to the auditing procedures applied in the audits of the financial statements and
+certain additional procedures, including comparing and reconciling such information directly to the underlying
+accounting and other records used to prepare the financial statements or to the financial statements themselves,
+and other additional procedures in accordance with GAAS. In our opinion, the information is fairly stated in all
+material respects in relation to the financial statements as a whole.
+
+Other Reporting Required by Government Auditing Standards
+
+In accordance with Government Auditing Standards, we have also issued our report dated January 15, 2025, on
+our consideration of the District's internal control over financial reporting and on our tests of its compliance with
+certain provisions of laws, regulations, contracts and grant agreements and other matters. The purpose of that
+report is solely to describe the scope of our testing of internal control over financial reporting and compliance
+and the results of that testing, and not to provide an opinion on the effectiveness of Last Frontier Healthcare
+District's internal control over financial reporting or on compliance. That report is an integral part of an audit
+performed in accordance with Government Auditing Standards in considering the District's internal control over
+financial reporting and compliance.
+
+
+
+
+Wipfli LLP
+
+Spokane, Washington
+January 15, 2025
+
+
+
+
+                                                                                                                     3
+                            Last Frontier Healthcare District
+                             Management's Discussion and Analysis
+                                     Years Ended June 30, 2024, 2023, and 2022
+
+Introduction
+
+Last Frontier Healthcare District (the “District”), offers readers of our financial statements this narrative overview
+and analysis of the financial activities of the District for the fiscal years ended June 30, 2024, 2023, and 2022.
+Readers can review the audited financial statements and accompanying notes to the financial statements to
+enhance their understanding of the District's financial performance.
+
+The District is a municipal corporation that operates a critical access hospital (CAH), a distinct-part skilled nursing
+facility (SNF), two rural health clinics (RHCs), an ambulance service, and a retail pharmacy. The District is licensed
+for eight hospital beds and 50 long-term care beds. Hospital services include 24-hour emergency care, general
+surgery, physical therapy, diagnostic laboratory and radiology, outpatient IV infusion, general acute care, and
+swing bed services. The District serves a large geographic region that is roughly 35 miles in all directions and has
+a population of approximately 3,500 people.
+
+The District operates a hospital designated as a CAH. CAH status has had and continues to have a favorable
+impact on the District’s finances inasmuch as CAH Medicare and Medi-Cal reimbursements are cost-based and
+therefore typically higher than what the District would otherwise receive under prospective payment system
+(PPS) reimbursement methodology. The District receives property tax revenue on assessed property within the
+District’s boundaries to support operations. During the years ended June 30, 2024 and 2023, the District received
+property tax revenue of $2,196,850 and $2,293,465, respectively.
+
+The District is governed by an elected five-member Board of Directors. Day-to-day operations are managed by
+the Chief Executive Officer. The District employed approximately 205 full-time equivalent employees on
+June 30, 2024, and had an annual payroll of approximately $15.2 million, not including benefits.
+
+Overview of the Financial Statements
+
+This discussion and analysis is intended to serve as an introduction to the District's audited financial statements.
+The financial statements comprise the statements of net position; revenues, expenses, and changes in net
+position; and cash flows. The financial statements also include notes to the financial statements that explain in
+more detail some of the information in the financial statements. The financial statements are designed to
+provide readers with a broad overview of the District's finances.
+
+Required Financial Statements
+
+The District's financial statements report information of the District using accounting methods similar to those
+used by private-sector healthcare organizations. These statements offer short-term and long-term information
+about its activities. The statements of net position include all of the District’s assets and liabilities and provide
+information about the nature and amounts of investments in resources (assets) and the obligations to the
+District’s creditors (liabilities). The statements of net position also provide the basis for evaluating the capital
+structure of the District and assessing the liquidity and financial flexibility of the District.
+
+
+
+
+                                                                                                                        4
+                            Last Frontier Healthcare District
+                   Management's Discussion and Analysis (Continued)
+                                    Years Ended June 30, 2024, 2023, and 2022
+
+Required Financial Statements (Continued)
+
+All of the revenue and expenses for the years ended June 30, 2024 and 2023, are accounted for in the statements
+of revenues, expenses, and changes in net position. These statements can be used to determine whether the
+District has successfully recovered all of its costs through its patient and resident service revenue and other
+revenue sources.
+
+Revenue and expenses are reported on an accrual basis, which means the related cash could be received or paid
+in a different period.
+
+The final required statements are the statements of cash flows, which report cash receipts, cash payments, and
+net changes in cash resulting from operating, investing, and financing activities. They also provide answers to
+such questions as where did cash come from, what was cash used for, and what was the change in the cash
+balance during the reporting period.
+
+Financial Highlights Executive Overview
+
+The District's financial performance as of the fiscal year ended June 30, 2024, resulted in an excess of revenue
+over expenses of $7,010,344. The profit was driven largely by an increased gain from operations over the prior
+year of approximately $4.9 million.
+
+The District’s gain from operations was $4,225,209 in 2024, while the District’s loss from operations was
+$674,680 in 2023, and the District's loss from operations was $337,381 in 2022.
+
+During 2024, excess of revenue over expenses totaled $7,010,344, while during 2023 and 2022 excess of
+expenses over revenue totaled $2,083,334 and $1,300,719, respectively.
+
+Financial Analysis of the District
+
+The statements of net position and the statements of revenues, expenses, and changes in net position report the
+net position of the District and the changes in net position. The District's net position, the difference between
+assets and liabilities, is a way to measure the financial health or financial position of an organization. Over time,
+sustained increases or decreases in the District's net position are one indicator of whether its financial health is
+improving or deteriorating. However, other nonfinancial factors, such as changes in economic condition,
+population growth, and new or changed legislation, should also be considered.
+
+
+
+
+                                                                                                                    5
+                            Last Frontier Healthcare District
+                     Management's Discussion and Analysis (Continued)
+                                    Years Ended June 30, 2024, 2023, and 2022
+
+                                       Condensed Statements of Net Position
+                                                 (In Thousands)
+                                                                                             Change
+June 30,                                 2024            2023           2022         2024-2023    2023-2022
+
+Other assets                       $       46,587 $         45,417 $      46,344 $         1,170 $          (927)
+Capital assets - Net                       63,289           50,691        48,418          12,598           2,273
+
+Total assets                       $      109,876 $         96,108 $      94,762 $        13,768 $         1,346
+
+Other liabilities                  $       10,425 $          3,291 $       3,503 $         7,134 $          (212)
+Long-term liabilities                      32,744           33,120        33,645            (376)           (525)
+
+Total liabilities                          43,169           36,411        37,148           6,758            (737)
+
+Net position:
+    Net investment in capital
+    assets                                 24,162           17,046        14,263           7,116           2,783
+    Restricted                              1,203              600         1,393             603            (793)
+    Unrestricted                           41,342           42,051        41,958            (709)             93
+
+Total net position                         66,707           59,697        57,614           7,010           2,083
+
+Total liabilities and net position $      109,876 $         96,108 $      94,762 $        13,768 $         1,346
+
+The District's net position reflects an increase, as discussed below:
+
+   Other assets increased by approximately $1,170,000 in 2024 and decreased by $927,000 in 2023. The
+    increase in 2024 corresponds with an increase in net patient and resident account receivables Investments
+    and prepaids expenses
+
+ Capital assets consisted of depreciable and nondepreciable capital assets. Total capital assets increased by
+  $12,598,000 in 2024 due to the capitalization of construction in progress for the new SNF building and
+  subscription-based technology arrangements.
+
+
+
+
+                                                                                                                 6
+                           Last Frontier Healthcare District
+                  Management's Discussion and Analysis (Continued)
+                                  Years Ended June 30, 2024, 2023, and 2022
+
+The following table presents a summary of the statements of revenues, expenses, and changes in net position for
+the years ended June 30, 2024, 2023, and 2022:
+
+                 Condensed Statements of Revenues, Expenses, and Changes in Net Position
+                                            (In Thousands)
+                                                                                       Change
+Years Ended June 30,               2024           2023           2022        2024-2023      2023-2022
+
+Revenue:
+   Net patient and resident
+   service revenue                $      42,578 $        37,536 $        34,631 $         5,042 $         2,905
+   Other revenue                          3,838           3,245           3,041             593             204
+
+Total revenue                            46,415          40,781          37,672           5,634           3,109
+
+Expenses:
+   Salaries                              15,190          13,795          12,127           1,395           1,668
+   Benefits                               4,886           4,654           3,910             232             744
+   Professional fees                      8,672           9,828           9,226          (1,156)            602
+   Supplies                               6,591           6,656           6,563             (65)             93
+   Purchased services                     1,965           2,006           1,999             (41)              7
+   Depreciation                           2,512           2,094           2,092             418               2
+   Other expenses                         2,374           2,423           2,093             (49)            330
+
+Total expenses                           42,190          41,456          38,010             734           3,446
+
+Income (loss) from operations             4,225            (675)           (338)          4,900            (337)
+Nonoperating revenue - Net                2,785           2,758           1,638              27           1,120
+
+Excess of revenue over
+expenses                                  7,010           2,083           1,300           4,927            783
+Net position at beginning of
+year                                     59,697          57,614          56,314           2,083           1,300
+
+Net position at end of year       $      66,707 $        59,697 $        57,614 $         7,010 $         2,083
+
+Net patient service revenue increased by 13.4% in 2024. The increase was due to various volume decreases and
+increases across the various departments of the District.
+
+Nonoperating revenue increased by 1.0% in 2024. This was caused by a increase in interest income.
+
+Salaries and benefits increased in 2024 by 8.8% because of rate increases from the District's health insurance
+provider, annual raises, and minimum wage increases. The total number of FTEs was 205.0, 202.2, and 192.2 in
+2024, 2023, and 2022, respectively.
+
+
+                                                                                                                 7
+                             Last Frontier Healthcare District
+                   Management's Discussion and Analysis (Continued)
+                                    Years Ended June 30, 2024, 2023, and 2022
+
+Total operating expenses increased 1.8% from 2023 to 2024, compared with a 9.1% increase in the previous year
+from 2022 to 2023. Supplies expense saw a 1.0% decrease from 2023 to 2024. This was caused mostly by
+increased supplies relating to the COVID-19 pandemic and increased pharmaceutical costs in the prior year. In
+addition to these expenses, the District experienced decreases in the fees related to physician coverage in the
+clinic and hospital of 11.7% which are also categorized as professional fees on the financial statements.
+
+Items Affecting Operations
+
+The challenges facing the District this fiscal period are largely similar, although varying in degree of intensity, to
+those issues facing the healthcare industry in general and for small rural hospitals in particular. Where the
+immediate environment and circumstances uniquely influence the District, these areas are also highlighted in the
+discussion below:
+
+    Reimbursement: Medicare and Medi-Cal programs continue to look for ways to reduce reimbursement.
+
+    Indigent and Uncompensated Care: High uncompensated care continues to grow as eligibility requirements
+    are raised for government-funded programs.
+
+    Primary Care Physician Shortage: The entire nation is facing an extreme shortage in primary care physicians
+    who are available to see patients. This issue will continue to worsen as our population ages and demand for
+    these services continues to grow.
+
+    Labor: Nursing and some technician positions continue to be difficult to recruit and retain, especially to the
+    remote location of the District.
+
+In summary, multiple external factors continue to challenge small rural hospitals, with continuing declines in
+reimbursement, shortages of key clinical staff, increases in uncompensated care, and ongoing labor and health
+insurance issues. Consequently, the District and its employees are actively working to improve their clinical care
+and service to their patients and community while striving to improve their overall fiscal performance.
+
+Contacting the District's Finance Management
+
+This financial report provides the District’s patients, citizens, taxpayers, investors, and creditors with a general
+overview of the District’s finances and shows the District’s accountability for the money it receives. For questions
+regarding this report or for additional financial information, please contact:
+
+                                 Modoc Medical Center
+                                 PO Box 190
+                                 Alturas, CA 96101
+                                 530-708-8801
+
+
+
+
+                                                                                                                     8
+                         Last Frontier Healthcare District
+                                   Statements of Net Position
+
+June 30,                                                             2024          2023
+
+Current assets:
+    Cash and cash equivalents                                   $    1,489,636 $ 1,652,651
+    Investments and assets limited to use                           35,207,420   34,684,742
+    Receivables:
+        Patient and resident accounts - Net                          6,685,250    6,643,364
+        Other accounts receivable                                      856,579      858,854
+        Estimated third-party payor settlements                              -      151,108
+    Inventories                                                        414,895      432,608
+    Prepaid expenses                                                   730,942      393,451
+
+       Total current assets                                         45,384,722   44,816,778
+
+Noncurrent assets:
+   Restricted cash and cash equivalents                              1,202,570      600,354
+   Nondepreciable capital assets                                    20,997,651    7,488,307
+   Depreciable capital assets - Net                                 42,291,518   43,202,227
+
+       Noncurrent assets - Net                                      64,491,739   51,290,888
+
+TOTAL ASSETS                                                    $ 109,876,461 $ 96,107,666
+
+
+
+
+                                                                                          9
+                               Last Frontier Healthcare District
+                               Statements of Net Position (Continued)
+
+June 30,                                                                2024           2023
+
+Current liabilities:
+    Accounts payable                                              $     7,143,055 $    1,319,143
+    Accrued salaries, payroll taxes, and benefits                       1,043,961        963,127
+    Accrued interest                                                      476,100        483,647
+    Current portion of long-term debt                                     539,000        525,000
+    Current maturities of subscription-based liabilities                  633,275              -
+    Estimated third -party payor settlements                              589,609              -
+
+        Total current liabilities                                     10,425,000       3,290,917
+
+Noncurrent liabilities:
+   Long-term debt, less current portion                               32,581,000      33,120,000
+   Subscription-based liabilities, less current portion                  163,368               -
+
+           Total noncurrent liabilities                               32,744,368      33,120,000
+
+           Total liabilities                                          43,169,368      36,410,917
+
+Net position:
+    Net investment in capital assets                                  24,162,335      17,045,534
+    Restricted by lenders for debt service                             1,202,570         600,354
+    Unrestricted                                                      41,342,188      42,050,861
+
+        Total net position                                            66,707,093      59,696,749
+
+TOTAL LIABILITIES AND NET POSITION                                $ 109,876,461 $ 96,107,666
+
+See accompanying notes to financial statements.
+
+
+
+
+                                                                                              10
+                          Last Frontier Healthcare District
+         Statements of Revenues, Expenses, and Changes in Net Position
+
+Years Ended June 30,                                          2024         2023
+
+Operating revenue:
+   Net patient and resident service revenue             $ 42,576,619 $ 37,535,501
+   Other revenue                                           3,838,210    3,245,832
+
+        Total operating revenue                           46,414,829      40,781,333
+
+Operating expenses:
+   Salaries                                               15,190,038      13,794,981
+   Benefits                                                4,885,505       4,653,637
+   Professional fees                                       8,672,242       9,828,316
+   Supplies                                                6,590,927       6,655,880
+   Purchased services                                      1,964,695       2,005,626
+   Depreciation                                            2,512,449       2,094,422
+   Other expenses                                          2,373,764       2,423,151
+
+        Total operating expenses                          42,189,620      41,456,013
+
+Gain (loss) from operations                                   4,225,209     (674,680)
+
+Nonoperating revenue (expenses):
+   Property tax revenue                                     2,196,850      2,293,465
+   Investment income                                        1,266,831        593,233
+   Noncapital grants and contributions                        334,297        890,454
+   Interest expense                                        (1,012,843)    (1,016,896)
+   Other expenses                                                   -         (2,242)
+
+        Total nonoperating revenue - Net                      2,785,135    2,758,014
+
+Excess of revenue over expenses                            7,010,344       2,083,334
+Net position at beginning of year                         59,696,749      57,613,415
+
+Net position at end of year                             $ 66,707,093 $ 59,696,749
+
+See accompanying notes to financial statements.
+
+
+
+
+                                                                                  11
+                           Last Frontier Healthcare District
+                                      Statements of Cash Flows
+
+Years Ended June 30,                                                                   2024           2023
+
+Change in cash and cash equivalents:
+   Cash flows from operating activities:
+       Cash received from and on behalf of patients and third-party payors       $ 43,275,450 $ 38,739,984
+       Receipts from other operating revenue                                         3,441,263    3,119,807
+       Payments to employees for salaries and benefits                             (19,994,709) (18,220,003)
+       Payments to suppliers, contractors, and others                              (14,097,495) (21,139,161)
+
+    Net cash provided by operating activities                                        12,624,509      2,500,627
+
+    Cash flows from noncapital financing activities:
+       Cash received from property tax revenue                                        2,532,561      2,292,525
+       Cash received from grants and stimulus funding                                   334,297        888,212
+
+    Net cash provided by noncapital financing activities                              2,866,858      3,180,737
+
+    Cash flows from capital and related financing activities:
+       Interest paid on debt                                                          (1,146,288)    (1,024,227)
+       Purchase of capital assets                                                    (13,859,993)    (4,367,258)
+       Principal payments on long-term debt and SBITAs                                  (853,549)      (510,000)
+
+    Net cash used in capital and related financing activities                        (15,859,830)    (5,901,485)
+
+    Cash flows from investing activities:
+       Payments for investment purchases                                              (3,375,778)   (25,273,112)
+       Interest received                                                               1,330,342        593,233
+
+    Net cash used in investing activities                                             (2,045,436)   (24,679,879)
+
+Net change in cash and cash equivalents                                              (2,413,899)    (24,900,000)
+Cash and cash equivalents at beginning of year                                       10,254,118      35,154,118
+
+Cash and cash equivalents at end of year                                         $    7,840,219 $ 10,254,118
+
+Reconciliation of cash and cash equivalents to the statements of net position:
+
+Current cash and cash equivalents                                                $    1,489,636 $    1,652,651
+Cash included in investments and assets limited as to use                             5,148,013      8,001,113
+Noncurrent cash and cash equivalents - Restricted by lenders for debt service         1,202,570        600,354
+
+Totals                                                                           $    7,840,219 $ 10,254,118
+
+
+
+
+                                                                                                             12
+                           Last Frontier Healthcare District
+                            Statements of Cash Flows (Continued)
+
+Years Ended June 30,                                                                   2024         2023
+
+Reconciliation of gain (loss) from operations to net cash provided by operating
+activities:
+    Gain (loss) from operations                                                   $   4,225,209 $    (674,680)
+
+    Adjustments to reconcile (gain) loss from operations to net cash provided
+    by operating activities:
+        Depreciation                                                                  2,512,449     2,094,422
+        Provision for bad debts                                                       2,382,688      (198,348)
+       Changes in assets and liabilities:
+            Patient and resident accounts receivable                                  (2,424,574)     175,853
+            Other accounts receivable                                                   (396,947)    (126,025)
+            Estimated third-party payor settlements                                      740,717    1,226,978
+            Inventories                                                                   17,713       54,237
+            Prepaid expenses                                                            (337,491)     168,184
+            Accounts payable                                                           5,823,912     (448,609)
+            Accrued salaries, payroll taxes, and benefits                                 80,833      228,615
+
+                Total adjustments                                                     8,399,300     3,175,307
+
+    Net cash provided by operating activities                                     $ 12,624,509 $    2,500,627
+
+Supplemental disclosure of significant noncash financing activities:
+
+Construction in progress in accounts payable                                      $   5,210,191 $           -
+Assets financed with subscription-based information technology arrangements           4,688,499             -
+
+See accompanying notes to financial statements.
+
+
+
+
+                                                                                                           13
+                             Last Frontier Healthcare District
+                                     Notes to Financial Statements
+
+Note 1: Summary of Significant Accounting Policies
+
+The Entity
+
+Last Frontier Healthcare District (the “District”) is a special healthcare district that is a political subdivision of the
+State of California (as set forth in the California Government Code) and is operated and governed by an elected
+Board of Directors. The District was organized for the purpose of operating Modoc Medical Center, which
+includes a eight-bed acute care facility that provides inpatient, outpatient, and emergency care services; two
+RHCs; a retail pharmacy; and a 50-bed SNF in Alturas, California.
+
+The accompanying financial statements present the activities of the District. Accounting principles generally
+accepted in the United States of America (GAAP) require that these financial statements include the primary
+government and its component units. All significant activities and organizations the District exercises oversight
+responsibility for have been considered for inclusion in the financial statements.
+
+The District maintains its financial records in conformity with guidelines set forth by Local Health Care District law
+and the Office of Statewide Health Planning and Development of the State of California.
+
+Method of Accounting
+
+The District’s financial statements are presented using the economic resources measurement focus and the
+accrual basis of accounting.
+
+Basis of Presentation
+
+The financial statements have been prepared in accordance with GAAP as prescribed by the Governmental
+Accounting Standards Board (GASB).
+
+Use of Estimates in Preparation of Financial Statements
+
+The preparation of the accompanying financial statements in conformity with GAAP requires management to
+make estimates and assumptions that directly affect the reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue
+and expenses during the reporting period. Actual results may differ from these estimates.
+
+The District considers significant accounting estimates to be those which require more significant judgments and
+include the valuation of accounts receivable, including contractual allowances and an allowance for doubtful
+accounts and the estimated third-party payor settlements.
+
+
+
+
+                                                                                                                         14
+                             Last Frontier Healthcare District
+                                    Notes to Financial Statements
+
+Note 1: Summary of Significant Accounting Policies (Continued)
+
+Cash and Cash Equivalents
+
+The District considers all highly liquid debt instruments with an original maturity of three months or less to be
+cash equivalents.
+
+The District is authorized under California Government Code to make direct investments in local agency bonds,
+notes, or warrants within the state; U.S. Treasury instruments; registered state warrants or treasury notes;
+securities of the U.S. government or its agencies; bankers’ acceptances; commercial paper; certificates of deposit
+placed with commercial banks and/or savings and loan companies; repurchase or reverse repurchase
+agreements; medium-term corporate notes; shares of beneficial interest issued by diversified management
+companies; certificates of participation; obligations with first priority security; and collateralized mortgage
+obligations.
+
+All investments are stated at fair value. Investment income includes changes in fair value of investments,
+interest, and realized gains and losses.
+
+Restricted Cash and Cash Equivalents
+
+Restricted cash and cash equivalents include certain cash whose use is limited by donors or lenders.
+
+Fair Value Measurements
+
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an ordinary
+transaction between market participants at the measurement date. A three-tier hierarchy prioritizes the inputs
+used in measuring fair value. These tiers include Level 1, defined as observable inputs such as quoted market
+prices in active markets; Level 2, defined as inputs other than quoted market prices in active markets that are
+either directly or indirectly observable; and Level 3, defined as unobservable inputs in which little or no market
+data exists, therefore, requiring an entity to develop its own assumptions. The asset's or liability's fair value
+measurement within the hierarchy is based on the lowest level of any input that is significant to the fair value
+measurement.
+
+Patient and Residents Accounts Receivable and Credit Policy
+
+Patient and resident receivables are uncollateralized patient and resident obligations that are stated at the
+amount management expects to collect from outstanding balances. These obligations are primarily from local
+residents, most of whom are insured under third-party payor agreements. The District bills third-party payors on
+the patients’ or residents behalf, or if a patient or resident is uninsured, the patient is billed directly. Once claims
+are settled with the primary payor, any secondary payor is billed, and patients or residents are billed for copay
+and deductible amounts that are the patients' or residents' responsibility. Payments on patient and resident
+receivables are applied to the specific claim identified on the remittance advice or statement. The District does
+not have a policy to charge interest on past due accounts.
+
+
+
+                                                                                                                      15
+                            Last Frontier Healthcare District
+                                    Notes to Financial Statements
+
+Note 1: Summary of Significant Accounting Policies (Continued)
+
+Patient and Residents Accounts Receivable and Credit Policy (Continued)
+
+The carrying amounts of patient and resident receivables are reduced by allowances that reflect management’s
+estimate of the amounts that will not be collected. Management provides for contractual adjustments under
+terms of third-party reimbursement agreements through a reduction of gross revenue and a credit to patient and
+resident receivables. In addition, management provides for probable uncollectible amounts, primarily for
+uninsured patients and residents and amounts patients and residents are personally responsible for, through a
+reduction of gross revenue and a credit to the allowance for uncollectible accounts, based on its assessment of
+historical collection likelihood and the current status of individual accounts. Balances that are still outstanding
+after management has used reasonable collection efforts are written off through a charge to the allowance for
+uncollectible accounts and a credit to patient and resident receivables.
+
+Taxes Receivable
+
+Taxes receivable, which are recorded in other receivables on the accompanying statements of net position, are
+amounts due from Modoc County (the “County”). Per-parcel assessments are levied by the County on the
+District’s behalf. The District receives distributions of proceeds from these taxes based on an apportionment
+schedule and accrues such revenue ratably over the year.
+
+Inventory
+
+Inventory is valued at the lower of cost, determined using the first-in, first-out (FIFO) method, or net realizable
+value.
+
+Capital Assets and Depreciation
+
+Capital assets are recorded at cost if purchased or fair value at the date received if contributed or net book value
+if transferred from a related party. The District maintains a threshold level of a unit or group cost of $5,000 or
+more for capitalizing capital assets. Maintenance and repair costs are charged to expense as incurred. Gain or
+loss on disposition of capital assets is reflected in nonoperating gains or losses. Depreciation is provided over the
+estimated useful life of each class of depreciable asset and is computed using the straight-line method over the
+useful life of each asset. Estimated useful lives are 40 years for buildings, range from 3 to 25 years for land and
+building improvements, and range from 5 to 20 years for software and equipment.
+
+Subscription Based Information Technology Arrangements
+
+The District is a party to multiple noncancelable subscription based information technology arrangements
+(SBITAs). If the contract provides the District the right to use the present service capacity and the right to direct
+the use of the identified asset, it is considered to be or contain a SBITA. Subscription-based assets and liabilities
+are recognized at the agreement commencement date based on the present value of the future payments over
+the expected contract term. The SBITA asset is also adjusted for any prepayments made and capitalizable initial
+implementation costs as incurred.
+
+
+                                                                                                                      16
+                             Last Frontier Healthcare District
+                                     Notes to Financial Statements
+
+Note 1: Summary of Significant Accounting Policies (Continued)
+
+Subscription Based Information Technology Arrangements (Continued)
+
+The SBITA liability is initially and subsequently recognized based on the present value of its future payments.
+Variable payments are included in the present value when the underlying rate or index is fixed and predictable for
+the life of the lease. Variable costs that depend on an unpredictable index are accounted for as expenses as they
+are incurred. Increases (decreases) to variable payments due to subsequent changes in an index or rate are
+recorded as an adjustment to expense in the period in which they are incurred.
+
+The discount rate used is the implicit rate in the SBITA contract, if it is readily determinable, or the District’s
+incremental borrowing rate.
+
+For all underlying classes of assets, the District does not recognize SBITA assets and liabilities for short-term
+agreements that have a contract term of 12 months or less at contract commencement. Contracts containing
+termination clauses in which either party may terminate without cause and the notice period is less than 12
+months are deemed short-term agreements with costs included in expense.
+
+Compensated Absences
+
+The District has a paid leave time system for all paid time-off from work. The District's employees earn vacation
+benefits at varying rates depending on years of service. Paid time-off accumulates up to specified maximum
+levels. Accumulated unused vacation benefits are paid to an employee upon either termination or retirement.
+Vacation accrual is included in accrued salaries, payroll taxes, and benefits in the accompanying statements of net
+position.
+
+Net Position
+
+Net position is reported in three categories:
+
+Net investment in capital assets: This category consists of capital assets, net of accumulated depreciation,
+reduced by the outstanding balance of any long-term debt used to build, acquire, or improve those assets.
+Deferred outflows of resources and deferred inflows of resources that are attributable to the construction,
+acquisition, or improvement of those assets or the related debt are also included in this category.
+
+Restricted: This category consists of noncapital net position that must be used for a particular purpose, as
+specified by creditors, grantors, or contributors external to the facility.
+
+Unrestricted: This category consists of the remaining net position that does not meet the definition of the two
+preceding categories.
+
+When both restricted and unrestricted resources are available for use, it is the District’s policy to use externally
+restricted resources first.
+
+
+
+
+                                                                                                                       17
+                            Last Frontier Healthcare District
+                                    Notes to Financial Statements
+
+Note 1: Summary of Significant Accounting Policies (Continued)
+
+Net Patient and Resident Service Revenue
+
+Net patient and resident service revenue is reported at the estimated net realizable amounts from patients and
+residents, third-party payors, and others for services rendered, including estimated retroactive adjustments
+under reimbursement agreements with third-party payors. Retroactive adjustments are accrued on an estimated
+basis in the period the related services are rendered and are adjusted in future periods as final settlements are
+determined.
+
+Charity Care
+
+The District provides healthcare services to patients and residents who meet certain criteria under its charity care
+policy without charge or at amounts less than its established rates. The District maintains records to identify the
+amount of charges forgone for services and supplies furnished under the charity care policy. Because the District
+does not pursue collection of amounts determined to qualify as charity care, they are not reported as net patient
+and resident service revenue.
+
+Operating Revenue and Expenses
+
+The District’s accompanying statements of revenues, expenses, and changes in net position distinguish between
+operating and nonoperating revenue and expenses. Operating revenue results from exchange transactions
+associated with providing healthcare services. Nonexchange revenue, including taxes, grants, and contributions
+received for purposes other than capital asset acquisition, and certain other revenue are reported as
+nonoperating revenue. Operating expenses are all expenses incurred to provide healthcare services, other than
+financing costs, which are reported as nonoperating expenses.
+
+District Property Tax Revenue
+
+The District has the authority to impose taxes on property within the boundaries of the healthcare district. Taxes
+are received from the County, which bills and collects the taxes for the District. Taxes are due from those within
+the District on December 10 and April 10 of each calendar year.
+
+Grants and Contributions
+
+The District receives grants, as well as contributions from individuals and private organizations. Revenue from
+grants and contributions (including contributions of capital assets) is recognized when all eligibility requirements,
+including time requirements, are met. Grants and contributions may be restricted for either specific operating
+purposes or for capital purposes. Amounts that are unrestricted or are restricted to a specific operating purpose
+are reported as nonoperating revenue. Amounts restricted to capital acquisitions are reported after
+nonoperating revenue (expenses).
+
+Unemployment Compensation
+
+The District is a part of a pooled unemployment insurance group through California Association of Hospital and
+Healthcare Systems (CAHHS) for unemployment insurance and does pay state unemployment tax.
+                                                                                                                   18
+                            Last Frontier Healthcare District
+                                   Notes to Financial Statements
+
+Note 1: Summary of Significant Accounting Policies (Continued)
+
+Recently Adopted Accounting Pronouncement
+
+GASB Statement No. 96, Subscription-Based Information Technology Arrangements. The objective of this
+Statement is to provide guidance on the accounting and financial reporting for subscription-based information
+technology arrangements (SBITAs) for government end users (governments). This Statement (1) defines a SBITA;
+(2) establishes that a SBITA results in a right-to-use subscription asset—an intangible asset—and a corresponding
+subscription liability; (3) provides the capitalization criteria for outlays other than subscription payments,
+including implementation costs of a SBITA; and (4) requires note disclosures regarding a SBITA. To the extent
+relevant, the standards for SBITAs are based on the standards established in Statement No. 87 - Leases, as
+amended. The requirements of this Statement are effective for reporting periods beginning after June 15, 2022.
+The District has adopted this guidance for the year ended June 30, 2024.
+
+Note 2: Reimbursement Arrangements With Third-Party Payors
+
+The District has agreements with third-party payors that provide for reimbursement to the District at amounts
+that vary from its established rates. A summary of the basis of reimbursement with major third-party payors
+follows:
+
+Hospital
+
+Medicare - The Medicare program has designated the District as a CAH for Medicare reimbursement purposes.
+Under this designation, District inpatient, outpatient, and swing bed services rendered to Medicare program
+beneficiaries are paid based on a cost-reimbursement methodology, with the exception of certain lab and
+mammography services, which are reimbursed based on fee schedules.
+
+Medi-Cal - Services provided to beneficiaries of both Medi-Cal health maintenance organization (HMO) and
+traditional Medi-Cal are grouped as Medi-Cal. Medi-Cal HMO comprises the majority of business that is done by
+the District within the Medi-Cal payor classification. Under CAH designation, District inpatient and swing-bed
+services rendered to Medi-Cal program beneficiaries are paid based on a predetermined rate per day. The
+reimbursement for outpatient services is based on a fee schedule. The District also applies for and receives
+supplemental reimbursement for its outpatient services. The supplemental reimbursement is based on a cost-
+reimbursement methodology and is applicable for services provided to traditional Medi-Cal and Medi-Cal HMO
+beneficiaries.
+
+Nursing Facility
+
+Medicare - The Medicare program pays the SNF for Part A services based on a predetermined rate per resident
+day, which varies depending on a resident’s level of care and the types of services provided.
+
+Medi-Cal - Long-term care services are reimbursed at a daily rate that is adjusted annually. The District applies
+for and receives supplemental reimbursement for its distinct-part nursing facility services provided to Medi-Cal
+HMO beneficiaries and any traditional Medi-Cal beneficiaries. The supplemental reimbursement is based on a
+cost-reimbursement methodology.
+
+                                                                                                                    19
+                           Last Frontier Healthcare District
+                                   Notes to Financial Statements
+
+Note 2: Reimbursement Arrangements With Third-Party Payors (Continued)
+
+Physician and Professional Services in RHC
+
+Certain physician and professional services rendered to Medicare and Medi-Cal beneficiaries qualify for
+reimbursement as Medicare-approved RHC services. Qualifying services are reimbursed based on a cost-
+reimbursement methodology.
+
+Others
+
+The District has also entered into payment agreements with certain commercial insurance carriers, HMOs, and
+preferred provider organizations. The basis for payment to the District under these agreements includes
+discounts from established charges and prospectively determined daily rates.
+
+Accounting for Contractual Arrangements
+
+The District is reimbursed for certain cost-reimbursable items at an interim rate, with final settlements
+determined after an audit of the District’s related annual cost reports by the respective Medicare and Medi-Cal
+fiscal intermediaries. Estimated provisions to approximate the final expected settlements after review by the
+intermediaries are included in the accompanying financial statements. The cost reports for the District have been
+final settled by Medicare and Medi-Cal through 2020.
+
+Compliance
+
+The healthcare industry is subject to numerous laws and regulations of federal, state, and local governments.
+These laws and regulations include, but are not necessarily limited to matters, such as licensure, accreditation,
+government healthcare program participation requirements, reimbursement for patient services, and billing
+regulations. Violations of these laws and regulations could result in expulsion from government healthcare
+programs together with the imposition of significant fines and penalties, as well as significant repayments for
+patient services previously billed. Management believes the District is in substantial compliance with applicable
+government laws and regulations. While no significant regulatory inquiries have been made of the District,
+compliance with such laws and regulations can be subject to future government review and interpretation, as
+well as regulatory actions unknown or unasserted at this time.
+
+The Centers for Medicare and Medicaid Services (CMS) uses recovery audit contractors (RAC) as part of CMS’s
+efforts to ensure accurate payments. RACs search for potentially inaccurate Medicare payments that might have
+been made to healthcare providers and not detected through existing CMS program integrity efforts. Once a RAC
+identifies a claim it believes is inaccurate, it makes a deduction from or addition to the provider’s Medicare
+reimbursement in an amount estimated to equal the overpayment or underpayment. As of January 19, 2024, the
+District had not been notified by the RAC of any potential significant reimbursement adjustments.
+
+
+
+
+                                                                                                                20
+                             Last Frontier Healthcare District
+                                     Notes to Financial Statements
+
+Note 3: Cash, Cash Equivalents, and Investments
+Deposits
+
+Custodial credit risk - Custodial credit risk is the risk that, in the event of a bank failure, the District’s deposits and
+investments may not be returned. The District does not have a deposit policy for custodial credit risk.
+
+The California Government Code (CGC) requires that a financial institution secure deposits made by state or local
+governmental units by pledging securities in an undivided collateral pool held by a depository regulated under
+state law (unless so waived by the governmental unit). The market value of the pledged securities in the
+collateral pool must equal at least 110% of the total amount deposited by the public agencies. California law also
+allows financial institutions to secure deposits by pledging first trust deed mortgage notes having a value of 150%
+of the secured public deposits and letters of credit used by the Federal Home Loan Bank of San Francisco having a
+value of 105% of the secured deposits.
+
+At June 30, 2024 and 2023, the District had bank balances of $1,576,278 and $1,823,870, respectively. Of these
+balances, $250,000 were covered by federal deposit insurance each year for demand deposits with an additional
+$250,000 for time deposits. $1,326,278 and $1,323,870, respectively, were collateralized (i.e., with securities
+held by the pledging financial institutions of at least 110% of the District's cash deposits, in accordance with the
+California Government Code).
+
+Investments
+
+Concentration of Credit Risk - The California Government Code limits the purchase of certain investments to
+defined percentages of the investment portfolio.
+
+Interest Rate Risk - Interest rate risk is the risk that changes in market interest rates will adversely affect the fair
+value of an investment. Generally, the longer the maturity of an investment, the greater the sensitivity of its fair
+value to changes in market interest rates. One of the ways the District manages its exposure to interest rate risk
+is by purchasing a combination of shorter-term and longer-term investments and by timing cash flows from
+maturities so a portion of the portfolio is maturing or coming close to maturity evenly over time as necessary to
+provide the cash flow and liquidity needed for operations.
+
+The District is a participant in the Local Agency Investment Fund (LAIF), which is regulated by California
+Government Code Section 16429 under the oversight of the Treasurer of the State of California. The fair value of
+the District’s investment in this pool is reported in the accompanying financial statements at amounts based on
+the District’s pro rata share of the fair value provided by LAIF for the entire LAIF portfolio (in relation to the
+amortized cost of that portfolio). The balance available for withdrawal is based on the accounting records
+maintained by LAIF, which are recorded on an amortized-cost basis.
+
+
+
+
+                                                                                                                         21
+                             Last Frontier Healthcare District
+                                    Notes to Financial Statements
+
+Note 3: Cash, Cash Equivalents, and Investments (Continued)
+
+The District's cash and cash equivalents at June 30 consisted of the following:
+
+                                                                                             2024             2023
+
+Current cash and cash equivalents:
+   Bank deposits                                                                       $    5,959,700 $      6,567,549
+   LAIF                                                                                       666,325        3,068,359
+   Resident trust accounts                                                                      8,622           15,481
+   Petty cash                                                                                   3,002            2,375
+
+Total current cash and cash equivalents                                                     6,637,649        9,653,764
+Noncurrent cash and cash equivalents - Restricted by lenders for debt service               1,202,570          600,354
+
+Total cash and cash equivalents                                                        $    7,840,219 $ 10,254,118
+
+The table below identifies the investment types that are authorized for the District by the CGC. The table also
+identifies certain provisions of the CGC that address interest rate risk, credit risk, and concentration of credit risk.
+This table does not address investments of debt proceeds held by bond trustee that are governed by the
+provisions of debt agreements of the District rather than the general provisions of the CGC.
+
+                                                                     Maximum percentage         Maximum investment in
+Authorized investment type:                 Maximum maturity:           of portfolio:*               one issuer:
+
+Local agency bonds                                 5 years                  None                           None
+U.S. Treasury obligations                          5 years                  None                           None
+U.S. agency securities                             5 years                  None                           None
+Banker's acceptances                              180 days                   40%                           30%
+Commercial paper                                  270 days                   25%                           10%
+Negotiable certificates of deposit                 5 years                   30%                           None
+Repurchase agreements                               1 year                  None                           None
+Reverse repurchase agreements                      92 days             20% of base value                   None
+Medium-term notes                                  5 years                   30%                           None
+Mutual funds                                         N/A                     20%                           10%
+Money market mutual funds                            N/A                     20%                           10%
+Mortgage pass-through securities                   5 years                   20%                           None
+County pooled investment funds                       N/A                    None                           None
+LAIF                                                 N/A                    None                           None
+JPA pools (other investment pools)                   N/A                    None                           None
+
+* Excluding amounts held by bond trustee that are not subject to CGC restrictions.
+
+
+
+
+                                                                                                                      22
+                           Last Frontier Healthcare District
+                                   Notes to Financial Statements
+
+Note 4: Patient and Resident Accounts Receivable
+Patient and resident receivables consisted of the following at June 30:
+
+                                                                                       2024            2023
+
+Patient and resident accounts receivable                                          $ 17,581,751 $ 11,988,701
+Less:
+    Contractual adjustments                                                            8,193,206       2,972,097
+    Allowance for doubtful accounts                                                    2,703,295       2,373,240
+
+Patient and resident accounts receivable - Net                                    $    6,685,250 $     6,643,364
+
+Note 5: Net Patient and Resident Service Revenue
+
+Net patient and resident service revenue consisted of the following for the years ended June 30:
+
+                                                                                       2024            2023
+
+Gross patient and resident service revenue:
+   Hospital inpatient services                                                    $    6,845,363 $ 6,443,341
+   Hospital outpatient services                                                       31,474,469   29,494,284
+   Nursing home services                                                               9,719,920    8,933,800
+   Clinic services                                                                     4,256,249    4,586,911
+
+        Total gross patient and resident service revenue                              52,296,001     49,458,336
+
+Revenue reductions:
+   Contractual allowances                                                              7,336,694     12,121,183
+   Provision for bad debt                                                              2,382,688       (198,348)
+
+        Total revenue deductions                                                       9,719,382     11,922,835
+
+Net patient and resident service revenue                                          $ 42,576,619 $ 37,535,501
+
+Approximately 83% of gross patient service and resident revenue was from participation in Medicare and Medi-
+Cal programs for the year ended June 30, 2024. Approximately 88% of gross patient service and resident
+revenue was from participation in Medicare and Medi-Cal programs, for the year ended June 30, 2023.
+
+Intergovernmental Transfers
+
+The District qualifies for rate-range intergovernmental transfers (IGT) from the California State Health and Human
+Services Agency Department of Health Care Services. The District recorded $2,430,862 and $11,042,988 in IGT
+receipts for the years ended June 30, 2024 and 2023, respectively. Because the revenue generated is based on
+services provided to patients, it is classified as net patient and resident service revenue in the accompanying
+statements of revenues, expenses, and changes in net position.
+                                                                                                                23
+                            Last Frontier Healthcare District
+                                   Notes to Financial Statements
+
+Note 6: Charity Care
+
+The District provides healthcare services and other financial support through various programs that are designed,
+among other matters, to enhance the health of the community, including the health of low-income patients.
+Consistent with the District’s mission, care is provided to patients regardless of their ability to pay, including
+providing services to those persons who cannot afford health insurance because of inadequate resources.
+
+Patients who meet certain criteria for charity care, generally based on federal poverty guidelines, are provided
+care based on qualifying criteria as defined in the District’s charity care policy and from applications completed by
+patients and their families.
+
+The District maintains records to identify and monitor the level of charity care it provides. The amount of charges
+foregone for services and supplies furnished under the District’s charity care policy was $22,774 and nil for the
+years ended June 30, 2024 and 2023, respectively.
+
+Note 7: Investments and Assets Limited as to Use
+
+Investments and Assets limited as to use consisted of the following at June 30:
+
+                                                                                          2024            2023
+
+Investments - Money market deposit funds                                            $    5,148,013 $      8,001,113
+
+Assets limited as to use:
+ US Treasury obligations                                                                30,057,894      26,275,111
+ Cash and cash equivalents                                                               1,204,083         685,565
+ Certificates of deposit                                                                         -         323,307
+
+Totals                                                                              $ 36,409,990 $ 35,285,096
+
+During the year ended June 30, 2023, Board of Directors approved the transfer of money from LAIF to U.S.
+Treasury bills.
+
+
+
+
+                                                                                                                  24
+                            Last Frontier Healthcare District
+                                   Notes to Financial Statements
+
+Note 8: Fair Value Measurements
+
+The following is a description of the valuation methodologies used for assets measured at fair value:
+
+ US Treasury securities: Valued at the closing price for identical assets traded on active markets.
+
+ Certificates of deposit: Valued at amortized cost, which approximates fair value.
+
+ Money market funds: Valued using net asset value (NAV) of $1.
+
+The District's investments by level within the fair value hierarchy were as follows at June 30:
+
+                                                                   Fair Value of Assets as of June 30, 2024
+
+                                                         Level 1            Level 2         Level 3             Total
+
+Money market                                        $    5,148,013 $                  - $             - $ 5,148,013
+US Treasury securities                                  30,057,894                    -               -   30,057,894
+
+Subtotal - Investments                                                                                        35,205,907
+Cash and cash equivalents                                                                                      1,204,083
+
+Total investments and assets limited as to use                                                          $ 36,409,990
+
+                                                                   Fair Value of Assets as of June 30, 2023
+
+                                                        Level 1            Level 2          Level 3            Total
+
+Certificates of deposit                             $            - $         323,307 $                - $    323,307
+Money market                                             8,001,113                 -                  -    8,001,113
+US Treasury securities                                  26,275,111                 -                  -   26,275,111
+
+Subtotal - Investments                                                                                        34,599,531
+Cash and cash equivalents                                                                                        685,565
+
+Total investments and assets limited as to use      $ 34,276,224 $           323,307 $                - $ 35,285,096
+
+
+
+
+                                                                                                                        25
+                              Last Frontier Healthcare District
+                                    Notes to Financial Statements
+
+Note 9: Capital Assets
+
+Capital assets consisted of the following:
+
+                                         Balance                                                             Balance
+                                       July 1, 2023       Additions       Retirements     Transfers       June 30, 2024
+
+Nondepreciable capital assets:
+   Land                            $       713,540 $          - $                   - $            - $    713,540
+   Construction in progress              6,774,767   13,870,692                     -       (361,348)  20,284,111
+
+Total nondepreciable capital
+assets                                   7,488,307        13,870,692                -       (361,348)        20,997,651
+
+Depreciable capital assets:
+   Land improvements                         355,853                  -             -                 -        355,853
+   Buildings and
+   improvements                         46,970,134                 -                -              -         46,970,134
+   Equipment                            10,776,847                 -                -        306,359         11,083,206
+   Software                              1,838,438                 -                -              -          1,838,438
+   subscription-based assets                     -         1,240,392                -         54,989          1,295,381
+
+Total depreciable capital assets        59,941,272         1,240,392                -        361,348         61,543,012
+
+Total capital assets before
+depreciation                            67,429,579        15,111,084                -                 -      82,540,663
+
+Accumulated depreciation               (16,739,045)       (2,094,276)               -                 -     (18,833,321)
+Accumulated amortization on
+SBITAs                                                -     (418,173)               -                 -        (418,173)
+
+Total accumulated depreciation
+and amortization.                      (16,739,045)       (2,512,449)               -                 -     (19,251,494)
+
+Depreciable capital assets - Net        43,202,227        (1,272,057)               -        361,348         42,291,518
+
+Capital assets - Net               $ 77,153,716 $          9,232,302 $              - $      361,348 $ 86,747,366
+
+
+
+
+                                                                                                                     26
+                              Last Frontier Healthcare District
+                                   Notes to Financial Statements
+
+Note 9: Capital Assets (Continued)
+
+                                         Balance                                                          Balance
+                                       July 1, 2022    Additions       Retirements     Transfers       June 30, 2023
+
+Nondepreciable capital assets:
+   Land                            $       713,540 $            - $              - $            - $         713,540
+   Construction in progress              3,055,519      4,367,258                -       (648,010)        6,774,767
+
+Total nondepreciable capital
+assets                                   3,769,059      4,367,258                -       (648,010)        7,488,307
+
+Depreciable capital assets:
+   Land improvements                       337,653                 -             -         18,200           355,853
+   Buildings and
+   improvements                         46,823,958                 -             -        146,176        46,970,134
+   Major movable equipment              10,306,662                 -             -        470,185        10,776,847
+   Software                              1,824,989                 -             -         13,449         1,838,438
+
+Total depreciable capital assets        59,293,262                 -             -        648,010        59,941,272
+
+Total capital assets before
+depreciation                            63,062,321      4,367,258                -                 -     67,429,579
+
+Accumulated depreciation               (14,644,623)    (2,094,422)               -                 -    (16,739,045)
+
+Depreciable capital assets - Net        44,648,639     (2,094,422)               -        648,010        43,202,227
+
+Capital assets - Net               $ 48,417,698 $       2,272,836 $              - $               - $ 50,690,534
+
+At June 30, 2024 construction in progress consisted primarily of the SNF building project and various other
+improvement projects. The estimated total costs to complete the SNF building project is approximately
+$61,800,000 and is expected to be completed in June 2025.
+
+
+
+
+                                                                                                                  27
+                            Last Frontier Healthcare District
+                                   Notes to Financial Statements
+
+Note 10: Long-Term Debt
+
+Long-term debt consisted of the following:
+                                                                                                     Amounts Due
+                                      July 1, 2023     Additions         Reductions   June 30, 2024 Within One Year
+
+Direct Borrowings - USDA loan       $ 33,645,000 $                 - $     (525,000) $ 33,120,000 $         539,000
+
+                                                                                                     Amounts Due
+                                      July 1, 2022     Additions         Reductions   June 30, 2023 Within One Year
+
+Direct Borrowings - USDA loan       $ 34,155,000 $                 - $     (510,000) $ 33,645,000 $         525,000
+
+Scheduled payments of principal and interest on long-term debt are summarized as follows:
+
+Years Ending June 30,                                                     Principal      Interest         Total
+
+2025                                                                $        539,000 $      950,250 $    1,489,250
+2026                                                                         554,000        935,250      1,489,250
+2027                                                                         572,000        917,250      1,489,250
+2028                                                                         587,000        902,250      1,489,250
+2029                                                                         605,000        884,250      1,489,250
+2030 - 2034                                                                3,289,000      4,157,250      7,446,250
+2035 - 2039                                                                3,790,000      3,656,250      7,446,250
+2040 - 2044                                                                4,367,000      3,079,250      7,446,250
+2045 - 2049                                                                5,032,000      2,414,250      7,446,250
+2050 - 2054                                                                5,801,000      1,645,250      7,446,250
+2055 - 2059                                                                6,685,000        761,250      7,446,250
+2060 - 2064                                                                1,299,000        190,250      1,489,250
+
+Totals                                                              $ 33,120,000 $ 20,493,000 $ 53,613,000
+
+USDA loan - Effective July 1, 2019, the District issued $35,130,000 in certificates of participation bonds (2019
+Capital Projects, Series A, Series B, Series C, and Series D), with each bond series due in varying annual principal
+installments ranging from $90,000 to $130,000 during the year ended June 30, 2020, and $273,000 to $342,000
+through maturity during the year ending June 30, 2060, plus interest at a rate of 2.875% per annum, and secured
+by real property, gross revenue of the district, and assessed property tax revenue. On the same date, the District
+entered into a Community Facilities Loan and Grants purchase agreement with USDA Rural Development to
+purchase the certificates of participation.
+
+
+
+
+                                                                                                                  28
+                            Last Frontier Healthcare District
+                                    Notes to Financial Statements
+
+Note 11: Subscription-Based Information Technology Arrangements.
+
+Changes in subscription-based technology arrangements consisted of the following for the year ended June 30,
+2024:
+                                                                                                 Amounts Due
+                                    July 1, 2023   Additions     Reductions June 30, 2024 Within One Year
+
+Cerner EHR                           $              - $ 1,251,091 $       (454,448) $      796,643 $          633,275
+
+
+The terms of the District's subscription-based information technology arrangements are as follows:
+
+   Cerner Electronic Medical Records - SBITA in the original amount of $4,688,499, due in varying monthly
+    installments of $54,685, including imputed interest at 0.41%, through June 2032.
+
+Future Minimum Payments,                                                 Principal        Interest          Total
+
+2025                                                                 $      633,275 $         22,945 $       656,220
+2026                                                                        163,368              687         164,055
+
+Totals                                                               $      796,643 $         23,632 $       820,275
+
+Note 12: Retirement Plan
+
+The District sponsors and administers the Principal Financial 457(b) retirement plan. The defined contribution
+plan covers substantially all of its employees who are classified as permanent part-time or full-time employees or
+work more than 1,000 hours per year. Permanent part-time and full-time employees are eligible to participate in
+the retirement plan on their first day of employment. Employees who work as extra employees or per diem
+employees are eligible to participate in the plan only if they work more than 1,000 hours per year. The District
+contributes 3% of each eligible employee’s base wage each pay period and matches up to an additional 3% of
+their base wage. The District’s match percentage is set at 50% of each employee’s elective deferral percentage
+up to a maximum match of 3% of their base wage after a year of eligible service
+
+The 457(b) plan is funded by employer contributions and employee elective deferrals. Employee elective deferral
+amounts are immediately 100% vested. The plan provides for employer contributions, as outlined above, that
+are allocated on the basis of eligible compensation per the retirement plan documents. Benefit terms, including
+employer contributions, are established by management and the Board of Directors. Eligible participants
+employed for five years or more are 100% vested in their employer contributions. Eligible participants employed
+for less than five years are subject to a five-year graded vesting schedule at the rate of 20% starting the first year,
+40% the second year, 60% the third year, 80% the fourth year, and 100% the fifth year. Forfeitures are used to
+reduce future employer contributions. Retirement contributions for the years ended June 30, 2024 and 2023,
+were approximately $604,000 and $591,000, respectively.
+
+
+
+
+                                                                                                                    29
+                             Last Frontier Healthcare District
+                                    Notes to Financial Statements
+
+Note 13: Risk Management
+The District purchases commercial malpractice liability insurance on an occurrence basis. The policy coverage is
+$5,000,000 per occurrence, with a $5,000 deductible. There is an aggregate limitation of $15,000,000. The
+District accrues the deductible for all open claims. There were no settlements in excess of insurance coverage in
+any of the five prior fiscal years.
+
+Under a claims-made policy, the risk for claims and incidentals not asserted within the policy period remains with
+the District. Although there exists the possibility of claims arising from services provided to patients through
+June 30, 2024, which have not yet been asserted, the District is unable to determine the ultimate cost, if any, of
+such possible claims and, accordingly, no provision has been made for them. These insurance policies are
+renewable annually and have been renewed by the insurance carrier for the annual period extending through
+July 1, 2025.
+
+The District participates in these plans through a premium-based arrangement that consists of annual amounts
+not subject to adjustment for adverse claims. Insurance premium expense for the years ended June 30, 2024 and
+2023, was $234,757 and $173,300, respectively.
+
+Note 14: Concentration of Credit Risk
+Financial instruments that potentially subject the District to credit risk consist principally of patient and resident
+receivables.
+
+Patient and resident receivables consist of amounts due from patients, their insurers, or governmental agencies
+(primarily Medicare and Medi-Cal programs) for healthcare provided to the patients. The majority of the
+District’s patients are from Modoc County, California, and the surrounding area. The mix of receivables from
+patients, residents, and third-party payors was as follows at June 30:
+                                                                                         2024           2023
+
+Medicare                                                                                          27 %            27 %
+Medi-Cal                                                                                          40 %            26 %
+Other third-party payors                                                                          15 %            19 %
+Patients                                                                                          18 %            28 %
+
+Totals                                                                                          100 %            100 %
+
+Note 15: Reclassifications
+
+Certain reclassifications have been made to the 2023 financial statements to conform to the 2024 classifications.
+Such reclassifications had no effect on the previously reported amounts of net position.
+
+
+
+
+                                                                                                                     30
+Supplementary Information
+                          Last Frontier Healthcare District
+                       Schedule of Expenditures of Federal Awards
+                                           Year Ended June 30, 2024
+
+                                                                   Entity      Federal
+                                                       Contract    Passed Assistance Listing   Federal
+           Federal Grantor/Program Title               Number     Through      Number        Expenditures
+
+U.S. Department of Agriculture Rural Development:
+ Community Facilities Loans and Grants Cluster:
+   Community Facilities Loans and Grants                 N/A          Direct    10.766      $ 33,645,000
+
+Total expenditures of federal awards                                                        $ 33,645,000
+
+See Independent Auditor's Report.
+
+See accompanying notes to schedule of expenditures of federal awards.
+
+
+
+
+                                                                                                        32
+                            Last Frontier Healthcare District
+                  Notes to Schedule of Expenditures of Federal Awards
+                                             Year Ended June 30, 2024
+
+Note 1: Basis of Presentation
+
+The accompanying schedule of expenditures of federal awards (the “Schedule”) includes the federal award
+activity of Last Frontier Healthcare District (the “District”). The information in this schedule is presented in
+accordance with requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (the “Uniform Guidance”). Because
+the Schedule presents only a selected portion of the operations of the District, it is not intended to and does not
+present the financial position, changes in net position, or cash flows of the District.
+
+Note 2: Summary of Significant Accounting Policies
+
+Expenditures on the Schedule are reported on the accrual basis of accounting and are recognized following the
+cost principles contained in the Uniform Guidance, wherein certain types of expenditures are not allowable or are
+limited as to reimbursement.
+
+Note 3: Indirect Cost
+The District has elected not to use the 10-percent de minimis indirect cost rate allowed under the Uniform
+Guidance.
+
+Note 4: Subrecipients
+
+The District did not pass through any federal awards to subrecipients.
+
+Note 5: Balance of Outstanding Loan
+
+The District had an outstanding loan with USDA as of June 30, 2024, with a balance of $33,120,000. The loan
+balance outstanding at the beginning of the year was included in the federal expenditures presented in the
+Schedule.
+
+
+
+
+                                                                                                                  33
+Independent Auditor's Report on Internal Control Over Financial Reporting and on
+Compliance and Other Matters Based on an Audit of Financial Statements Performed in
+Accordance with Government Auditing Standards
+
+Board of Directors
+Last Frontier Healthcare District
+Alturas, California
+
+We have audited, in accordance with auditing standards generally accepted in the United States of America and
+the standards applicable to financial audits contained in Government Auditing Standards, issued by the
+Comptroller General of the United States, the financial statements of Last Frontier Healthcare District, as of and
+for the year ended June 30, 2024 and the related notes to the financial statements, which collectively comprise
+the Last Frontier Healthcare District's basic financial statements, and have issued our report thereon dated
+January 15, 2025.
+
+Report on Internal Control Over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the Last Frontier Healthcare
+District's internal control over financial reporting (internal control) as a basis for designing audit procedures that
+are appropriate in the circumstances for the purpose of expressing our opinion on the financial statements, but
+not for the purpose of expressing an opinion on the effectiveness of the Last Frontier Healthcare District's
+internal control. Accordingly, we do not express an opinion on the effectiveness of the Last Frontier Healthcare
+District's internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow management or
+employees, in the normal course of performing their assigned functions, to prevent, or detect and correct
+misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies in internal
+control, such that there is reasonable possibility that a material misstatement of the Last Frontier Healthcare
+District’s financial statements will not be prevented or detected and corrected on a timely basis. A significant
+deficiency is a deficiency, or combination of deficiencies, in internal control that is less severe than a material
+weakness, yet important enough to merit attention by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section
+and was not designed to identify all deficiencies in internal control that might be material weaknesses or
+significant deficiencies. Given these limitations, during our audit we did not identify any deficiencies in internal
+control that we consider to be material weaknesses. We identified a certain deficiency in internal control,
+described in the accompanying schedule of findings and questioned costs as item 2024-001 that we consider to
+be a significant deficiency.
+
+
+
+
+                                                                                                                     34
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the Last Frontier Healthcare District's financial
+statements are free from material misstatement, we performed tests of its compliance with certain provisions of
+laws, regulations, contracts and grant agreements, noncompliance with which could have a direct and material
+effect on the financial statements. However, providing an opinion on compliance with those provisions was not
+an objective of our audit, and accordingly, we do not express such an opinion. The results of our tests disclosed
+an instance of noncompliance or other matter that is required to be reported under Government Auditing
+Standards and which is described in the accompanying schedule of schedule of findings and questioned costs as
+item.
+Last Frontier Healthcare District's Response to Findings
+Government Auditing Standards requires the auditor to perform limited procedures on the Last Frontier
+Healthcare District's response to the findings identified in our audit and described in the accompanying schedule
+of findings and questioned costs. The District's response was not subjected to the other auditing procedures
+applied in the audit of the financial statements and, accordingly, we express no opinion on the response.
+Purpose of This Report
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and
+the results of that testing, and not to provide an opinion on the effectiveness of the Last Frontier Healthcare
+District's internal control or on compliance. This report is an integral part of an audit performed in accordance
+with Government Auditing Standards in considering the Last Frontier Healthcare District's internal control and
+compliance. Accordingly, this communication is not suitable for any other purpose.
+
+
+
+
+Wipfli LLP
+
+Spokane, Washington
+January 15, 2025
+
+
+
+
+                                                                                                                    35
+Independent Auditor's Report on Compliance for Each Major Federal Program and on
+Internal Control Over Compliance Required by the Uniform Guidance
+
+
+Board of Directors
+Last Frontier Healthcare District
+Alturas, California
+
+Report on Compliance for the Major Federal Program
+Opinion on the Major Federal Program
+We have audited Last Frontier Healthcare District's compliance with the types of compliance requirements
+identified as subject to audit in the OMB Compliance Supplement that could have a direct and material effect on
+its major federal program for the year ended June 30, 2024. Last Frontier Healthcare District's major federal
+program is identified in the summary of auditor's results section of the accompanying schedule of findings and
+questioned costs.
+
+In our opinion, Last Frontier Healthcare District complied, in all material respects, with the types of compliance
+requirements referred to above that could have a direct and material effect on its major federal program for the
+year ended June 30, 2024.
+
+Basis for Opinion on the Major Federal Program
+We conducted our audit of compliance in accordance with auditing standards generally accepted in the United
+States of America (GAAS); the standards applicable to financial audits contained in Government Auditing
+Standards issued by the Comptroller General of the United States (Government Auditing Standards); and the
+audit requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements,
+Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance). Our responsibilities under those
+standards and the Uniform Guidance are further described in the Auditor's Responsibilities for the Audit of
+Compliance section of our report.
+
+We are required to be independent of Last Frontier Healthcare District and to meet our other ethical
+responsibilities, in accordance with relevant ethical requirements relating to our audit. We believe that the audit
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion on compliance for the
+major federal program. Our audit does not provide a legal determination of Last Frontier Healthcare District's
+compliance with the compliance requirements referred to above.
+
+Responsibilities of Management for Compliance
+Management is responsible for compliance with the requirements referred to above and for the design,
+implementation, and maintenance of effective internal control over compliance with the requirements of laws,
+statutes, regulations, rules and provisions of contracts or grant agreements applicable to Last Frontier Healthcare
+District’s federal program.
+
+
+
+
+                                                                                                                 36
+Auditor's Responsibility for the Audit of Compliance
+Our objectives are to obtain reasonable assurance about whether material noncompliance with the compliance
+requirements referred to above occurred, whether due to fraud or error, and express an opinion on Last Frontier
+Healthcare District’s compliance based on our audit. Reasonable assurance is a high level of assurance but is not
+absolute assurance and therefore is not a guarantee that an audit conducted in accordance with GAAS,
+Government Auditing Standards, and the Uniform Guidance will always detect material noncompliance when it
+exists. The risk of not detecting material noncompliance resulting from fraud is higher than for that resulting
+from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+internal control. Noncompliance with the compliance requirements referred to above is considered material, if
+there is a substantial likelihood that, individually or in the aggregate, it would influence the judgment made by a
+reasonable user of the report on compliance about Last Frontier Healthcare District’s compliance with the
+requirements of the major federal program as a whole.
+
+In performing an audit in accordance with GAAS, Government Auditing Standards, and the Uniform Guidance, we:
+
+      Exercise professional judgment and maintain professional skepticism throughout the audit.
+
+      Identify and assess the risks of material noncompliance, whether due to fraud or error, and design and
+       perform audit procedures responsive to those risks. Such procedures include examining, on a test basis,
+       evidence regarding Last Frontier Healthcare District’s compliance with the compliance requirements
+       referred to above and performing such other procedures as we considered necessary in the
+       circumstances.
+
+      Obtain an understanding of Last Frontier Healthcare District’s internal control over compliance relevant to
+       the audit in order to design audit procedures that are appropriate in the circumstances and to test and
+       report on internal control over compliance in accordance with the Uniform Guidance, but not for the
+       purpose of expressing an opinion on the effectiveness of Last Frontier Healthcare District’s internal control
+       over compliance. Accordingly, no such opinion is expressed.
+
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit and any significant deficiencies and material weaknesses in internal control
+over compliance that we identified during the audit.
+
+Report on Internal Control Over Compliance
+A deficiency in internal control over compliance exists when the design or operation of a control over compliance
+does not allow management or employees, in the normal course of performing their assigned functions, to
+prevent, or detect and correct, noncompliance with a type of compliance requirement of a federal program on a
+timely basis. A material weakness in internal control over compliance is a deficiency, or a combination of
+deficiencies, in internal control over compliance, such that there is a reasonable possibility that material
+noncompliance with a type of compliance requirement of a federal program will not be prevented, or detected
+and corrected, on a timely basis. A significant deficiency in internal control over compliance is a deficiency, or a
+combination of deficiencies, in internal control over compliance with a type of compliance requirement of
+a federal program that is less severe than a material weakness in internal control over compliance, yet
+important enough to merit attention by those charged with governance.
+
+
+
+                                                                                                                  37
+Our consideration of internal control over compliance was for the limited purpose described in the Auditor's
+Responsibilities for the Audit of Compliance section above and was not designed to identify all deficiencies in
+internal control over compliance that might be material weaknesses or significant deficiencies in internal control
+over compliance. Given these limitations, during our audit we did not identify any deficiencies in internal control
+over compliance that we consider to be material weaknesses, as defined above. However, material weaknesses
+or significant deficiencies in internal control over compliance may exist that were not identified.
+
+Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal control over-
+compliance. Accordingly, no such opinion is expressed.
+
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing of
+internal control over compliance and the results of that testing based on the requirements of the Uniform
+Guidance. Accordingly, this report is not suitable for any other purpose.
+
+
+
+
+Wipfli LLP
+Spokane, Washington
+January 15, 2025
+
+
+
+
+                                                                                                                   38
+                             Last Frontier Healthcare District
+                          Schedule of Findings and Questioned Costs
+                                              Year Ended June 30, 2024
+
+Section I - Summary of Auditor's Results
+
+Financial Statements
+
+Type of auditor’s report issued                                                      Unmodified
+
+Internal control over financial reporting:
+    Material weakness(es) identified?                                                   yes     x no
+    Significant deficiency(ies) identified?                                           x yes       no
+
+Noncompliance material to financial statements noted?                                    yes    x no
+
+Federal and State Awards
+
+Internal control over major programs:
+    Material weakness(es) identified?                                                    yes    x no
+    Significant deficiency(ies) identified?                                              yes    x no
+
+Type of auditor’s report issued on compliance for major programs                     Unmodified
+
+Any audit findings disclosed that are required to be reported
+in accordance with the Uniform Guidance [2 CFR 200.516(a)]?                           x yes       no
+
+Identification of major federal programs:
+
+        Federal Assistance Listing Number                  Name of Federal Program or Cluster
+            10.766                                        Community Facilities Loans and Grants Cluster
+
+Dollar threshold used to distinguish between Type A and Type B programs:            $750,000
+
+Auditee qualified as low-risk auditee?                                                x yes       no
+
+
+
+
+                                                                                                          39
+                           Last Frontier Healthcare District
+               Schedule of Findings and Questioned Costs (Continued)
+                                            Year Ended June 30, 2024
+
+Section II - Financial Statement Findings
+Finding Number: 2024-001
+Type of Finding: Significant deficiency
+Description: Financial statement preparation and accompanying note disclosures
+
+Condition: The District relies on the auditor to compile the financial statements and notes. As part of our
+professional services for the year ended June 30, 2024, we assisted in drafting the basic financial statements
+and related notes. The District does not have sufficient expertise to prepare its own financial statements and
+disclosures. This circumstance is not unusual in an organization of the District’s size.
+
+Criteria: Government Auditing Standards considers the inability to report the financial data reliably in
+accordance with GAAP to be an internal control deficiency.
+
+Cause: The District prepares a set of full-disclosure financial statements only on an annual basis and does not
+maintain the expertise to prepare full-disclosure financial statements due to cost and other considerations.
+
+Effect: The completeness of the financial statement disclosures and the accuracy of the overall financial
+presentation may be negatively impacted, since outside auditors do not have the same comprehensive
+understanding as the District's internal finance staff.
+
+Recommendation: We recommend management and those charged with governance continue to evaluate the
+degree of risk associated with this condition because of cost or other considerations. It is the responsibility of
+management and those charged with governance to make the decision of whether to accept the degree of risk
+associated with this condition because of cost or other considerations.
+
+Management Response: Management agrees with the assessment and has committed to evaluating the costs
+and benefits associated with preparing the annual financial statements.
+
+
+
+Section III - Federal Award Findings
+None.
+
+
+
+
+                                                                                                                  40
+                           Last Frontier Healthcare District
+        Schedule of Prior Year Findings and Questioned Costs (Continued)
+                                            Year Ended June 30, 2024
+
+Finding Number: 2023-001
+Type of Finding: Significant deficiency
+Description: Financial statement preparation and accompanying note disclosures
+
+Condition: The District relies on the auditor to compile the financial statements and notes. As part of our
+professional services for the year ended June 30, 2023, we assisted in drafting the basic financial statements
+and related notes. The District does not have sufficient expertise to prepare its own financial statements and
+disclosures. This circumstance is not unusual in an organization of the District’s size.
+
+Criteria: Government Auditing Standards considers the inability to report the financial data reliably in
+accordance with GAAP to be an internal control deficiency.
+
+Cause: The District prepares a set of full-disclosure financial statements only on an annual basis and does not
+maintain the expertise to prepare full-disclosure financial statements due to cost and other considerations.
+
+Effect: The completeness of the financial statement disclosures and the accuracy of the overall financial
+presentation may be negatively impacted, since outside auditors do not have the same comprehensive
+understanding as the District's internal finance staff.
+
+Recommendation: We recommend management and those charged with governance continue to evaluate the
+degree of risk associated with this condition because of cost or other considerations. It is the responsibility of
+management and those charged with governance to make the decision of whether to accept the degree of risk
+associated with this condition because of cost or other considerations.
+
+Management Response: Management agrees with the assessment and has committed to evaluating the costs
+and benefits associated with preparing the annual financial statements.
+
+Current Status: Repeated as Finding 2024-001.
+
+
+
+
+                                                                                                                  41
+                           Last Frontier Healthcare District
+        Schedule of Prior Year Findings and Questioned Costs (Continued)
+                                            Year Ended June 30, 2024
+
+Finding Number: 2023-002
+Type of Finding: Significant deficiency
+Description: Accounts receivable is not properly reviewed by management
+
+Condition: The District does not properly review accounts receivable. Some of the accounting systems used by
+the District are not able to provide a report that reconciles to the balance as of year end. Also, several of the
+accounts are not properly supported by documentation.
+
+Criteria: Government Auditing Standards considers the inability to report the financial data reliably in
+accordance with GAAP to be an internal control deficiency.
+
+Cause: The District does not properly review accounts receivable.
+
+Effect: The completeness of the financial statement disclosures and the accuracy of the overall financial
+presentation may be negatively impacted.
+
+Recommendation: We recommend management and those charged with governance continue to evaluate the
+degree of risk associated with this condition.
+
+Management Response: Management agrees with the assessment and has committed to evaluating the risks
+of not properly reviewing accounts receivable.
+
+Current Status: Corrected.
+
+
+
+
+                                                                                                                42
+
