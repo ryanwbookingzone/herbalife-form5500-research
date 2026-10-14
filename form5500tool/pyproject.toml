@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "form5500"
+version = "0.1.0"
+description = "DOL Form 5500 research toolkit: bulk DOL FOIA datasets -> DuckDB, EFAST2 live search/PDFs, broker timelines, prospect lists, watch mode, reports, REST API"
+requires-python = ">=3.10"
+dependencies = ["duckdb>=1.1", "requests", "pandas", "rapidfuzz", "matplotlib", "reportlab", "openpyxl"]
+
+[project.optional-dependencies]
+api = ["fastapi", "uvicorn"]
+test = ["pytest", "httpx"]
+
+[project.scripts]
+form5500 = "form5500.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,16 @@
+pn,from_year,to_year,primary_before,primary_after,primary_changed,groups_added,groups_dropped
+001,2009,2010,ACTUARIAL,M HOLDINGS SECURITIES,True,,
+001,2010,2011,M HOLDINGS SECURITIES,M HOLDINGS SECURITIES,False,PCF / Trucordia (Peter C. Foy),
+001,2011,2012,M HOLDINGS SECURITIES,PCF / Trucordia (Peter C. Foy),True,,M HOLDINGS SECURITIES
+001,2012,2013,PCF / Trucordia (Peter C. Foy),PCF / Trucordia (Peter C. Foy),False,,ACTUARIAL
+501,2009,2010,TBG Danco,TBG Danco,False,TBG,
+501,2010,2011,TBG Danco,PCF / Trucordia (Peter C. Foy),True,DANCO THOMAS; M FINANCIAL HOLDINGS; PCF / Trucordia (Peter C. Foy),TBG
+501,2011,2012,PCF / Trucordia (Peter C. Foy),PCF / Trucordia (Peter C. Foy),False,,DANCO THOMAS; THOMAS DANCO
+501,2012,2013,PCF / Trucordia (Peter C. Foy),PCF / Trucordia (Peter C. Foy),False,PACIFIC ADVISORS,M FINANCIAL HOLDINGS; TBG Danco
+501,2013,2014,PCF / Trucordia (Peter C. Foy),PCF / Trucordia (Peter C. Foy),False,,PACIFIC ADVISORS
+501,2014,2015,PCF / Trucordia (Peter C. Foy),PCF / Trucordia (Peter C. Foy),False,ANTHEM COMPANIES,
+501,2017,2018,PCF / Trucordia (Peter C. Foy),PCF / Trucordia (Peter C. Foy),False,,ANTHEM COMPANIES
+501,2019,2020,PCF / Trucordia (Peter C. Foy),PCF / Trucordia (Peter C. Foy),False,DAVID M COUGHLIN; DAVID M SMITH; DOUGLAS J LOVE; MARIAN E LENCIONI,
+501,2020,2021,PCF / Trucordia (Peter C. Foy),PCF / Trucordia (Peter C. Foy),False,DAVID COUGHLIN; DAVID SMITH; DOUGLAS LOVE; EXPRESS; MARIAN LENCIONI,DAVID M COUGHLIN; DAVID M SMITH; DOUGLAS J LOVE; MARIAN E LENCIONI
+501,2021,2022,PCF / Trucordia (Peter C. Foy),PCF / Trucordia (Peter C. Foy),False,,DAVID COUGHLIN; DAVID SMITH; DOUGLAS LOVE; EXPRESS; MARIAN LENCIONI
+501,2023,2024,PCF / Trucordia (Peter C. Foy),PCF / Trucordia (Peter C. Foy),False,WEX,
