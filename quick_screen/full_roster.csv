@@ -1,0 +1,122 @@
+system_name,state,system_type,cash_investments_m,has_equities,has_captive,is_target,si_reserves_m,si_trust_m,source_type,source_url
+The Methodist Hospital,TX,nonprofit,$2959.3M,yes,no,False,,,propublica_990,https://www.mhm.org/library/financial-statements-and-tax-returns/
+Childrens Health System Of Texas,TX,nonprofit,$2499.9M,yes,no,False,,,propublica_990,https://www.childrens.com/about-us/financial-information
+Texas Childrens Hospital,TX,nonprofit,$2193.0M,yes,no,False,,,propublica_990,https://www.texaschildrens.org/about-us/financials
+Sharp Memorial Hospital,CA,nonprofit,$1187.8M,yes,no,False,,,propublica_990,https://www.sharp.com/about/financial-reports/
+Baylor University Medical Center,TX,nonprofit,$1089.3M,yes,yes,False,,,propublica_990,https://www.bswhealth.com/about-us/financial-information
+Adventist Health System-west,CA,nonprofit,$1067.0M,yes,no,False,,,propublica_990,https://www.adventisthealth.org/about/financial-information/
+Cedars-sinai Health System,CA,nonprofit,$1000.8M,yes,no,False,,,propublica_990,https://www.cedars-sinai.org/about/financial-reports.html
+Cook Childrens Medical Center,TX,nonprofit,$573.0M,yes,no,False,,,propublica_990,https://www.cookchildrens.org/about-us/financial-reports
+Cook Childrens Health Care System,TX,nonprofit,$412.5M,yes,no,False,,,propublica_990,https://www.cookchildrens.org/about-us/financial-reports
+Community Memorial Health System,CA,nonprofit,$270.5M,yes,no,False,,,990_verified,https://siviq.co/nonprofits/organizations/951683892
+KAWEAH DELTA HEALTH CARE DISTRICT,CA,hospital,$269.8M,no,no,True,,$0.83M,audit_verified_high,https://www.kaweahhealth.org/about-us/board-of-directors/audited-financials/
+Covenant Medical Center,TX,nonprofit,$268.4M,yes,yes,False,,,propublica_990,https://www.providence.org/about/financial-statements
+RIVERSIDE UNIVERSITY HEALTH SYSTEM,CA,hospital,$265.8M,no,no,True,,,audit_verified_high,https://auditorcontroller.org/reports-and-publications
+UCI HEALTH - FOUNTAIN VALLEY,CA,hospital,$262.8M,yes,yes,False,,,ca_hcai,https://www.ucop.edu/uc-controller/financial-reports/
+ST. JOSEPH HOSPITAL,CA,hospital,$257.0M,yes,yes,False,,,ca_hcai,https://www.providence.org/about/financial-statements
+WASHINGTON TOWNSHIP HEALTHCARE DISTRICT,CA,hospital,$253.0M,yes,no,False,,,ca_hcai,https://www.washingtonhealth.com/about-us/board-of-directors/audited-financials/
+Christus Spohn Health System Corporation,TX,nonprofit,$249.2M,yes,yes,False,,,propublica_990,https://app.lla.state.la.us/PublicReports.nsf/
+SIERRA NEVADA MEMORIAL MINERS  HOSPITAL INC,CA,hospital,$244.6M,yes,no,False,,,ca_hcai,https://www.adventisthealth.org/documents/system/Adventist-Health-Annual-Filing-12-31-24.pdf
+SONORA COMMUNITY HOSPITAL,CA,hospital,$229.6M,yes,no,False,,,ca_hcai,https://www.adventisthealth.org/documents/system/Adventist-Health-Annual-Filing-12-31-24.pdf
+CALIFORNIA HOSPITAL MEDICAL CENTER,CA,hospital,$228.5M,yes,yes,False,,,ca_hcai,https://www.commonspirit.org/investor-resources
+CITY OF HOPE HELFORD RESEARCH HOSPITAL,CA,hospital,$223.3M,yes,no,False,,,ca_hcai,https://www.cityofhope.org/about-city-of-hope/who-we-are/financials
+SUTTER WEST BAY HOSPITALS,CA,hospital,$207.5M,yes,no,False,,,ca_hcai,https://edge.sitecorecloud.io/sutterhealt962c-sutterhealt8fce-production57cc-4860/media/Project/SutterHealth/SutterHealth/PDF/about/sutter-health-financials-2024.pdf
+Marin General Hospital,CA,nonprofit,$198.3M,yes,no,False,,,propublica_990,https://www.marinhealthcare.org/financial-reports/
+LOS ANGELES GENERAL MEDICAL CENTER,CA,hospital,$195.6M,yes,no,False,,,ca_hcai,https://auditor.lacounty.gov/wp-content/uploads/2025/01/Annual-Comprehensive-Financial-Report-FY-2023-2024.pdf
+BARTON HEALTHCARE SYSTEM,CA,hospital,$191.5M,yes,no,False,,,ca_hcai,https://bartonhealth.org/about/financial-reports/
+SIERRA VIEW LOCAL HEALTHCARE DISTRICT,CA,hospital,$186.0M,yes,no,False,,,ca_hcai,https://www.sierra-view.com/about/financials/
+St Mary Medical Center,CA,nonprofit,$185.8M,yes,yes,False,,,propublica_990,https://www.providence.org/about/financial-statements
+COMMUNITY MEMORIAL HOSPITAL OF SAN BUENAVENTURA,CA,hospital,$185.3M,yes,no,False,,,ca_hcai,https://www.cmhshealth.org/about/financials/
+LOS ANGELES COUNTY OLIVE VIEW-UCLA MEDICAL CENTER,CA,hospital,$184.8M,yes,no,False,,,ca_hcai,https://auditor.lacounty.gov/wp-content/uploads/2025/01/Annual-Comprehensive-Financial-Report-FY-2023-2024.pdf
+NORTHRIDGE HOSPITAL MEDICAL CENTER,CA,hospital,$179.7M,yes,yes,False,,,ca_hcai,https://www.commonspirit.org/investor-resources
+KERN COUNTY HOSPITAL AUTHORITY,CA,hospital,$174.8M,no,no,True,$11.07M,,audit_verified_high,https://www.kernmedical.com/documents/Kern-County-Hospital-Authority-FY-2024-Audited-FS-Final-12.23.24.pdf
+TAHOE FOREST HOSPITAL DISTRICT,CA,hospital,$174.2M,near_fixed_income,no,True,$8.01M,,audit_verified_near,https://www.tfhd.com/wp-content/uploads/2025/09/0.-Tahoe-Forest-Hospital-District-6-30-24-FS-Issued-10-29-24.pdf
+QUEEN OF THE VALLEY MEDICAL CENTER,CA,hospital,$172.0M,yes,yes,False,,,ca_hcai,https://www.providence.org/about/financial-statements
+Shannon Medical Center,TX,nonprofit,$169.8M,yes,no,False,,,propublica_990,https://shannonhealth.com/about-us/financials/
+REEDLEY COMMUNITY HOSPITAL,CA,hospital,$169.2M,yes,no,False,,,ca_hcai,https://www.adventisthealth.org/about/financial-information/
+SAN ANTONIO REGIONAL HOSPITAL,CA,hospital,$168.3M,yes,no,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+Methodist Childrens Hospital,TX,nonprofit,$165.3M,yes,no,False,,,propublica_990,https://www.mhm.org/library/financial-statements-and-tax-returns/
+SUTTER MEDICAL CENTER SACRAMENTO,CA,hospital,$161.6M,yes,no,False,,,ca_hcai,https://emma.msrb.org/P11855694.pdf
+CHILDRENS HOSPITAL LOS ANGELES,CA,hospital,$159.7M,yes,no,False,,,ca_hcai,https://emma.msrb.org/P11827180.pdf
+ALHAMBRA HOSPITAL MEDICAL CENTER LP,CA,hospital,$156.4M,skip,skip,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+SOUTHERN MONO HEALTHCARE DISTRICT,CA,hospital,$152.8M,no,no,True,$0.93M,,ca_hcai,https://www.mammothhospital.com/about-us/financials/
+EMANATE HEALTH MEDICAL CENTER,CA,hospital,$142.0M,yes,no,False,,,ca_hcai,https://emma.msrb.org/P11869630.pdf
+CASA COLINA HOSPITAL AND CENTERS FOR HEALTHCARE,CA,hospital,$139.1M,yes,no,False,,,emma_verified,https://emma.msrb.org/P21602838-P21236085-.pdf
+Rideout Memorial Hospital,CA,nonprofit,$135.1M,yes,no,False,,,propublica_990,https://projects.propublica.org/nonprofits/organizations/941387866
+MERCY GENERAL HOSPITAL,CA,hospital,$132.8M,yes,yes,False,,,ca_hcai,https://www.commonspirit.org/investor-resources
+MERCY MEDICAL CENTER,CA,hospital,$130.3M,yes,yes,False,,,ca_hcai,https://www.commonspirit.org/investor-resources
+REDWOOD MEMORIAL HOSPITAL,CA,hospital,$124.9M,yes,yes,False,,,ca_hcai,https://www.providence.org/about/financial-statements
+SAN JOAQUIN COMMUNITY HOSPITAL CORP,CA,hospital,$110.6M,yes,no,False,,,parent_system,https://www.adventisthealth.org/about/financial-information/
+UCI HEALTH - PLACENTIA LINDA HOSPITAL,CA,hospital,$110.5M,yes,yes,False,,,ca_hcai,https://www.ucop.edu/uc-controller/financial-reports/
+ADVENTIST HEALTH DELANO,CA,hospital,$110.2M,yes,no,False,,,ca_hcai,https://www.adventisthealth.org/about/financial-information/
+LOS ANGELES COUNTY/ HARBOR-UCLA MEDICAL CENTER,CA,hospital,$107.2M,yes,no,False,,,ca_hcai,https://auditor.lacounty.gov/wp-content/uploads/2025/01/Annual-Comprehensive-Financial-Report-FY-2023-2024.pdf
+UKIAH ADVENTIST HOSPITAL,CA,hospital,$103.4M,yes,no,False,,,ca_hcai,https://www.adventisthealth.org/about/financial-information/
+CONTRA COSTA REGIONAL MEDICAL CENTER,CA,hospital,$103.3M,no,no,True,,,county_pool_verified,https://www.contracosta.ca.gov/DocumentCenter/View/83766/FY24-25-Adopted-Budget-Book
+PROVIDENCE CEDARS-SINAI TARZANA MEDICAL CENTER,CA,hospital,$101.2M,yes,yes,False,,,ca_hcai,https://www.providence.org/about/financial-statements
+HENRY MAYO NEWHALL MEMORIAL HOSPITAL,CA,hospital,$100.6M,yes,no,False,,,emma_verified,https://emma.msrb.org/P21900828.pdf
+GARFIELD MEDICAL CENTER,CA,hospital,$98.8M,skip,skip,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+POMONA VALLEY HOSPITAL MEDICAL CENTER,CA,hospital,$96.4M,unknown,unknown,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+Orthopaedic Hospital,CA,nonprofit,$93.3M,yes,yes,False,,,parent_system,https://www.ucop.edu/uc-controller/financial-reports/
+Chinese Hospital Association,CA,nonprofit,$91.5M,unknown,unknown,False,,,propublica_990,https://projects.propublica.org/nonprofits/organizations/940382780
+RANCHO LOS AMIGOS NATIONAL REHABILITATION CENTER,CA,hospital,$84.7M,yes,no,False,,,ca_hcai,https://auditor.lacounty.gov/wp-content/uploads/2025/01/Annual-Comprehensive-Financial-Report-FY-2023-2024.pdf
+Castle Medical Center,CA,nonprofit,$82.4M,yes,no,False,,,parent_system,https://www.adventisthealth.org/about/financial-information/
+MARSHALL MEDICAL CENTER,CA,hospital,$79.7M,unknown,no,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+"PASADENA HOSPITAL ASSOCIATION, LTD.",CA,hospital,$77.6M,unknown,unknown,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+CHILDRENS HOSPITAL & RESEARCH CENTER OAKLAND,CA,hospital,$76.9M,yes,no,False,,,ca_hcai,https://emma.msrb.org/P11827180.pdf
+EMANATE HEALTH FOOTHILL PRESBYTERIAN HOSPITAL,CA,hospital,$76.1M,yes,no,False,,,ca_hcai,https://emma.msrb.org/P11869630.pdf
+SAINT AGNES MEDICAL CENTER,CA,hospital,$75.0M,yes,yes,False,,,parent_system,https://www.commonspirit.org/investor-resources
+GOLETA VALLEY COTTAGE HOSPITAL,CA,hospital,$73.1M,yes,no,False,,,parent_system,https://www.cottagehealth.org/about/financial/
+OROVILLE HOSPITAL,CA,hospital,$70.4M,yes,no,False,,,parent_system,https://www.adventisthealth.org/about/financial-information/
+USC ARCADIA HOSPITAL,CA,hospital,$70.0M,yes,no,False,,,parent_system,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+SHARP CORONADO HOSPITAL AND HEALTHCARE,CA,hospital,$64.5M,yes,no,False,,,ca_hcai,https://www.sharp.com/about/financial-reports/
+SEQUOIA HOSPITAL,CA,hospital,$61.6M,yes,yes,False,,,parent_system,https://www.commonspirit.org/investor-resources
+ADVENTIST HEALTH HOWARD MEMORIAL,CA,hospital,$60.1M,yes,no,False,,,ca_hcai,https://www.adventisthealth.org/about/financial-information/
+ADVENTIST HEALTH CLEARLAKE HOSPITAL,CA,hospital,$58.7M,yes,no,False,,,ca_hcai,https://www.adventisthealth.org/about/financial-information/
+LOMA LINDA UNIVERSITY CHILDRENS HOSPITAL,CA,hospital,$58.4M,yes,no,False,,,ca_hcai,https://lluh.org/about-us/financial-information
+Lexington Medical Center,CA,nonprofit,$54.7M,unknown,unknown,False,,,propublica_990,https://projects.propublica.org/nonprofits/organizations/560543238
+"HOAG ORTHOPEDIC INSTITUTE, LLC",CA,hospital,$47.6M,yes,no,False,,,ca_hcai,https://www.hoag.org/about-hoag/financial-information/
+PROVIDENCE LITTLE COMPANY OF MARY MC - SAN PEDRO,CA,hospital,$47.4M,yes,yes,False,,,ca_hcai,https://www.providence.org/about/financial-statements
+PIONEERS MEMORIAL HEALTHCARE DISTRICT,CA,hospital,$46.9M,no,no,True,,,audit_verified_high,https://pmhd.org/wp-content/uploads/2024/11/11-26-24-agenda-packet.pdf
+FAIRCHILD MEDICAL CENTER,CA,hospital,$44.9M,no,no,True,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+PIH HEALTH GOOD SAMARITAN HOSPITAL,CA,hospital,$44.4M,yes,no,False,,,ca_hcai,https://www.pihhealth.org/about/financial-information/
+BEAR VALLEY COMMUNITY HOSPITAL,CA,hospital,$43.7M,no,no,True,,,audit_verified_high,https://bvchd.com/wp-content/uploads/2024/03/March-05-2024-Finance-Committee-Meeting-Agenda-Supporting-Documents.pdf
+Ridgecrest Regional Hospital,CA,nonprofit,$43.5M,unknown,unknown,False,,,propublica_990,https://projects.propublica.org/nonprofits/organizations/952082686
+SAN BERNARDINO MOUNTAINS COMMUNITY HOSPITAL DISTRICT,CA,hospital,$43.4M,no,no,True,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+MERCY MEDICAL CENTER - MT. SHASTA,CA,hospital,$43.2M,yes,yes,False,,,ca_hcai,https://www.commonspirit.org/investor-resources
+ANTELOPE VALLEY MEDICAL CENTER,CA,hospital,$42.7M,yes,no,False,,,audit_verified,https://www.avmc.org/images/AVHD-6-24-FS-Final.pdf
+Mission Hospital Inc,TX,nonprofit,$39.7M,unknown,unknown,False,,,propublica_990,https://projects.propublica.org/nonprofits/organizations/742206635
+NORTHERN INYO HEALTHCARE DISTRICT,CA,hospital,$39.6M,near_fixed_income,no,True,$1.06M,,audit_verified_near,https://www.nih.org/documents/2026/Financials/NIHD-Signed-Financial-Statements-FY25.pdf
+COMMUNITY HOSPITAL OF SAN BERNARDINO,CA,hospital,$39.2M,yes,yes,False,,,ca_hcai,https://www.commonspirit.org/investor-resources
+SAN BENITO HEALTH CARE DISTRICT,CA,hospital,$38.8M,no,no,True,$0.50M,,audit_verified_high,https://www.hazelhawkins.com/images/FY24-Audited-Financial-Statement.pdf
+COMMUNITY HOSPITAL OF THE MONTEREY PENINSULA,CA,hospital,$38.2M,yes,no,False,,,parent_system,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+Covenant Hospital Hobbs,TX,nonprofit,$38.0M,yes,yes,False,,,parent_system,https://www.providence.org/about/financial-statements
+MODOC MEDICAL CENTER,CA,hospital,$37.9M,no,no,True,$0.01M,,audit_verified_high,https://modocmedicalcenter.org/wp-content/uploads/2026/05/Last-Frontier-Healthcare-District-6.30.24-Issued-FS.pdf
+SAN GORGONIO MEMORIAL HOSPITAL,CA,hospital,$37.3M,no,no,True,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+MARINHEALTH MEDICAL CENTER,CA,hospital,$37.2M,yes,no,False,,,990_verified,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+MAYERS MEMORIAL HOSPITAL,CA,hospital,$36.6M,no,no,True,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+CHINESE HOSPITAL,CA,hospital,$36.3M,unknown,unknown,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+MONTEREY PARK HOSPITAL,CA,hospital,$36.2M,skip,skip,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+"TARZANA TREATMENT CENTERS, INC.",CA,hospital,$35.7M,unknown,unknown,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+MISSION HOSPITAL,CA,hospital,$35.2M,yes,yes,False,,,parent_system,https://www.providence.org/about/financial-statements
+MERCY SAN JUAN MEDICAL CENTER,CA,hospital,$35.1M,yes,yes,False,,,ca_hcai,https://www.commonspirit.org/investor-resources
+EL CENTRO REGIONAL MEDICAL CENTER,CA,hospital,$34.4M,unknown,unknown,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+Scott & White Hospital,TX,nonprofit,$34.1M,yes,yes,False,,,propublica_990,https://www.bswhealth.com/about-us/financial-information
+ALAMEDA HEALTH SYSTEM,CA,hospital,$31.8M,no,no,True,$56.28M,,county_system,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+"CHLB, LLC",CA,hospital,$30.8M,skip,skip,False,,,for_profit,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+OAK VALLEY DISTRICT HOSPITAL,CA,hospital,$30.2M,no,no,True,,,audit_verified_high,https://oakvalleyhospital.com/wp-content/uploads/2025/08/08.07.2025-Finance-Committee-Packet.pdf
+Barlow Respiratory Hospital,CA,nonprofit,$28.7M,unknown,unknown,False,,,propublica_990,https://projects.propublica.org/nonprofits/organizations/951647809
+SANTA ROSA MEMORIAL HOSPITAL,CA,hospital,$28.7M,yes,yes,False,,,ca_hcai,https://www.providence.org/about/financial-statements
+UCLA SANTA MONICA MEDICAL CENTER,CA,hospital,$28.7M,yes,yes,False,,,ca_hcai,https://www.ucop.edu/uc-controller/financial-reports/
+ST. JOHNS REGIONAL MEDICAL CENTER,CA,hospital,$26.3M,yes,yes,False,,,ca_hcai,https://www.providence.org/about/financial-statements
+GREATER EL MONTE COMMUNITY HOSPITAL,CA,hospital,$26.1M,skip,skip,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+LOMPOC VALLEY MEDICAL CENTER,CA,hospital,$25.9M,no,no,True,$1.49M,,audit_verified_high,https://www.lompocvmc.com/files/95f1acfc1/LHDafs24.2%29.pdf
+MADERA COMMUNITY HOSPITAL,CA,hospital,$25.3M,unknown,unknown,False,,,ca_hcai,https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+HARRIS HEALTH SYSTEM,TX,hospital_district,$1462.2M,no,no,True,$67.63M,,audit_verified_high,https://www.harrishealth.org/SiteCollectionDocuments/financials/combined/harris-health-9-24-fs-revised-final.pdf
+JPS HEALTH NETWORK,TX,hospital_district,$2169.3M,no,no,True,$14.20M,$14.42M,audit_verified_high,https://jpshealthnet.org/sites/default/files/2026-04/JPS-Health-Network-09-2025-FS.pdf
+UMC HEALTH SYSTEM LUBBOCK,TX,hospital_district,$411.6M,no,no,True,$4.84M,$17.05M,audit_verified_high,https://www.umchealthsystem.com/wp-content/uploads/2026/07/UMC-Health-System-12-25-FS-Final.pdf
+UNIVERSITY HEALTH SAN ANTONIO,TX,hospital_district,$2320.1M,no,no,True,$6.50M,$5.44M,audit_verified,https://www.universityhealth.com/-/media/Files/About-Us/Public-Notices-Reports/Financial-Reports/Audited-Financial-Reports/2024-Audited-Financial-Reports.ashx
+UMC EL PASO,TX,hospital_district,$463.2M,no,no,True,,,hcris_verified,https://astrelis.co/download/hospital/450024
+NUECES COUNTY HOSPITAL DISTRICT,TX,hospital_district,$50.0M,no,no,False,,,audit_verified,https://cms9files.revize.com/nchdtx/NCHD%202025%20Audited%20Financial%20Statements.pdf
+MIDLAND MEMORIAL HOSPITAL,TX,hospital_district,$181.0M,no,no,True,,,rating_verified,https://www.fitchratings.com/research/us-public-finance/fitch-rates-midland-county-hospital-district-tx-ser-2024a-bonds-aa-outlook-stable-14-03-2024
+ECTOR COUNTY HOSPITAL DISTRICT,TX,hospital_district,$89.5M,no,no,True,,,board_verified,https://www.mchodessa.com/documents/board/regular%20board/5.6.25-REGULAR-BOARD-MEETING-BOARD-BOOK.pdf
+PARKLAND HEALTH,TX,hospital_district,$1700.0M,no,no,True,$50.00M,,pfia_inferred,https://www.parklandhealth.org/financial-summary

@@ -1,0 +1,2633 @@
+NORTHERN INYO HEALTHCARE DISTRICT
+
+    FINANCIAL STATEMENTS AND
+   SUPPLEMENTARY INFORMATION
+
+     YEAR ENDED JUNE 30, 2025
+                  NORTHERN INYO HEALTHCARE DISTRICT
+                         TABLE OF CONTENTS
+                       YEAR ENDED JUNE 30, 2025
+
+
+
+
+INDEPENDENT AUDITORS’ REPORT                                 1
+
+FINANCIAL STATEMENTS
+
+ STATEMENT OF NET POSITION                                    5
+
+ STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN
+ NET POSITION                                                 7
+
+ STATEMENT OF CASH FLOWS                                      8
+
+ STATEMENT OF FIDUCIARY NET POSITION                         10
+
+ STATEMENT OF CHANGES IN FIDUCIARY NET POSITION – PENSION
+ TRUST FUND                                                  11
+
+ NOTES TO FINANCIAL STATEMENTS                               12
+
+REQUIRED SUPPLEMENTARY INFORMATION
+
+ SCHEDULE OF CHANGES IN THE NET PENSION LIABILITY AND
+ RELATED RATIOS – PENSION PLAN                               42
+
+ SCHEDULE OF CONTRIBUTIONS – PENSION PLAN                    43
+
+ SCHEDULE OF INVESTMENT RETURNS – PENSION PLAN               44
+
+SUPPLEMENTARY INFORMATION
+
+ COMBINING STATEMENT OF NET POSITION                         45
+
+ COMBINING STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN
+ NET POSITION                                                47
+
+ COMBINING STATEMENT OF CASH FLOWS                           48
+
+STATISTICAL SECTION
+
+ STATISTICAL INFORMATION – LAST EIGHT YEARS                  50
+                                                                                              CliftonLarsonAllen LLP
+                                                                                              CLAconnect.com
+
+
+
+
+                                                 INDEPENDENT AUDITORS’ REPORT
+
+
+
+Board of Directors
+Northern Inyo Healthcare District
+Bishop, California
+
+
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the business-type activities and fiduciary activities of the
+Northern Inyo Healthcare District (District), as of and for the year then ended June 30, 2025, and the
+related notes to the financial statements, which collectively comprise the District’s basic financial
+statements as listed in the table of contents.
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+respective financial position of the business-type activities and fiduciary activities the District, as of
+June 30, 2025, and the respective changes in financial position and, where applicable, cash flows
+thereof for the year then ended in accordance with accounting principles generally accepted in the
+United States of America.
+
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States
+of America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards issued by the Comptroller General of the United States (Government Auditing Standards).
+Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the
+Audit of the Financial Statements section of our report. We are required to be independent of the
+District and to meet our other ethical responsibilities, in accordance with the relevant ethical
+requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient and
+appropriate to provide a basis for our audit opinion.
+
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America; and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud
+or error.
+
+In preparing the financial statements, management is required to evaluate whether there are conditions
+or events, considered in the aggregate, that raise substantial doubt about the District’s ability to
+continue as a going concern for twelve months beyond the financial statement date, including any
+currently known information that may raise substantial doubt shortly thereafter.
+
+
+
+CLA (CliftonLarsonAllen LLP) is an independent network member of CLA Global. See CLAglobal.com/disclaimer.
+                                                                             (1)
+Board of Directors
+Northern Inyo Healthcare District
+
+
+
+
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that
+includes our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance
+and therefore is not a guarantee that an audit conducted in accordance with GAAS and Government
+Auditing Standards will always detect a material misstatement when it exists. The risk of not detecting a
+material misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+Misstatements are considered material if there is a substantial likelihood that, individually or in the
+aggregate, they would influence the judgment made by a reasonable user based on the financial
+statements.
+
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+
+      Exercise professional judgment and maintain professional skepticism throughout the audit.
+
+      Identify and assess the risks of material misstatement of the financial statements, whether due to
+       fraud or error, and design and perform audit procedures responsive to those risks. Such
+       procedures include examining, on a test basis, evidence regarding the amounts and disclosures in
+       the financial statements.
+
+      Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+       that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+       effectiveness of the District’s internal control. Accordingly, no such opinion is expressed.
+
+      Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+       accounting estimates made by management, as well as evaluate the overall presentation of the
+       financial statements.
+
+      Conclude whether, in our judgment, there are conditions or events, considered in the aggregate,
+       that raise substantial doubt about the District’s ability to continue as a going concern for a
+       reasonable period of time.
+
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control–related
+matters that we identified during the audit.
+
+
+
+
+                                                    (2)
+Board of Directors
+Northern Inyo Healthcare District
+
+
+
+
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the schedule of
+changes in the net pension liability and related ratios, schedule of pension contributions, and schedule of
+investment returns, as listed in the table of content be presented to supplement the basic financial
+statements. Such information is the responsibility of management and, although not a part of the basic
+financial statements, is required by the Governmental Accounting Standards Board, who considers it to be
+an essential part of financial reporting for placing the basic financial statements in an appropriate
+operational, economic, or historical context. We have applied certain limited procedures to the required
+supplementary information in accordance with auditing standards generally accepted in the United States
+of America, which consisted of inquiries of management about the methods of preparing the information
+and comparing the information for consistency with management’s responses to our inquiries, the basic
+financial statements, and other knowledge we obtained during our audit of the basic financial statements.
+We do not express an opinion or provide any assurance on the information because the limited procedures
+do not provide us with sufficient evidence to express an opinion or provide any assurance.
+
+Management has omitted the management’s discussion and analysis that accounting principles generally
+accepted in the United States of America require to be presented to supplement the basic financial
+statements. Such missing information, although not a part of the basic financial statements, is required by
+the Governmental Accounting Standards Board, who considers it to be an essential part of financial
+reporting for placing the basic financial statements in an appropriate operational, economic, or historical
+context. Our opinions on the basic financial statements are not affected by the missing information.
+
+Supplementary Information
+Our audit was conducted for the purpose of forming opinions on the financial statements that collectively
+comprise the District’s basic financial statements. The combining financial statements of the District and
+component units are presented for purposes of additional analysis and are not a required part of the basic
+financial statements. Such information is the responsibility of management and was derived from and
+relates directly to the underlying accounting and other records used to prepare the basic financial
+statements. The information has been subjected to the auditing procedures applied in the audit of the basic
+financial statements and certain additional procedures, including comparing and reconciling such
+information directly to the underlying accounting and other records used to prepare the basic financial
+statements or to the basic financial statements themselves, and other additional procedures in accordance
+with GAAS. In our opinion, the combining financial statements of the District and component units are fairly
+stated, in all material respects, in relation to the basic financial statements as a whole.
+
+Other Information
+Management is responsible for the other information included in the basic financial statements. The other
+information comprises the statistical information of the District but does not include the basic financial
+statements and our auditor’s report thereon. Our opinions on the basic financial statements do not cover
+the other information, and we do not express an opinion or any form of assurance thereon.
+
+In connection with our audit of the basic financial statements, our responsibility is to read the other
+information and consider whether a material inconsistency exists between the other information and the
+basic financial statements, or the other information otherwise appears to be materially misstated. If, based
+on the work performed, we conclude that an uncorrected material misstatement of the other information
+exists, we are required to describe it in our report.
+
+
+
+                                                    (3)
+Board of Directors
+Northern Inyo Healthcare District
+
+
+
+
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+December 15, 2025 on our consideration of the District’s internal control over financial reporting and on
+our tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements
+and other matters. The purpose of that report is solely to describe the scope of our testing of internal
+control over financial reporting and compliance and the results of that testing, and not to provide an
+opinion on the effectiveness of District’s internal control over financial reporting or on compliance. That
+report is an integral part of an audit performed in accordance with Government Auditing Standards in
+considering District’s internal control over financial reporting and compliance.
+
+
+
+
+CliftonLarsonAllen LLP
+
+Roseville, California
+December 15, 2025
+
+
+
+
+                                                    (4)
+                                NORTHERN INYO HEALTHCARE DISTRICT
+                                    STATEMENT OF NET POSITION
+                                           JUNE 30, 2025
+
+
+
+
+                                                  ASSETS
+
+CURRENT ASSETS
+ Cash and Investments                                               $    28,597,729
+ Receivables:
+   Patient, Net of Estimated Uncollectibles                              16,694,500
+   Leases Receivable                                                         19,414
+   Other Receivables                                                      5,144,059
+ Estimated Third-Party Payor Settlements                                    841,312
+ Inventory                                                                5,334,240
+ Prepaid Expenses and Other Assets                                        1,153,602
+      Total Current Assets                                               57,784,856
+
+
+
+NONCURRENT CASH AND INVESTMENTS
+ Restricted for Specific Operating Purposes and
+  Capital Improvements                                                    1,469,292
+ Long-Term Investments                                                      735,988
+     Total Noncurrent Cash and Investments                                2,205,280
+
+
+
+
+CAPITAL ASSETS
+ Capital Assets not Being Depreciated/Amortized                          12,442,254
+ Capital Assets Being Depreciated/Amortized, Net                         69,178,864
+      Total Capital Assets                                               81,621,118
+
+       Total Assets                                                     141,611,254
+
+
+
+
+DEFERRED OUTFLOWS OF RESOURCES
+ Deferred Outflows Related to Pensions                                    9,393,030
+ Deferred Outflows Related to Refunding                                     297,382
+ Deferred Outflows Related to Acquisition                                   469,940
+     Total Deferred Outflows of Resources                                10,160,352
+
+       Total Assets and Deferred Outflows of Resources              $ 151,771,606
+
+
+
+
+See accompanying Notes to Financial Statements.
+                                                    (5)
+                                NORTHERN INYO HEALTHCARE DISTRICT
+                               STATEMENT OF NET POSITION (CONTINUED)
+                                           JUNE 30, 2025
+
+
+
+
+                                                  LIABILITIES
+
+CURRENT LIABILITIES
+ Current Maturities of Long-Term Debt                                       $    1,991,714
+ Current Maturities Related to Leases                                              186,100
+ Current Maturities Related to SBITA's                                           1,238,931
+ Other Liabilities                                                                 341,930
+
+  Accounts Payable:
+   Trade                                                                         4,793,082
+  Accrued Expenses:
+   Salaries and Wages                                                            2,810,076
+   Interest and Sales Taxes                                                         89,554
+   Self-Insurance Claims                                                         1,062,590
+   Unearned Revenue                                                                 35,314
+       Total Current Liabilities                                                12,549,291
+
+LEASE LIABILITY, Less Current Maturities                                          242,733
+
+SBITA LIABILITY, Less Current Maturities                                         4,996,188
+
+LONG-TERM DEBT, Less Current Maturities                                         45,871,672
+
+NET PENSION LIABILITY                                                           31,874,258
+
+       Total Liabilities                                                        95,534,142
+
+DEFERRED INFLOWS OF RESOURCES
+ Deferred Inflows Related to Pensions                                            8,740,164
+ Deferred Inflows Related to Lease Receivables                                      18,626
+     Total Deferred Inflows of Resources                                         8,758,790
+
+NET POSITION
+ Net Investment in Capital Assets                                               27,093,780
+ Restricted:
+  Programs                                                                          25,142
+  Capital Improvements                                                           1,444,150
+ Unrestricted                                                                   18,915,602
+      Total Net Position                                                        47,478,674
+
+       Total Liabilities, Deferred Inflows of Resources, and Net Position   $ 151,771,606
+
+
+
+
+See accompanying Notes to Financial Statements.
+                                                        (6)
+                        NORTHERN INYO HEALTHCARE DISTRICT
+            STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+                              YEAR ENDED JUNE 30, 2025
+
+
+
+
+OPERATING REVENUES
+ Net Patient Service Revenue                                       $    99,493,670
+ Other Revenue                                                           2,585,894
+      Total Operating Revenues                                         102,079,564
+
+OPERATING EXPENSES
+ Salaries and Wages                                                     46,908,256
+ Employee Benefits                                                      17,221,022
+ Professional Fees and Purchased Services                               19,695,452
+ Supplies                                                               12,812,432
+ Purchased Services                                                      6,929,502
+ Depreciation and Amortization                                           5,187,694
+ Other                                                                   8,387,850
+      Total Operating Expenses                                         117,142,208
+
+OPERATING LOSS                                                         (15,062,644)
+
+NONOPERATING REVENUES (EXPENSES)
+ Property Tax for Operations                                               987,050
+ Property Tax for Debt Service                                           2,170,208
+ Investment Income                                                          16,110
+ Interest Expenses                                                      (1,753,903)
+ Gain (Loss) on Sale of Assets                                               4,598
+ Noncapital Contributions and Grants                                    14,645,324
+ Rental Income                                                              24,836
+ Miscellaneous Income (Expense)                                          3,970,263
+      Net Nonoperating Revenues (Expenses)                              20,064,486
+
+CHANGE IN NET POSITION                                                   5,001,842
+
+Net Position - Beginning of Year                                        42,476,832
+
+NET POSITION - END OF YEAR                                         $    47,478,674
+
+
+
+
+See accompanying Notes to Financial Statements.
+                                                  (7)
+                                NORTHERN INYO HEALTHCARE DISTRICT
+                                    STATEMENT OF CASH FLOWS
+                                     YEAR ENDED JUNE 30, 2025
+
+
+
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+ Receipts from and on Behalf of Patients                            $    98,272,460
+ Payments to Suppliers and Contractors                                  (36,622,859)
+ Payments to and on Behalf of Employees                                 (67,022,135)
+ Other Receipts and Payments, Net                                        (7,802,569)
+       Net Cash Used by Operating Activities                            (13,175,103)
+
+CASH FLOWS FROM NONCAPITAL FINANCING ACTIVITIES
+ Noncapital Contributions and Grants                                    14,645,324
+ Property Taxes Received                                                   987,050
+       Net Cash Provided by Noncapital Financing Activities             19,531,023
+
+CASH FLOWS FROM CAPITAL AND CAPITAL RELATED
+ FINANCING ACTIVITIES
+  Principal Payments on Long-Term Debt                                   (3,832,965)
+  Interest Paid                                                             461,409
+  Purchase and Construction of Capital Assets                            (1,711,304)
+  Payments on Lease Liability                                              (269,021)
+  Payments on Subscription Liability                                     (1,199,596)
+  Property Taxes Received                                                 2,170,208
+       Net Cash Used by Capital and Capital Related
+        Financing Activities                                             (4,381,269)
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+ Investment Income                                                          16,110
+ Rental Income                                                              49,892
+       Net Cash Provided by Investing Activities                            66,002
+
+NET CHANGE IN CASH AND CASH EQUIVALENTS                                  2,040,653
+
+Cash and Cash Equivalents - Beginning of Year                           28,762,356
+
+CASH AND CASH EQUIVALENTS - END OF YEAR                             $   30,803,009
+
+RECONCILIATION OF CASH AND CASH EQUIVALENTS
+ TO THE STATEMENT OF NET POSITION
+  Cash and Cash Equivalents in Current Assets                       $   28,597,729
+  Cash and Cash Equivalents in Noncurrent Cash and Investments           2,205,280
+      Total Cash and Cash Equivalents                               $   30,803,009
+
+
+
+
+See accompanying Notes to Financial Statements.
+                                                   (8)
+                               NORTHERN INYO HEALTHCARE DISTRICT
+                              STATEMENT OF CASH FLOWS (CONTINUED)
+                                       DECEMBER 31, 2024
+
+
+
+
+RECONCILIATION OF CASH AND CASH EQUIVALENTS
+ TO THE STATEMENT OF NET POSITION
+  Cash and Cash Equivalents in Current Assets                       $   28,597,729
+  Cash and Cash Equivalents in Noncurrent Cash and Investments           2,205,280
+      Total Cash and Cash Equivalents                               $   30,803,009
+
+RECONCILIATION OF OPERATING LOSS TO NET CASH
+ USED BY OPERATING ACTIVITIES
+  Operating Loss                                                    $ (15,062,644)
+  Adjustments to Reconcile Operating Income to Net Cash
+   Used by Operating Activities:
+   Depreciation and Amortization                                         5,187,694
+   Pension Expense                                                       3,621,047
+   Provision for Bad Debts                                              15,447,684
+   (Increase) Decrease in Assets:
+     Patient Receivables                                                (14,189,898)
+     Other Receivables                                                   (2,028,087)
+     Inventory                                                            1,679,927
+     Prepaid Expenses                                                       (39,498)
+     Deferred Outflow of Resources                                        4,489,427
+   Increase (Decrease) in Liabilities:
+     Accounts Payable                                                   1,216,998
+     Estimated Third-Party Payor Settlements                           (2,478,996)
+     Accrued Expenses                                                  (2,460,479)
+     Other Liabilities                                                    (48,937)
+     Net Pension Liability                                             (4,693,144)
+     Deferred Inflow of Resources                                      (3,816,197)
+       Net Cash Used by Operating Activities                        $ (13,175,103)
+
+SUPPLEMENTAL DISCLOSURES OF NONCASH CAPITAL AND
+ CAPITAL RELATED FINANCING ACTIVITIES
+  Gain on Extinguishment of Debt                                    $       71,614
+
+   Lease Assets Received in Exchange for Lease Liability            $      186,488
+
+
+
+
+See accompanying Notes to Financial Statements.
+                                                    (9)
+                                NORTHERN INYO HEALTHCARE DISTRICT
+                                STATEMENT OF FIDUCIARY NET POSITION
+                                        DECEMBER 31, 2024
+
+
+
+
+ASSETS
+
+INVESTMENTS AT FAIR VALUE
+  Cash and Cash Equivalents                                           $    2,110,453
+  Mutual Funds                                                            15,286,722
+
+         Total Assets                                                 $   17,397,175
+
+NET POSITION
+ Restricted for Pensions                                              $   17,397,175
+
+         Total Net Position                                           $   17,397,175
+
+
+
+
+See accompanying Notes to Financial Statements.
+                                                  (10)
+                      NORTHERN INYO HEALTHCARE DISTRICT
+       STATEMENT OF CHANGES IN FIDUCIARY NET POSITION – PENSION TRUST FUND
+                         YEAR ENDED DECEMBER 31, 2024
+
+
+
+
+ADDITIONS
+ Contributions:
+  Employer                                                        $    5,120,561
+  Employee                                                               472,648
+     Total Contributions                                               5,593,209
+
+INVESTMENT EARNINGS
+  Interest, Dividends, and Other                                       1,507,690
+       Total Investment Earnings                                       1,507,690
+
+       Total Additions                                                 7,100,899
+
+DEDUCTIONS
+ Benefits Paid to Participants or Beneficiaries                       (1,849,968)
+ Administrative Expenses                                                  (5,758)
+     Total Deductions                                                 (1,855,726)
+
+CHANGE IN NET POSITION                                                 5,245,173
+
+Net Position - Beginning of Year                                      12,152,002
+
+NET POSITION - END OF YEAR                                        $   17,397,175
+
+
+
+
+See accompanying Notes to Financial Statements.
+                                                  (11)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 1   REPORTING ENTITY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+         The financial statements of Northern Inyo Healthcare District (the District) have been
+         prepared in accordance with accounting principles generally accepted in the United States
+         of America. The Governmental Accounting Standards Board (GASB) is the accepted
+         standard-setting body for establishing governmental accounting and financial reporting
+         principles. The significant accounting and reporting policies and practices used by the
+         District are described below.
+
+         Reporting Entity
+         The District was organized in 1946 under the terms of the Local Health Care District Law
+         and is operated and governed by an elected board of directors. The District includes a
+         25-bed acute care facility that provides inpatient, outpatient, emergency care services, and a
+         rural health clinic in Bishop, California, and its surrounding area.
+
+         Blended Component Units
+         Northern Inyo Hospital Foundation, Inc. (the Foundation) is a legally separate 501(c)(3)
+         tax-exempt nonprofit public benefit corporation. The Foundation acts primarily as a
+         fundraising organization to supplement the resources that are available to the District.
+         Although the District does not control the timing or amount of receipts from the Foundation,
+         the majority of the resources, or income thereon that the Foundation holds and invests are
+         restricted to the activities of the District by the Foundation’s bylaws. The Foundation’s board
+         of directors may also restrict the use of such funds for capital asset replacement, expansion,
+         or other specific purposes. The District shall appoint the board of directors for the
+         Foundation per the Foundation’s bylaws, and for this reason it is a blended component unit
+         of the District. No separate financial report is prepared for the Foundation.
+
+         Northern Inyo Hospital Auxiliary, Inc. (the Auxiliary) is also a legally separate 501(c)(3) tax-
+         exempt public benefit corporation. The Auxiliary’s actions are subject to the approval of the
+         District and for this reason it is a blended component unit of the District. The Auxiliary’s
+         fiscal year end is May 31, 2024. No separate financial report is prepared for the Auxiliary.
+
+         All intercompany balances and transactions, if any, have been eliminated.
+
+         Fiduciary Component Unit
+         Northern Inyo Local Hospital District Retirement Plan (the Plan) is a single employer defined
+         benefit retirement plan organized under Internal Revenue Code (IRC) Section 415 for
+         District employees who meet certain eligibility criteria. The Pension Trust Fund Plan is
+         reported in the accompanying financial statements in separate statements of fiduciary net
+         position and changes in fiduciary net position to emphasize that it is legally separate from
+         the District. The Plan’s fiscal year end is December 31, 2024. Separate financial statements
+         for the fiduciary component unit are not available.
+
+
+
+
+                                                 (12)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 1   REPORTING ENTITY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+         (CONTINUED)
+
+         Measurement Focus and Basis of Accounting
+         Basis of accounting refers to when revenues and expenses are recognized in the accounts
+         and reported in the financial statements. Basis of accounting relates to the timing of the
+         measurements made, regardless of the measurement focus applied.
+
+         The accompanying financial statements have been prepared on the accrual basis of
+         accounting in conformity with accounting principles generally accepted in the United States
+         of America. Revenues are recognized when earned, and expenses are recorded when the
+         liability is incurred.
+
+         Basis of Presentation
+         The statements of net position displays the District’s assets, deferred outflows, liabilities, and
+         deferred inflows, with the difference reported as net position. Net position is reported in the
+         following categories/components:
+
+            Net investment in capital assets consists of capital assets, net of accumulated
+            depreciation and reduced by outstanding balances of bonds, notes, and other debt that
+            are attributable to the acquisition, construction, or improvement of those assets.
+            Deferred outflows of resources and deferred inflows of resources that are attributable to
+            the acquisition, construction, or improvement of those assets or related debt are
+            included in this component of net position.
+
+            Restricted net position consists of restricted assets reduced by liabilities and deferred
+            inflows of resources related to those assets. Assets are reported as restricted when
+            constraints are placed on asset use either by external parties or by law through
+            constitutional provision or enabling legislation.
+
+            Unrestricted net position is the net amount of the assets, deferred outflows of resources,
+            liabilities, and deferred inflows of resources that does not meet the definition of the two
+            preceding categories.
+
+         When an expense is incurred that can be paid using either restricted or unrestricted
+         resources (net position), the District’s policy is to first apply the expense toward the most
+         restrictive resources and then toward unrestricted resources.
+
+         Use of Estimates
+         The preparation of financial statements in conformity with accounting principles generally
+         accepted in the United States of America requires management to make estimates and
+         assumptions that affect the reported amounts of assets and liabilities and disclosure of
+         contingent assets and liabilities at the date of the financial statements. Estimates also affect
+         the reported amounts of revenues and expenses during the reporting period. Actual results
+         could differ from those estimates.
+
+
+
+
+                                                  (13)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 1   REPORTING ENTITY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+         (CONTINUED)
+
+         Cash and Cash Equivalents
+         Cash and cash equivalents include highly liquid investments with an original maturity of
+         three months or less, excluding internally designated or restricted cash and investments. For
+         purposes of the statement of cash flows, the District considers its investment in the Local
+         Agency Investment Fund (LAIF) and all highly liquid debt instruments with an original
+         maturity of three months or less to be cash equivalents, excluding noncurrent cash and
+         investments.
+
+         The District is authorized under California Government Code (CGC) to make direct
+         investments in local agency bonds, notes, or warrants within the state; U.S. Treasury
+         instruments; registered state warrants or treasury notes; securities of the U.S. government
+         or its agencies; bankers’ acceptances; commercial paper; certificates of deposit placed with
+         commercial banks and/or savings and loan companies; repurchase or reverse repurchase
+         agreements; medium-term corporate notes; shares of beneficial interest issued by
+         diversified management companies, certificates of participation, and obligations with first-
+         priority security; and collateralized mortgage obligations.
+
+         All investments are stated at fair value, except for guaranteed investment contracts, which
+         are stated at amortized cost. Investment gain (loss) includes changes in fair value of
+         investments, interest, and realized gains and losses.
+
+         Restricted Cash and Investments
+         Restricted cash consists of cash and investments held under indenture agreements or
+         restricted for programs.
+
+         Patient Receivables
+         Patient receivables are uncollateralized customer and third-party payor obligations. The
+         District does not charge interest on unpaid patient receivables. Payments of patient
+         receivables are allocated to the specific claims identified on the remittance advice or, if
+         unspecified, are applied to the earliest unpaid claim.
+
+         Patient accounts receivable are reduced by an allowance for doubtful accounts. In evaluating
+         the collectability of accounts receivable, the District analyzes its past history and identifies
+         trends for each of its major payor sources of revenue to estimate the appropriate allowance
+         for doubtful accounts and provision for bad debts.
+
+
+
+
+                                                 (14)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 1   REPORTING ENTITY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+         (CONTINUED)
+
+         Patient Receivables (Continued)
+         For receivables associated with services provided to patients who have third-party
+         coverage, the District analyzes contractually due amounts and provides an allowance for
+         doubtful accounts and a provision for bad debts, if necessary (for example, for expected
+         uncollectible deductibles and copayments on accounts for which the third-party payor has
+         not yet paid, or for payors who are known to be having financial difficulties that make the
+         realization of amounts due unlikely). For receivables associated with self-pay patients (which
+         includes both patients without insurance and patients with deductible and copayment
+         balances due for which third-party coverage exists for part of the bill), the District records a
+         provision for bad debts in the period of service on the basis of its past experience, which
+         indicates that many patients are unable or unwilling to pay the portion of their bill for which
+         they are financially responsible. The difference between the standard rates (or the
+         discounted rates, if negotiated) and the amounts actually collected after all reasonable
+         collection efforts have been exhausted is charged off against the allowance for uncollectible
+         accounts.
+
+         The District has a discount policy established for residents of the District. Details of forgone
+         charges related to discounts are discussed further in Note 5.
+
+         Inventories
+         Inventories are stated at the lower of cost, determined on the average cost method, or net
+         realizable value.
+
+         Fair Value Measurement
+         Fair value is the price that would be received to sell an asset or paid to transfer a liability in
+         an orderly transaction between market participants at the measurement date. A three-tier
+         hierarchy prioritizes the inputs used in measuring fair value. These tiers include Level 1,
+         defined as quoted market prices in active markets for identical assets or liabilities; Level 2,
+         defined as inputs other than quoted market prices in active markets that are either directly or
+         indirectly observable; and Level 3, defined as significant unobservable inputs therefore,
+         requiring an entity to develop its own assumptions. The asset’s or liability’s fair value
+         measurement within the hierarchy is based on techniques that maximize the use of relevant
+         observable inputs and minimizes the use of unobservable inputs.
+
+         Assets or liabilities measured and reported at fair value are classified and disclosed in one of
+         the three following categories:
+
+            Level 1 – Inputs to the valuation methodology are unadjusted quoted priced for identical
+            assets or liabilities in active markets that the District has the ability to access.
+
+            Level 2 – Inputs to the valuation methodology include:
+
+                - Quoted prices for similar assets or liabilities in active markets.
+                - Quoted prices for identical or similar assets or liabilities in inactive markets.
+
+
+                                                  (15)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 1   REPORTING ENTITY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+         (CONTINUED)
+
+         Fair Value Measurement (Continued)
+                - Inputs, other than quoted prices, those are observable for the asset or liability.
+                - Inputs that are derived principally from or corroborated by observable market data
+                  by correlation or other means.
+
+                If the asset or liability has a specified contractual term, the Level 2 input must be
+                observable for substantially the full term of the asset or liability.
+
+            Level 3 - Inputs to the valuation methodology are unobservable and significant to the fair
+            value measurement.
+
+         The asset’s or liability’s fair value measurement level within the fair value hierarchy is based
+         on the lowest level of any input that is significant to the fair value measurement. Valuation
+         techniques used need to maximize the use of observable inputs and minimize the use of
+         unobservable inputs.
+
+         Investment Income
+         Interest, dividends, gains, and losses, both realized and unrealized, on investments and
+         deposits are included in nonoperating revenues when earned.
+
+         Capital Assets
+         Capital asset acquisitions in excess of $3,000 are capitalized and recorded at cost.
+         Contributed capital assets are reported at their acquisition value at the date of donation. All
+         capital assets other than land and construction in progress are depreciated using the
+         straight-line method of depreciation using the following asset lives:
+
+                    Land Improvements                              2 to 25 Years
+                    Buildings and Improvements                     2 to 25 Years
+                    Equipment                                      3 to 20 Years
+
+         Accreted Interest
+         Interest expense on capital appreciation bonds is being accreted on the straight-line basis to
+         maturity of the individual bonds, which approximates interest accreted on the effective
+         interest method.
+
+         Bond Premiums
+         Bond premiums relating to the General Obligation Bonds are netted against the debt
+         payable on the Statement of Net Position. Bond premiums are amortized over the period the
+         related obligation is outstanding using the straight-line method, which approximates the
+         effective interest method. The amortization is included in interest expense.
+
+
+
+
+                                                 (16)
+                          NORTHERN INYO HEALTHCARE DISTRICT
+                            NOTES TO FINANCIAL STATEMENTS
+                                     JUNE 30, 2025
+
+
+
+
+NOTE 1   REPORTING ENTITY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+         (CONTINUED)
+
+         Compensated Absences
+         The District employees earn paid-time off (PTO) at varying rates, depending on years of
+         service. PTO accumulates up to a specific amount, as defined in the District’s employee
+         manual. Employees are paid for accumulated PTO if employment is terminated. The liability
+         for compensated absences is included with accrued salaries and benefits in the
+         accompanying financial statements.
+
+         Estimated Health Claims Payable
+         The District provides for self-insurance reserves for estimated incurred but not reported
+         claims for its employee health plan. These reserves, which are included in current liabilities
+         on the statement of net position, are estimated based upon historical submission and
+         payment data, cost trends, utilization history, and other relevant factors. Adjustments to
+         reserves are reflected in the operating results in the period in which the change in estimate
+         is identified.
+
+         Unemployment Compensation
+         The District is a part of a pooled unemployment insurance group through California
+         Association of Hospital and Healthcare Systems (CAHHS) for unemployment insurance and
+         does not pay state unemployment tax.
+
+         Retirement Plan
+         For purposes of measuring the net pension liability, deferred outflows of resources and
+         deferred inflows of resources related to pensions, and pension expense, information about
+         the fiduciary net position of the Northern Inyo County Local Hospital District Retirement Plan
+         (Plan) and additions to/deductions from the Plan’s fiduciary net position have been
+         determined on the same basis as they are reported by the Plan. For this purpose, benefit
+         payments (including refunds of employee contributions) are recognized when due and
+         payable in accordance with the benefit terms. Investments are reported at fair value.
+
+         Deferred Outflows/Inflows of Resources
+         In addition to assets, the statement of financial position includes a separate section for
+         deferred outflows of resources. Deferred outflows of resources represent a consumption of
+         net assets that applies to a future period(s) and so will not be recognized as an outflow of
+         resources (expense/expenditure) until then. The District has three items that qualify for
+         reporting in this category It is the deferred charge on refunding reported in the statement of
+         net position, the deferred amounts related to pensions, and the deferred amounts related to
+         acquisitions. The deferred charge on refunding resulted from the difference between the
+         carrying value of refunded debt and its reacquisition price. This amount is deferred and
+         amortized over the shorter of the life of the refunded or refunding debt. The deferred
+         amounts related to pensions relates to the differences between expected and actual
+         experience, changes in actuarial assumptions, contributions made after the measurement
+         date, and the net difference between estimated and actual investment earnings. The
+         deferred amounts relate to the acquisition of Pioneer Medical Associates.
+
+
+                                                (17)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 1   REPORTING ENTITY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+         (CONTINUED)
+
+         Deferred Outflows/Inflows of Resources (Continued)
+         In addition to liabilities, the statement of financial position includes a separate section for
+         deferred inflows of resources. Deferred inflows of resources represent an acquisition of net
+         assets that applies to a future period(s) and so will not be recognized as an inflow of
+         resources (revenue) until that time. The District has one item that qualifies for reporting in
+         this category. It is the deferred amounts related to pensions for the differences between
+         expected and actual experience and changes in actuarial assumptions.
+
+         Property Tax
+         Property taxes are levied by the County on the District’s behalf and are intended to support
+         operations and to service debt. The amount of property tax received is dependent upon the
+         assessed real property valuations as determined by the County Assessor. Secured property
+         taxes are levied July 1 and are due in two equal installments on November 1 and February 1
+         each year and are delinquent if not paid by December 10 and April 10. Secured property
+         taxes become a lien on the property on January 1.
+
+         Operating Revenues and Expenses
+         The District’s statement of revenues, expenses, and changes in net position distinguishes
+         between operating and nonoperating revenues and expenses. Operating revenues of the
+         District result from exchange transactions associated with providing healthcare services, the
+         District’s principal activity, and the costs of providing those services, including depreciation
+         and excluding interest cost. All other revenues and expenses are reported as nonoperating.
+
+         Net Patient Service Revenue
+         The District has agreements with third-party payors that provide for payments to the District
+         at amounts different from its established rates. Payment arrangements include prospectively
+         determined rates, reimbursed costs, discounted charges, and per diem payments. Net
+         patient service revenue is reported at the estimated net realizable amounts from patients,
+         third-party payors, and others for services rendered, including estimated retroactive
+         adjustments under reimbursement agreements with third-party payors. Retroactive
+         adjustments are accrued on an estimated basis in the period the related services are
+         rendered, and adjusted in future periods as final settlements are determined.
+
+         Charity Care
+         The District provides healthcare services to patients who meet certain criteria under its
+         charity care policy without charge or at amounts less than established rates. Since the
+         District does not pursue collection of these amounts, they are not reported as patient service
+         revenue. The estimated cost of providing these services was $117,200 for the year ended
+         June 30, 2025, calculated by multiplying the ratio of cost to gross charges for the District by
+         the gross uncompensated charges associated with providing charity care to its patients.
+
+
+
+
+                                                 (18)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 1   REPORTING ENTITY AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+         (CONTINUED)
+
+         Grants and Contributions
+         The District receives grants and contributions from governmental and private entities. Grants
+         and contributions may be restricted for either specific operating purposes or for capital
+         purposes. Amounts that are unrestricted or that are restricted to a specific operating purpose
+         are reported as nonoperating revenue. Amounts restricted for capital acquisitions are
+         reported after nonoperating revenues and expenses.
+
+         Employee Retention Credit
+         The District filed amended Form 941-X’s (Amended Returns) for the Employee Retention
+         Credit (ERC) for the first and second quarters of 2021. The Amended Returns are subject
+         an IRS cursory review and the result of such potential review is uncertain. Management has
+         recorded an estimated other receivable and miscellaneous income in financial statements
+         as of and for the year ending June 30, 2025 of approximately $4 million dollars.
+
+         Right-of-Use Lease Asset and Liability
+         In June 2017, the Governmental Accounting Standards Board (GASB) issued GASB
+         Statement No. 87, Leases. This standard requires the recognition of certain lease assets
+         and liabilities for leases that previously were classified as operating leases and as inflows of
+         resources or outflows of resources recognized based on the payment provisions of the
+         contract. It establishes a single model for lease accounting based on the foundational
+         principle that leases are financings of the right-to-use an underlying asset. Under this
+         standard, a lessee is required to recognize a lease liability and an intangible right-to-use
+         lease asset, and a lessor is required to recognize a lease receivable and a deferred inflow of
+         resources.
+
+         Subscription-Based Information Technology Arrangements (SBITA)
+         SBITA assets are initially measured as the sum of the present value of payments expected
+         to be made during the subscription term, payments associated with the SBITA contract
+         made to the SBITA vendor at the commencement of the subscription term, when applicable,
+         and capitalizable implementation costs, less any SBITA vendor incentives received from the
+         SBITA vendor at the commencement of the SBITA term. SBITA assets are amortized in a
+         systematic and rational manner over the shorter of the subscription term or the useful life of
+         the underlying IT assets.
+
+
+
+
+                                                 (19)
+                          NORTHERN INYO HEALTHCARE DISTRICT
+                            NOTES TO FINANCIAL STATEMENTS
+                                     JUNE 30, 2025
+
+
+
+
+NOTE 2   NET PATIENT SERVICE REVENUE
+
+         The District has agreements with third-party payors that provide for payments to the District
+         at amounts different from its established rates. A summary of the payment arrangements
+         with major third-party payors follows:
+
+         Medicare: Inpatient acute and outpatient services rendered to Medicare program
+         beneficiaries are reimbursed primarily under a cost reimbursement methodology pursuant to
+         the District’s designation as a critical access hospital. Costs are reimbursed at a tentative
+         rate with final settlement determined after submission of annual cost reports and audits
+         thereof by the Medicare Administrative Contractor (MAC). The District’s classification of
+         patients under the Medicare program and the appropriateness of their admission are subject
+         to an independent review by a peer review organization. Medicare cost reports have been
+         audited by the fiscal intermediary through June 30, 2017.
+
+         Medi-Cal: Reimbursement for hospital inpatient services provided to Medi-Cal beneficiaries
+         are based on a diagnosis-related group (DRG)-based methodology and uses the All-Patient
+         Refined DRGs (APR- DRGs) algorithm. Medi-Cal cost reports have been audited through
+         June 30, 2019. Outpatient services are paid at prospectively determined rates per procedure
+         determined by the state of California.
+
+         Outpatient services delivered at the clinic are reimbursed using a prospectively determined
+         payment system.
+
+         The District has entered into payment agreements with certain commercial insurance
+         carriers, health maintenance organizations, and preferred provider organizations. The basis
+         for payment to the District under these agreements includes prospectively determined rates
+         and discounts from established charges.
+
+         Patient revenue from the Medicare and Medi-Cal programs accounted for approximately
+         22% and 10% of the District’s net patient service revenue for the year ended June 30, 2025.
+
+         Laws and regulations governing the Medicare, Medi-Cal, and other programs are extremely
+         complex and subject to interpretation. As a result, there is at least a reasonable possibility
+         that recorded estimates will change by a material amount in the near term. The net patient
+         service revenue for the year ended June 30, 2025 decreased by $-0- due to removal of
+         allowances previously estimated that are no longer necessary as a result of final
+         settlements, adjustments to amounts previously estimated and years that are no longer
+         likely subject to audits, reviews, and investigations.
+
+
+
+
+                                                (20)
+                          NORTHERN INYO HEALTHCARE DISTRICT
+                            NOTES TO FINANCIAL STATEMENTS
+                                     JUNE 30, 2025
+
+
+NOTE 2   NET PATIENT SERVICE REVENUE
+
+
+         Medi-Cal Payments
+         California legislation (AB-915) provides for a Medi-Cal supplemental payment for Medi-Cal
+         outpatient hospital services. As a result of this program, payments received were
+         $1,296,165 in the year ended June 30, 2025.
+
+         The California Department of Healthcare Services (DHCS) implemented The Hospital
+         Quality Assurance Fee (HQAF) program in 2010. The program provides funding for
+         supplemental payments to California hospitals that serve Medi-Cal and uninsured patients.
+         The District received $990,578 in the year ended June 30, 2025, under this program.
+
+         California legislation also provides for a Nondesignated Public Hospital Intergovernmental
+         Transfer Program (IGT) for additional payments for outpatient managed care hospital
+         services. As a result of this program, net payments recognized were $13,185,042 in the year
+         ended June 30, 2025. Amounts due under this program total $-0- as of June 30, 2025 and
+         are reported as other receivables on the statement of net position.
+
+         The District records these amounts as other operating revenue, when the revenue is
+         estimable and is reasonably assured of being collected, generally when payments are
+         received or expected to be received.
+
+NOTE 3   DEPOSITS AND INVESTMENTS
+
+         The carrying amounts of deposits and investments as of June 30, 2025 are as follows:
+
+         Carrying Amount:
+          Petty Cash                                               $        1,998
+          Cash and Deposits                                            22,381,376
+          Investments                                                   8,419,635
+                Total                                              $   30,803,009
+
+         Deposits and investments are reported in the following statement of net position captions:
+
+         Cash and Investments                                      $   29,333,717
+         Restricted for Specific Operating
+          Purposes and Capital Improvements                             1,469,292
+                Total                                              $   30,803,009
+
+
+
+
+                                                (21)
+                                NORTHERN INYO HEALTHCARE DISTRICT
+                                  NOTES TO FINANCIAL STATEMENTS
+                                           JUNE 30, 2025
+
+
+
+
+NOTE 3   DEPOSITS AND INVESTMENTS (CONTINUED)
+
+         Investments Authorized by the California Government Code and the Entity’s
+         Investment Policy
+         The table below identifies the investment types that are authorized for the District by the
+         California Government Code (or the District’s investment policy, where more restrictive). The
+         table also identifies certain provisions of the California Government Code (or the District’s
+         investment policy, where more restrictive) that address interest rate risk, credit risk, and
+         concentration of credit risk. This table does not address investments of debt proceeds held
+         by bond trustee that are governed by the provisions of debt agreements of the District,
+         rather than the general provisions of the California Government Code or the District’s
+         investment policy.
+
+                                                                                            Maximum               Maximum
+                                                                     Maximum               Percentage           Investment in
+                    Authorized Investment Type                        Maturity             of Portfolio*         One Issuer
+         Local Agency Bonds                                           5 Years                 None                  None
+         U.S. Treasury Obligations                                    5 Years                 None                  None
+         U.S. Agency Securities                                       5 Years                 None                  None
+         Banker's Acceptances                                        180 Days                  40%                  30%
+         Commercial Paper                                            270 Days                  25%                  10%
+         Negotiable Certificates of Deposit                           5 Years                  30%                  None
+         Repurchase Agreements                                         1 Year                 None                  None
+         Reverse Repurchase Agreements                                92 Days           20% of Base Value           None
+         Medium-Term Notes                                            5 Years                  30%                  None
+         Mutual Funds                                                   N/A                    20%                  10%
+         Money Market Mutual Funds                                      N/A                    20%                  10%
+         Mortgage Pass-Through Securities                             5 Years                  20%                  None
+         County Pooled Investment Funds                                 N/A                   None                  None
+         Local Agency Investment Fund (LAIF)                            N/A                   None            $75M per Account
+         JPA Pools (Other Investment Pools)                             N/A                   None                  None
+
+         * Excluding amounts held by bond trustee that are not subject to CGC restrictions.
+
+
+         Investments Authorized by Debt Agreements
+         Investment of debt proceeds held by bond trustee are governed by provisions of the debt
+         agreements, rather than the general provisions of the California Government Code or the
+         Entity’s investment policy. The table below identifies the investment types that are
+         authorized for investments held by bond trustee. The table also identifies certain provisions
+         of these debt agreements that address interest rate risk, credit risk, and concentration of
+         credit risk.
+
+                                                                                               Maximum            Maximum
+                                                                     Maximum                  Percentage        Investment in
+                    Authorized Investment Type                        Maturity                of Portfolio*      One Issuer
+         U.S. Treasury Obligations                                     None                      None               None
+         U.S. Agency Securities                                        None                      None               None
+         Banker's Acceptances                                        180 Days                    None               None
+         Commercial Paper                                            270 Days                    None               None
+         Money Market Mutual Funds                                      N/A                      None               None
+         Investment Contracts                                        30 Years                    None               None
+         Local Agency Investment Fund (LAIF)                            N/A                      None         $75M per Account
+
+         * Excluding amounts held by bond trustee that are not subject to CGC restrictions.
+
+                                                              (22)
+                              NORTHERN INYO HEALTHCARE DISTRICT
+                                NOTES TO FINANCIAL STATEMENTS
+                                         JUNE 30, 2025
+
+
+
+
+NOTE 3   DEPOSITS AND INVESTMENTS (CONTINUED)
+
+         Interest Rate Risk
+         Interest rate risk is the risk that changes in market interest rates will adversely affect the fair
+         value of an investment. Generally, the longer the maturity of an investment, the greater the
+         sensitivity of its fair value to changes in market interest rates. One of the ways that the
+         District manages its exposure to interest rate risk is by purchasing a combination of shorter
+         term and longer term investments and by timing cash flows from maturities so that a portion
+         of the portfolio is maturing or coming close to maturity evenly over time as necessary to
+         provide the cash flow and liquidity needed for operations. Information about the sensitivity of
+         the fair values of the District’s investments (including investments held by bond trustee) to
+         market interest rate fluctuation is provided by the following table that shows the distribution
+         of the District’s investments by maturity at June 30, 2025:
+
+                                           Carrying                              Investment Maturities (in Years)
+                    Investment Type        Amount               Rating    Less Than 1         1-5               6-10
+         Certificates of Deposits        $ 2,836,508           P-1/Aa1    $ 2,100,520    $   735,988        $          -
+         Mutual Funds                         98,199            AAAm           98,199                 -                -
+         Equities                             82,751            AAAm           82,751                 -                -
+         Local Agency Investment Fund      5,402,176          Not Rated     5,402,176                 -                -
+                Total                    $ 8,419,634                      $ 7,683,646    $   735,988        $          -
+
+
+         Credit Risk
+         Generally, credit risk is the risk that an issuer of an investment will not fulfill its obligation to
+         the holder of the investment. This is measured by the assignment of a rating by a nationally
+         recognized statistical rating organization. The CGC limits the minimum rating required for
+         each investment type. The LAIF is not rated.
+
+         Custodial Credit Risk
+         Custodial credit risk for deposits is the risk that, in the event of the failure of a depository
+         financial institution, a government will not be able to recover its deposits or will not be able
+         to recover collateral securities that are in the possession of an outside party. The custodial
+         credit risk for investments is the risk that, in the event of the failure of the counterparty (e.g.,
+         broker-dealer) to a transaction, a government will not be able to recover the value of its
+         investment or collateral securities that are in the possession of another party. The California
+         Government Code and the District’s investment policy do not contain legal or policy
+         requirements that would limit the exposure to custodial credit risk for deposits or
+         investments, other than the following provision for deposits: The California Government
+         Code requires that a financial institution secure deposits made by state or local
+         governmental units by pledging securities in an undivided collateral pool held by a
+         depository regulated under state law (unless so waived by the governmental unit). The
+         market value of the pledged securities in the collateral pool must equal at least 110% of the
+         total amount deposited by the public agencies. California law also allows financial
+         institutions to secure the District’s deposits by pledging first trust deed mortgage notes
+         having a value of 150% of the secured public deposits.
+
+         As of June 30, 2025, $26,352,527 of the District’s deposits with financial institutions in
+         excess of federal depository insurance limits were held in uncollateralized accounts.
+
+
+                                                       (23)
+                                 NORTHERN INYO HEALTHCARE DISTRICT
+                                   NOTES TO FINANCIAL STATEMENTS
+                                            JUNE 30, 2025
+
+
+
+
+NOTE 3   DEPOSITS AND INVESTMENTS (CONTINUED)
+
+         Investment in State Investment Pool
+         The District is a voluntary participant in the Local Agency Investment Fund (LAIF) that is
+         regulated by the California Government Code under the oversight of the treasurer of the
+         state of California. The fair value of the District’s investment in this pool is reported in the
+         accompanying financial statements at amounts based upon the District’s pro-rata share of
+         the fair value provided by LAIF for the entire LAIF portfolio (in relation to the amortized cost
+         of that portfolio). The balance available for withdrawal is based on the accounting records
+         maintained by LAIF, which are recorded on an amortized cost basis.
+
+         Fair Value Measurements
+         Assets measured at fair value on a recurring basis and the related fair value of these assets
+         as of June 30, 2025 are as follows:
+
+                                                                       Quoted Prices
+                                                                         in Active         Significant
+                                                                        Markets for           Other            Significant
+                                                                         Identical         Observable         Unobservable
+                                                                           Assets            Inputs              Inputs
+         Investments by Fair Value                      Fair Value       (Level l)          (Level 2)           (Level 3)
+           District Investments:
+            Certificates of Deposit                 $      2,836,508   $           -   $      2,836,508   $                  -
+           Mutual Funds                                       98,199          98,199                  -                      -
+           Equities                                           82,751          82,751                  -                      -
+               Total District Investments
+                  Measured at Fair Value                   3,017,458   $     180,950   $      2,836,508   $                  -
+
+           Investments not Measured at Fair Value
+             or Subject to Fair Value Hierarchy:
+              Local Agency Investment Fund                 5,402,176
+                Total District Investments          $      8,419,634
+
+
+         The value of publicly-traded assets, which would be listed as Level 1, are based on
+         unaffiliated industry sources believed to be reliable. Values for nonpublicly traded assets,
+         listed as Level 2, may be determined from other unaffiliated sources. Assets for which a
+         current value is unavailable, which would be listed as Level 3, may be reflected at the last
+         reported price or at par, using the best information available in the circumstances.
+
+         The District’s investments in traded certificates of deposit and U.S. Government obligations,
+         which are reported in short-term and long-term investments, are based on quoted market
+         prices for identical investments in an inactive market or similar investments in markets that
+         are either active or inactive. Guaranteed investment contracts are valued at cost.
+
+         Deposits and withdrawals in governmental investment pools, such as LAIF are made on the
+         basis of $1 and not fair value. Accordingly, the District’s proportionate share in these types
+         of investments is an uncategorized input not defined as a Level 1, Level 2, or Level 3 input.
+
+
+
+
+                                                            (24)
+                              NORTHERN INYO HEALTHCARE DISTRICT
+                                NOTES TO FINANCIAL STATEMENTS
+                                         JUNE 30, 2025
+
+
+
+
+NOTE 3   DEPOSITS AND INVESTMENTS (CONTINUED)
+
+         Employees’ Retirement System
+         The District’s governing body has the responsibility and authority to oversee the investment
+         portfolio. Various professional investment managers are contracted to assist in managing
+         the District’s investments; all investment decisions are subject to California law and the
+         investment policy established by the governing body. The District’s investments are held by
+         a trust company.
+
+         Pension Plan Investment Policy
+         The Plan’s investment policy authorizes the Plan to invest in all investments allowed by
+         state statue. These include deposits/investments in insured commercial banks, savings and
+         loan institutions, interest-bearing obligations of the U.S. Treasury and U.S. agencies,
+         interest-bearing bonds of the state of California or any county, township, or municipal
+         corporation of the state of California, money market mutual funds whose investments consist
+         of obligations of the U.S. Treasury or U.S. agencies, separate accounts managed by life
+         insurance companies, mutual funds, and California Funds (created by the State Legislature
+         under the control of the State Treasurer that maintains a $1 per share value, which is equal
+         to the participant’s fair value). During the year ended June 30, 2025, there were no changes
+         to the investment policy.
+
+         Pension Plan Credit Risk
+         Credit risk is the risk that an issuer of an investment will not fulfill its obligation to the holder
+         of the investment. This is measured by assignment of a rating by a nationally recognized
+         statistical rating organization. The Plan has and investment policy that limit investment
+         choices by credit rating.
+
+                                            Carrying                            Investment Maturities (in Years)
+                  Investment Type           Amount             Rating   Less Than 1          1-5               6-10
+         Mutual Funds                    $ 15,286,722           AA+     $ 15,286,722    $            -     $          -
+              Total                      $ 15,286,722                   $ 15,286,722    $            -     $          -
+
+
+         Pension Plan Custodial Credit Risk
+         For an investment, custodial credit risk is the risk that, in the event of the failure of the
+         counter party (e.g., broker-dealer) to the transaction, the Plan will not be able to recover the
+         value of its investment or collateral securities that are in the possession of another party.
+         The Plan’s investment policies do not limit the exposure to custodial credit risk for
+         investments.
+
+         Pension Plan Fair Value Measurements
+         The District’s retirement system investments are stated at net asset value (NAV) and fair
+         value. The fixed dollar fund is stated at NAV, which is determined based on the total value of
+         all investments in its portfolio minus the value of liabilities. The index bond fund is stated at
+         fair value and is considered a Level 2 investment on the fair value hierarchy. The fixed dollar
+         fund is stated at cost.
+
+
+
+                                                        (25)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 4   PATIENT RECEIVABLES, NET
+
+         Patient receivables - net for the District consisted of the following at June 30, 2025:
+
+         Gross Accounts Receivable                                   $   45,275,220
+         Less:
+          Contractual Adjustments                                      (18,854,656)
+          Provision for Uncollectible Accounts                          (9,726,064)
+               Patient Receivables, Net                              $ 16,694,500
+
+
+
+NOTE 5   NET PATIENT SERVICE REVENUE
+
+         Net patient service revenue for the District consisted of the following for the year ended
+         June 30, 2025:
+
+         Gross Patient Service Revenue                               $ 231,667,372
+         Less:
+          Contractual Adjustments                                     (116,726,018)
+          Provision for Uncollectible Accounts                         (15,447,684)
+               Net Patient Service Revenue                           $ 99,493,670
+
+
+
+
+                                                  (26)
+                                   NORTHERN INYO HEALTHCARE DISTRICT
+                                     NOTES TO FINANCIAL STATEMENTS
+                                              JUNE 30, 2025
+
+
+
+
+NOTE 6   CAPITAL ASSETS
+
+         Capital assets additions, retirements, transfers and balances for the year ended June 30,
+         2025 are as follows:
+
+                                                                          Balance                        Transfers and      Balance
+                                                                        July 1, 2024       Additions      Retirements    June 30, 2025
+         Capital Assets not Being Depreciated:
+           Land                                                     $     1,353,966    $            -    $          -    $     1,353,966
+           Construction in Progress                                      10,521,159           792,082        (224,953)        11,088,288
+                Total Capital Assets not Being Depreciated               10,293,090           792,082        (224,953)        12,442,254
+
+         Capital Assets Being Depreciated:
+           Land Improvements                                                867,086                 -               -            867,086
+           Buildings and Improvements                                    92,501,922           229,738          (1,298)        92,730,362
+           Equipment                                                     40,181,100           752,720         183,890         41,117,710
+                Total Capital Assets Being Depreciated                  131,174,600           982,458         182,592        134,715,158
+
+         Lease Assets Being Amortized:
+           Equipment                                                        638,292           186,488         (22,052)           802,728
+           SBITAs                                                         9,689,467                 -         (72,556)         9,616,911
+               Total Lease Assets Being Amortized                        10,925,304           186,488         (94,608)        10,419,639
+
+         Less Accumulated Depreciation for:
+           Land Improvements                                                787,269             4,249               -            791,518
+           Buildings and Improvements                                    33,063,258         2,546,158               -         35,609,416
+           Equipment                                                     34,450,858         1,108,799         (15,625)        35,544,032
+                Total Accumulated Depreciation                           64,718,509         3,659,206         (15,625)        71,944,966
+
+         Net Capital Assets Being Depreciated                            66,456,091        (2,676,748)        198,217         62,770,192
+
+         Less Lease Asset Accumulated Amortization for:
+           Equipment                                                         144,737          274,342         (22,052)           397,027
+           SBITAs                                                          2,423,371        1,265,193         (74,624)         3,613,940
+               Total Accumulated Amortization                              2,538,562        1,539,535         (96,676)         4,010,967
+
+         Net Lease Assets Being Amortized                                  8,386,742       (1,353,047)          2,068          6,408,672
+
+         Capital Assets, Net                                        $ 85,135,923       $   (3,237,713)   $    (24,668)   $ 81,621,118
+
+
+         Depreciation expense for the year ended June 30, 2025 was $3,922,501 and is reported with
+         depreciation and amortization expense on the statement of revenues, expenses and
+         changes in net position.
+
+         Construction in progress at June 30, 2025 represents the ICU Building Retrofit,
+         Chiller/Condenser Replacement and Pharmacy Building Constructions. The estimated cost
+         to complete this project is $350 thousand with construction commitments of $350 thousand
+         as of June 30, 2025, which will be financed with District funds.
+
+
+
+
+                                                             (27)
+                                       NORTHERN INYO HEALTHCARE DISTRICT
+                                         NOTES TO FINANCIAL STATEMENTS
+                                                  JUNE 30, 2025
+
+
+
+
+NOTE 7   LONG-TERM DEBT
+
+         Long-term debt consists of the following at June 30, 2025:
+                                                        Balance                                                 Debt              Balance          Due Within
+                                                      July 1, 2024       Additions           Deletions       Forgiveness       June 30, 2025       One Year
+         General Obligation Bonds:
+          Direct Placement - 2016 General
+            Obligation Refunding Bonds               $ 14,598,000    $            -      $     (761,000)     $             -   $ 13,837,000    $       817,000
+          2009 General Obligation Bonds                 6,578,060         1,150,000          (1,496,293)                   -      6,231,767            354,947
+
+         Revenue Bonds:
+           Direct Placement - Refunding Revenue
+            Bonds, Series 2021A                          3,220,000                   -                   -                 -      3,220,000                     -
+           Direct Placement - Refunding
+            Revenue Bonds, Series 2021B                 7,340,000                 -            (670,000)                   -      6,670,000            690,000
+                Subtotal Bonds Payable                 31,736,060         1,150,000          (2,927,293)                   -     29,958,767          1,861,947
+
+           Bond Premiums:
+             2009 General Obligation Bonds                165,619                 -             (37,644)                   -        127,975                  -
+               Total Bonds Payable                     31,901,679         1,150,000          (2,964,937)                   -     30,086,742          1,861,947
+
+         Accreted Interest - 2009 General:
+          Obligation Bonds                             16,991,065         1,085,705            (804,092)                   -     17,272,678                     -
+
+         Financed Purchases - Direct Borrowings:
+           Equipment Purchase                             531,894                    -          (13,420)         (71,614)           446,860            106,968
+           Alcon                                           80,556                    -          (23,450)               -             57,106             22,799
+           7 Medical                                       27,066                    -          (27,066)               -                  -                  -
+               Total Financed Purchase Obligations        639,516                    -          (63,936)         (71,614)           503,966            129,767
+
+                Total Long-Term Debt                   49,532,260         2,235,705          (3,832,965)         (71,614)        47,863,386          1,991,714
+
+
+
+         The terms and due dates of the District’s general obligation bonds at June 30, 2025 are
+         as follows:
+
+         General Obligation Bonds, 2009 Series
+         On April 21, 2009, the District issued $14,464,947 in General Obligation Bonds, 2005
+         Election, 2009 Series to finance the construction and equipping of an expansion and
+         renovation of the Hospital. The 2009 Bonds consist of two types of bonds, Current Interest
+         Bonds and Capital Appreciation Bonds, issued in the amounts of $6,320,000 and
+         $8,144,947, respectively. The Current Interest Bonds maturing through November 1, 2019
+         have been fully paid. The Term Bond maturing November 1, 2038 was partially extinguished
+         in 2016 using proceeds from the issuance of the 2016 General Obligation Refunding Bond.
+
+         Interest on the Capital Appreciation Bonds is accreted annually and paid at maturity. The
+         Capital Appreciation Bonds mature annually commencing on November 1, 2020, through
+         November 1, 2038, in amounts ranging from $1,020,000 to $3,420,000, including interest
+         accreted through such maturity dates. The Capital Appreciation Bonds are not subject to
+         redemption prior to their fixed maturity dates.
+
+         The District has pledged its tax revenue as security for the General Obligation Bonds, 2009
+         Series and these obligations contain a provision that in an event of default, the outstanding
+         amounts become immediately due if the District is unable to make a payment.
+
+
+
+
+                                                                     (28)
+                          NORTHERN INYO HEALTHCARE DISTRICT
+                            NOTES TO FINANCIAL STATEMENTS
+                                     JUNE 30, 2025
+
+
+
+
+NOTE 7   LONG-TERM DEBT (CONTINUED)
+
+         General Obligation Bonds, 2009 Series (Continued)
+         The general obligation bonds are general obligations of the District. The District has the
+         power and is obligated to cause to be levied and collected the annual ad valorem taxes for
+         payment of the bonds and the interest thereon upon all property within the District and
+         without limitation as to rate or amount.
+
+         Accreted interest is to be added to the Capital Appreciation Bonds in future years. Principal
+         maturities, which commenced October 2021, and future accreted interest on the Capital
+         Appreciation Bonds, are included in Accreted Interest Payable.
+
+         Direct Placements
+            2016 General Obligation Refunding Bond
+            On May 12, 2016, the District issued $17,557,000 in a 2016 General Obligation
+            Refunding Bond, to refinance the General Obligation Bonds, 2005 Series in whole and to
+            pay the term portion of General Obligation Bonds, 2009.
+
+            Interest on the 2016 bond is payable semiannually on November 1 and May 1 at a rate of
+            3.450%. Mandatory sinking fund deposits to retire the bonds on their term maturity
+            dates, ranging from $278,000 to $1,874,000, are due annually through December 2035.
+
+            The District has pledged its tax revenue as security for the 2016 General Obligation
+            Refunding Bond and these obligations contain a provision that in an event of default, the
+            outstanding amounts become immediately due if the District is unable to make a
+            payment.
+
+            The general obligation bonds are general obligations of the District. The District has the
+            power and is obligated to cause to be levied and collected the annual ad valorem taxes
+            for payment of the bonds and the interest thereon upon all property within the District
+            and without limitation as to rate or amount.
+
+            Refunding Revenue Bonds, Series 2021A
+            On December 1, 2021, the District issued $3,220,000 in a Refunding Revenue Bond,
+            Series 2021A, to provide funds to refund, on a current basis, the District’s Revenue
+            Bonds, Series 2010 and paying the costs of issuing the 2021A bonds.
+
+            Interest on the Refunding Revenue Bonds, Series 2021A is payable semiannually on
+            December 1 and June 1 at a rate of 3.50%. Mandatory sinking fund deposits to retire the
+            bonds on their term maturity dates, ranging from $380,000 to $$980,000, are due
+            annually through December 2036.
+
+
+
+
+                                                (29)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 7   LONG-TERM DEBT (CONTINUED)
+
+         Direct Placements (Continued)
+            Refunding Revenue Bonds, Series 2021A (Continued)
+            The proceeds were used to refund on a current basis $4,170,000 of the outstanding
+            Series 2010 bonds. The net proceeds of $4,209,137 (including $1,065,337 of existing
+            2010 debt service reserve funds and after payment of $76,200 in underwriting fees and
+            other issuance costs) were deposited in an irrevocable trust with an escrow agent to
+            provide funds for the future debt service payment on the refunded bonds. As a result, the
+            2010 Bonds are considered defeased and the liability for those bonds has been removed
+            from the statement of net position. The reacquisition price exceeded the net carrying
+            amount of the old debt by $39,137. This amount is reported as a deferred outflow of
+            resources and amortized over the remaining life of the refunded debt, which had a
+            shorter remaining life than the refunding debt. The advance refunding reduced its total
+            debt service payments by $91,241 and to obtain an economic gain (difference between
+            the present values of the debt service payments on the old and new debt) of $189,091.
+            As a result, the Series 2010 bonds are considered defeased and the liability for those
+            bonds has been removed from the statement of net position.
+
+            The District has pledged its gross revenue as security for the Refunding Revenue
+            Bonds, Series 2021A and these obligations contain a provision that in an event of
+            default, the outstanding amounts become immediately due if the District is unable to
+            make a payment. The District is required to maintain a long-term debt service coverage
+            ratio at the end of each fiscal year that is not less than 1.25 to 1 (or 1.1 to 1, if the District
+            has 75 or more days cash on hand) and provide various reporting under the agreement.
+
+            Taxable Refunding Revenue Bonds, Series 2021B
+            On December 1, 2021 the District issued $8,625,000 in Taxable Refunding Revenue
+            Bonds, to refund, on an advanced basis, the District’s Revenue Bonds, Series 2013 and
+            paying the cost of issuing the 2021B Bonds.
+
+            Interest on Taxable Refunding Revenue Bonds, Series 2021B is payable semiannually
+            on December 1 and June 1 at rates ranging from 2.93% to 3.200%. Mandatory sinking
+            fund deposits to retire the bonds on their term maturity dates, ranging from $505,000 to
+            $860,000, are due annually through December 2033.
+
+
+
+
+                                                   (30)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 7   LONG-TERM DEBT (CONTINUED)
+
+         Direct Placements (Continued)
+            Taxable Refunding Revenue Bonds, Series 2021B (Continued)
+            The proceeds were used to advance refund $8,360,000 of the outstanding Series 2013
+            bonds. The net proceeds of $9,011,315 (including $587,785 of existing 2013 debt
+            service reserve funds and after payment of $201,470 in underwriting fees and other
+            issuance costs) were deposited in an irrevocable trust with an escrow agent to provide
+            funds for the future debt service payment on the refunded bonds. As a result, the 2013
+            Bonds are considered defeased and the liability for those bonds has been removed from
+            the statement of net position. The reacquisition price exceeded the net carrying amount
+            of the old debt by $555,251. This amount is reported as a deferred outflow of resources
+            and amortized over the remaining life of the refunded debt, which had a shorter
+            remaining life than the refunding debt. The advance refunding reduced its total debt
+            service payments by $189,723 and to obtain an economic loss (difference between the
+            present values of the debt service payments on the old and new debt) of $154,639. As a
+            result, the Series 2013 bonds are considered defeased and the liability for those bonds
+            has been removed from the statement of net position.
+
+            The District has pledged its gross revenue as security for the Refunding Revenue
+            Bonds, Series 2021B and these obligations contain a provision that in an event of
+            default, the outstanding amounts become immediately due if the District is unable to
+            make a payment. The District is required to maintain a long-term debt service coverage
+            ratio at the end of each fiscal year that is not less than 1.25 to 1 (or 1.1 to 1, if the District
+            has 75 or more days cash on hand) and provide various reporting under the agreement.
+
+            Defeased Debt
+            At June 30, 2025, $9,890,000 of the Series 2021 defeased revenue bonds remain
+            outstanding.
+
+         Direct Borrowings
+            Financed Purchases
+            Finance obligations to Ascension Capital for 3C Cares are due in total monthly
+            installments of $5,447 in October 2021 through 2025, including interest at 2.500%.
+
+            Finance obligations are secured by equipment and contain provisions that in an event of
+            default, the outstanding amounts become immediately due if the District is unable to
+            make a payment.
+
+            Purchase Agreement
+            Purchase agreement with Stryker Mako with an original principal amount of $750,000,
+            with payments due in annual installments of $119,936 due March 2023 through 2029,
+            including interest at 2.900%.
+
+
+
+
+                                                   (31)
+                                         NORTHERN INYO HEALTHCARE DISTRICT
+                                           NOTES TO FINANCIAL STATEMENTS
+                                                    JUNE 30, 2025
+
+
+
+
+NOTE 7   LONG-TERM DEBT (CONTINUED)
+
+         Direct Borrowings (Continued)
+            Purchase Agreement (Continued)
+            Scheduled principal and interest payments on long-term debt are as follows:
+                                              General Obligation Bonds             Revenue Bonds                Direct Borrowings                     Totals
+                  Year Ending June 30,        Principal        Interest       Principal      Interest       Principal        Interest       Principal         Interest
+                         2026              $ 1,171,947      $ 1,397,429     $ 690,000      $ 315,100       $ 129,767       $    15,306    $ 1,991,714      $ 1,727,835
+                         2027                 1,232,891        1,503,299        710,000        292,700        134,037           11,036      2,076,928         1,807,035
+                         2028                 1,328,490        1,576,789        735,000        269,580        126,508             6,800     2,189,998         1,853,169
+                         2029                 1,363,759        1,730,192        755,000        245,740        113,654             3,383     2,232,413         1,979,315
+                         2030                 1,545,676        1,742,362        780,000        221,180                -               -     2,325,676         1,963,542
+                       2031-2035              9,682,353       10,153,621      4,295,000        705,618                -               -    13,977,353        10,859,239
+                       2036-2040              3,743,651       10,455,003      1,925,000         67,988                -               -     5,668,651        10,522,991
+                       2041-2045                        -               -               -             -               -               -               -                -
+                        Subtotal           $ 20,068,767     $ 28,558,695    $ 9,890,000    $ 2,117,906     $ 503,966       $    36,525     30,462,733      $ 30,713,126
+
+
+                                                                                                           Premium on Bonds                    127,975
+                                                                                                           Accreted Interest                17,272,678
+                                                                                                                   Total                  $ 47,863,386
+
+
+
+
+              Under the terms of the revenue bonds and general obligation bonds agreements, the
+              District is required to maintain certain deposits with a trustee. Such deposits are included
+              with assets limited as to use in the financial statements. The loan agreement also places
+              limits on the incurrence of additional borrowings and requires that the District satisfy
+              certain measures of financial performance.
+
+
+NOTE 8   LEASES AND SBITAS
+
+         Lease obligations and receivables consist of the following for the year ended June 30, 2025:
+                                                                       Balance                                                       Balance               Due Within
+                                                                     July 1, 2024        Additions             Deletions          June 30, 2025            One Year
+         Lease Liabilities                                         $      511,366      $    186,488          $   (269,021)        $    428,833           $     186,100
+         Lease Receivables                                         $        44,470     $           -         $     (25,056)       $      19,414          $      19,414
+
+
+         Total future minimum lease payments under lease agreements are as follows:
+
+                 Year Ending June 30,                                         Principal                             Interest                             Total
+                        2026                                                $     186,100                     $          17,815                $          203,915
+                        2027                                                      118,815                                 8,975                           127,790
+                        2028                                                      107,521                                 2,979                           110,500
+                        2029                                                       16,397                                   130                            16,527
+            Total Minimum Lease Payments                                    $     428,833                     $          29,899                $          458,732
+
+         SBITA obligations consist of the following for the year ended June 30, 2025:
+
+                                                                      Balance                                                       Balance               Due Within
+                                                                    July 1, 2024           Additions          Deletions          June 30, 2025            One Year
+         SBITA Liabilities                                         $ 7,434,715         $               -    $ (1,199,596)        $ 6,235,119             $ 1,238,931
+
+
+
+
+                                                                            (32)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 8   LEASES AND SBITAS (CONTINUED)
+
+         Total future minimum payments under SBITA agreements are as follows:
+
+                Year Ending June 30,              Principal             Interest            Total
+                        2026                    $  1,238,931        $      164,366     $    1,403,297
+                        2027                       1,224,690               128,134          1,352,824
+                        2028                       1,248,637                 91,427         1,340,064
+                        2029                       1,269,312                 53,920         1,323,232
+                        2030                       1,224,526                 17,558         1,242,084
+                      Thereafter                       29,023                   649            29,672
+           Total Minimum Lease Payments         $  6,235,119        $      456,054     $    6,691,173
+
+
+NOTE 9   RETIREMENT PLANS
+
+         Defined Benefit Plan - Plan Description
+         The District sponsors a single-employer defined benefit pension plan for employees over
+         age 21 with at least one year of service. The plan is governed by the District’s board of
+         directors, which may amend benefits and other plan provisions, and which is responsible for
+         the management of plan assets. The primary factors affecting the benefits earned by
+         participants in the pension plan are employees’ years of service and compensation levels. A
+         separate financial report is not prepared for the plan.
+
+         Benefits Provided
+         The District provides service retirement and pre-retirement death benefits to plan members,
+         who must be District employees and beneficiaries. Benefits are based on years of credited
+         service, equal to one year of full- time employment. Members with five years of total service
+         are eligible to retire at age 55 with statutorily reduced benefits. All members are eligible for
+         pre-retirement death benefits after five years of service. The benefit vesting schedule is 50%
+         vesting after five years, increasing 10% per year to 100% vested after 10 years of service.
+         The Plan was closed to new entrants effective January 1, 2013.
+
+         Active participants automatically become 100% vested upon attainment of normal retirement
+         age or if they become totally and permanently disabled.
+
+         The Plan’s provisions and benefits in effect at June 30, 2025 are summarized as follows:
+
+            Hire Date                                                   Prior to January 1, 2013
+            Benefit Payments                                            Life Annuity or Lump Sum
+            Retirement Age                                              65 to 70 Years
+            Monthly Benefits, as a % of Eligible Compensation           2.5%, Not Less Than $600
+            Required Employer Contribution Rates                        55.0%
+            Required Employee Contribution Rates                        3.5%
+
+
+
+
+                                                 (33)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 9   RETIREMENT PLANS (CONTINUED)
+
+         Benefits Provided (Continued)
+         Employees covered at December 31, 2024, by the benefit terms for the Plan are as follows:
+
+         Inactive Employees or Beneficiaries Currently
+          Receiving Benefits                                                   21
+         Inactive Employees Entitled to but Not Yet
+          Receiving Benefits                                                   64
+         Active Employees                                                      71
+                Total                                                         156
+
+         Contributions
+         The employer contribution rates are determined on an annual basis by the actuary and shall
+         be effective on July 1 following notice of a change in the rate. Funding contributions for the
+         Plan are determined annually on an actuarial basis as of January 1 by the Plan. The
+         actuarially determined rate is the estimated amount necessary to finance the costs of
+         benefits earned by employees during the year, with an additional amount to finance any
+         unfunded accrued liability. For the year ended June 30, 2025, the employer contribution
+         was $5,120,561.
+
+         Rate of Return
+         For the year ended December 31, 2024, the annual money-weighted rate of return on
+         pension plan investments, net of pension plan investment expense, was 10.48%. The
+         money-weighted rate of return expresses investment performance, net of investment
+         expense, adjusted for the changing amounts actually invested.
+
+         Concentration of Credit Risk
+         The Plan’s policy does not limit the percentage of any asset in the Plan portfolio. The
+         composition of plan assets consisted of the following at December 31, 2024:
+
+                                                                       Percent
+                                                                       of Total
+         Asset Allocation                                            Plan Assets
+         Cash and Cash Equivalents                                          28.0 %
+         Mutual Funds                                                       72.0
+             Total                                                         100.0 %
+
+
+
+
+                                                  (34)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 9   RETIREMENT PLANS (CONTINUED)
+
+         Net Pension Liability
+         The District’s net pension liability was measured as of December 31, 2024, and the total
+         pension liability used to calculate the net pension liability was determined by an actuarial as
+         of December 31, 2024.
+
+         Actuarial Assumptions - The total pension liability in the January 1, 2024 actuarial valuation
+         were determined using the following actuarial assumptions:
+
+            Valuation Date                                              January 1, 2024
+            Measurement Date                                            December 31, 2024
+            Actuarial Cost Method                                       Entry-Age Normal Cost Method
+            Actuarial Assumptions:
+              Discount Rate                                             6.25%
+              Projected Salary Increase                                 5.25%
+              Investment Rate of Return                                 6.25%
+
+         Mortality rates for pre-retirement were based on the RP-2014 scale adjusted to 2006 Total
+         Dataset Mortality Table projected to the valuation date with Scale MP-2021. Mortality rates for
+         post-retirement (Lump-Sum) were based date of participation (DOP). DOP before July 1, 2009
+         based on the 1984 Uninsured Pensioner Mortality Table (UP) set back four years. DOP on or
+         after July 1, 2009 based on the RP-2000 Table for Males set back four years.
+
+         The long-term expected rate of return on plan investments was determined using a building
+         block method which best estimate ranges of expected future real rates of return (expected
+         return, net of pension plan investment expense and inflation) are developed for each major
+         asset class. These ranges are combined to produce the long term expected rate of return by
+         weighting the expected future real rates of return by the target asset allocation percentage and
+         by adding expected inflation. The table below reflects geometric average real rate of return by
+         asset class. The rate of return was calculated using the capital market assumptions applied to
+         determine the discount rate and asset allocation. These geometric rates of return are net of
+         administrative expenses.
+
+                                                                                         Long-Term
+                                                                         Asset          Expected Real
+         Asset Class                                                   Allocation       Rate of Return
+         Large Cap                                                          41.00 %             4.52 %
+         Mid/Small Cap                                                      30.00               2.52
+         International                                                      22.00               5.44
+         Specialty/Alts                                                      7.00               3.12
+              Total                                                        100.00 %
+
+
+
+
+                                                 (35)
+                               NORTHERN INYO HEALTHCARE DISTRICT
+                                 NOTES TO FINANCIAL STATEMENTS
+                                          JUNE 30, 2025
+
+
+
+
+NOTE 9   RETIREMENT PLANS (CONTINUED)
+
+         Net Pension Liability (Continued)
+         Discount Rate – The discount rate used to measure the total pension liability was 6.25% for
+         the plan. The project of cash flows used to determine the discount rate assumed that
+         employee contributions will be made at the current contribution rate and that the District’s
+         contributions will be made at rates equal to the difference between actuarially determined
+         contribution rates and the employee rate. Based on those assumptions, the pension plan’s
+         fiduciary net position was projected to be available to make all projected future benefit
+         payments of current active and inactive employees. Therefore, the long-term expected rate
+         of return on pension plan investments was applied to all periods of projected benefit
+         payments to determine the total pension liability.
+
+         Changes in the Net Pension Liability
+         The changes in the net pension liability for the plan are as follows:
+
+                                                                       Increase (Decrease)
+                                                     Total Pension         Plan Fiduciary      Net Pension
+                                                        Liability           Net Position      Liability(Asset)
+         Balance at June 30, 2024                  $     45,098,357      $     12,152,002    $    32,946,355
+         Changes in the Year:
+          Service Cost                                      979,570                    -             979,570
+          Interest on Total Pension Liability             2,822,935                    -           2,822,935
+          Differences between Expected and
+            Actual Experience                             2,220,539                   -             2,220,539
+          Change of Assumptions                                   -                   -                     -
+          Contribution - Employer                                 -           5,120,561            (5,120,561)
+          Contribution - Member                                   -             472,648              (472,648)
+          Net Investment Income                                   -           1,507,690            (1,507,690)
+          Benefit Payments Including Refunds
+            of Member Contributions                      (1,849,968)         (1,849,968)                   -
+          Administrative Expense                                  -              (5,758)               5,758
+               Net Changes                                4,173,076           5,245,173           (1,072,097)
+         Balance at June 30, 2025                  $     49,271,433     $    17,397,175      $    31,874,258
+
+         Sensitivity of the Net Pension Liability to Changes in the Discount Rate – The following
+         presents the net pension liability of the District calculated using the discount rate of 6.25%,
+         as well as what the District’s net pension liability would be if it were calculated using a
+         discount rate that is 1 percentage-point lower or 1 percentage-point higher than the
+         current rate.
+
+                                                                             Current
+                                                     1% Decrease          Discount Rate        1% Increase
+                                                       (5.25%)               (6.25%)             (7.25%)
+         District Net Pension Liability            $    38,463,231      $     31,874,258     $    26,395,675
+
+
+
+
+                                                  (36)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 9   RETIREMENT PLANS (CONTINUED)
+
+         Pension Expenses and Deferred Outflows/Inflows of Resources Related to Pensions
+         For the fiscal year ended June 30, 2025, the District recognized pension expense of
+         $3,292,750. At June 30, 2025, the District reported deferred outflows of resources and
+         deferred inflows of resources related to pensions from the following sources:
+
+                                                                       Deferred             Deferred
+                                                                      Outflows of           Inflow of
+                                                                      Resources            Resources
+         Differences Between Expected and Actual Experience         $   4,834,774      $             -
+         Changes of Assumptions                                         2,578,617           (8,740,164)
+         Net Differences Between Projected and Actual
+          Earnings on Plan Investments                                     59,639                       -
+         Contributions Made Subsequent to the
+          Measurement Date                                               1,920,000                   -
+              Total                                                 $    9,393,030     $    (8,740,164)
+
+         Amounts reported as deferred outflows and deferred inflows of resources related to pensions
+         will be recognized in future pension expense as follows:
+
+                          Year Ending June 30,                          Amount
+                                 2026                               $     (196,546)
+                                 2027                                     (752,355)
+                                 2028                                      (86,180)
+                                 2029                                      (62,772)
+                                 Total                              $   (1,097,853)
+
+         Defined Contribution Plan – Plan Description
+         The District sponsors and contributes to the Northern Inyo County Local Hospital District
+         401(a) Retirement Plan (NICLHD), a defined contribution pension plan, for its employees.
+         The plan covers its employees who have attained the age of 21 years and were not a
+         participant in the District’s defined benefit plan prior to January 1, 2013, and completed of
+         one year of service. NICLHD is administered by the District.
+
+         Benefit terms, including contribution requirements, for NICLHD are established and may be
+         amended by the District’s board of directors. Beginning August 1, 2023 for each employee in
+         the pension plan, the District is required to match up to 3.5% of contributions elected by
+         employees who are allowed to contribute to the plan. Employees are not permitted to make
+         contributions to the pension plan. The District does not contribute to this plan if an employee
+         does not elect to contribute. For the year ended June 30, 2025, the District made employer
+         contributions in the amount of $762,142.
+
+
+
+
+                                                 (37)
+                           NORTHERN INYO HEALTHCARE DISTRICT
+                             NOTES TO FINANCIAL STATEMENTS
+                                      JUNE 30, 2025
+
+
+
+
+NOTE 9   RETIREMENT PLANS (CONTINUED)
+
+         Defined Contribution Plan – Plan Description (Continued)
+         Each participant shall have a nonforfeitable and vested right to his or her account for each
+         year of service completed while an employee of the employer, in accordance with the
+         following schedule:
+
+                                                                      Nonforfeitable
+                                  Years                                Percentage
+                                     5                                       50.0 %
+                                     6                                       60.0
+                                     7                                       70.0
+                                     8                                       80.0
+                                     9                                       90.0
+                                10 or more                                  100.0
+
+
+NOTE 10 RISK MANAGEMENT
+
+         The District is exposed to various risks of loss related to medical malpractice; torts; theft of,
+         damage to, and destruction of assets; errors and omissions; injuries of employees; and
+         natural disasters.
+
+         The District’s comprehensive general liability insurance covers losses of up to $20,000,000
+         per claim with $30,000,000 annual aggregate for occurrence basis during a policy year
+         regardless of when the claim was filed (occurrence-based coverage).
+
+         The District’s professional liability insurance covers losses up to $3,000,000 per claim with
+         $3,000,000 annual aggregate for claims reported during a policy year (claims-made
+         coverage). Under a claims-made policy, the risk for claims and incidents not asserted within
+         the policy period remains with the District.
+
+         Although there exists the possibility of claims arising from services provided to patients
+         through June 30, 2025, which have not yet been asserted, the District is unable to determine
+         the ultimate cost, if any, of such possible claims, and accordingly no provision has been
+         made for them. Settled claims have not exceeded commercial coverage in any of the three
+         preceding years.
+
+         The District is a participant in the Association of California Healthcare Districts’ ALPHA
+         Fund, which administers a self-insured workers’ compensation plan for participating member
+         hospitals and their employees. The District pays a premium to the ALPHA Fund; the
+         premium is adjusted annually. If participation in the ALPHA Fund were terminated by the
+         District, the District would be liable for its share of any additional premiums necessary for
+         final disposition of all claims and losses covered by the ALPHA Fund.
+
+
+
+
+                                                 (38)
+                          NORTHERN INYO HEALTHCARE DISTRICT
+                            NOTES TO FINANCIAL STATEMENTS
+                                     JUNE 30, 2025
+
+
+
+
+NOTE 11 SELF-INSURED HEALTHCARE PLAN
+
+        The District has a self-funded health care plan that provides medical and dental benefits to
+        employees and their dependents. Employees share in the cost of health benefits. Health
+        care expense is based on actual claims paid, reinsurance premiums, administration fees,
+        and unpaid claims at year-end. The District buys reinsurance to cover catastrophic individual
+        claims over $215,000. The District records a liability for claims incurred but not reported that
+        is recorded in accrued payroll and related liabilities in the accompanying statements of net
+        position.
+
+                                                            Current Year
+                                                             Claims and
+                                            Beginning       Changes in          Claim           Ending
+                      Year                   Liability       Estimates        Payments          Liability
+                      2024                $    (749,280)   $ (12,777,176)   $ 12,679,129    $     (847,327)
+                      2025                     (847,327)     (10,170,404)      10,296,711         (721,020)
+
+
+
+NOTE 12 CONCENTRATION OF CREDIT RISK
+
+        The District grants credit without collateral to its patients, most of whom are insured under
+        third-party payor agreements. The mix of receivables from third-party payors and patients at
+        June 30, 2025 was as follows:
+
+        Medicare                                                             21.6 %
+        MediCal                                                               9.6
+        Other Third-Party Payors                                             48.4
+        Patients                                                             20.4
+             Total                                                          100.0 %
+
+
+
+NOTE 13 CONTINGENCIES
+
+        Malpractice Insurance
+        The District has malpractice insurance coverage to provide protection for professional
+        liability losses on claims-made basis subject to a limit of $6 million per claim and an annual
+        aggregate limit of $20 million. Should the claims-made policy not be renewed or replaced
+        with equivalent insurance, claims based on occurrences during its term, but reported
+        subsequently, would be uninsured.
+
+        Litigation, Claims, and Disputes
+        The Organization is subject to various legal proceedings and claims which arise in the
+        ordinary course of operations. In the opinion of management, the amount of any liability, if
+        any, with respect to these actions would not materially affect the financial position or results
+        of operations of the Organization.
+
+
+
+
+                                                (39)
+                                     NORTHERN INYO HEALTHCARE DISTRICT
+                                       NOTES TO FINANCIAL STATEMENTS
+                                                JUNE 30, 2025
+
+
+
+
+NOTE 13 CONTINGENCIES (CONTINUED)
+
+        Litigation, Claims, and Disputes (Continued)
+        The health care industry is subject to numerous laws and regulations of federal, state, and
+        local governments. Compliance with these laws and regulations, specifically those relating to
+        the Department of Health and Human Services (HHS) and the Medicare and Medi-Cal
+        programs, can be subject to government review and interpretation, as well as regulatory
+        actions unknown and unasserted at this time. Federal government activity has increased
+        with respect to investigations and allegations concerning possible violations by healthcare
+        providers of regulations, which could result in the imposition of significant fines and
+        penalties, as well as significant repayments of previously billed and collected revenues from
+        patient services.
+
+
+NOTE 14 CONDENSED COMBINING INFORMATION
+
+        Statement of net position as of June 30, 2025:
+
+                                                            Hospital          Foundation           Auxiliary            Total
+                 Assets and Deferred Outflows
+                         of Resources
+
+        Assets:
+          Current Assets                                $    57,447,777   $        246,406     $        90,673     $    57,784,856
+          Capital Assets, Net                                81,621,118                  -                   -          81,621,118
+          Other Assets                                        2,205,280                  -                   -           2,205,280
+              Total Assets                                  141,274,175            246,406              90,673         141,611,254
+
+        Deferred Outflows of Resources:                      10,160,352                    -                   -        10,160,352
+               Total Assets and Deferred
+                Outflows of Resources                       151,434,527            246,406              90,673         151,771,606
+
+                   Liabilities, Deferred Inflows
+                 of Resources, and Net Position
+
+        Liabilities:
+          Current Liabilities                                12,549,291                    -                   -        12,549,291
+          Long-Term Liabilities                              82,984,851                    -                   -        82,984,851
+                 Total Liabilities                           95,534,142                    -                   -        95,534,142
+
+        Deferred Inflows of Resources                         8,758,790                    -                   -         8,758,790
+
+        Net Position:
+          Net Investment in Capital Assets                   27,093,780                  -                   -          27,093,780
+          Restricted                                          1,469,292                  -                   -           1,469,292
+          Unrestricted                                       18,578,523            246,406              90,673          18,915,602
+               Total Net Position                            47,141,595            246,406              90,673          47,478,674
+
+               Total Liabilities, Deferred Inflows of
+                Resources and Net Position              $   151,434,527   $        246,406     $        90,673     $   151,771,606
+
+
+
+
+                                                             (40)
+                                  NORTHERN INYO HEALTHCARE DISTRICT
+                                    NOTES TO FINANCIAL STATEMENTS
+                                             JUNE 30, 2025
+
+
+
+
+NOTE 14 CONDENSED COMBINING INFORMATION (CONTINUED)
+
+       Operating results and changes in net position for the year ended June 30, 2025:
+
+                                                               Hospital           Foundation            Auxiliary            Total
+        OPERATING REVENUES
+         Net Patient Service Revenue                       $    99,493,670    $                 -   $             -     $    99,493,670
+         Other Operating Revenue                                 2,519,454                     26            66,414           2,585,894
+             Total Operating Revenues                          102,013,124                     26            66,414         102,079,564
+
+        OPERATING EXPENSES
+         Depreciation and Amortization                           5,187,694                   -                    -           5,187,694
+         Other Operating Expenses                              111,896,473               5,146               52,895         111,954,514
+             Total Operating Expenses                          117,084,167               5,146               52,895         117,142,208
+
+        OPERATING INCOME (LOSS)                                (15,071,043)             (5,120)              13,519         (15,062,644)
+
+        NET NONOPERATING REVENUES                               20,022,022              42,464                      -        20,064,486
+
+               Revenues in Excess of (Less Than)
+                Expenses and Change in Net Position              4,950,979              37,344               13,519           5,001,842
+
+        Net Position - Beginning of Year                        42,190,616             209,062               77,154          42,476,832
+
+        NET POSITION - END OF YEAR                         $    47,141,595    $        246,406      $        90,673     $    47,478,674
+
+
+       Statement of cash flows as of June 30, 2025:
+
+                                                               Hospital           Foundation            Auxiliary            Total
+        Net Cash Provided (Used) by Operating Activities   $   (13,183,502)   $         (5,120)     $         13,519    $   (13,175,103)
+        Net Cash Provided (Used) by Noncapital
+         Financing Activities                                   19,509,559              21,464                      -        19,531,023
+        Net Cash Provided (Used) by Capital and
+         Capital Related Financing Activities                   (4,381,269)                  -                      -        (4,381,269)
+        Net Cash Provided (Used) by Investing Activities            45,002              21,000                      -            66,002
+
+        NET CHANGE IN CASH AND
+         CASH EQUIVALENTS                                        1,989,790              37,344               13,519           2,040,653
+
+        Cash and Cash Equivalents - Beginning
+         of Year                                                28,476,140             209,062               77,154          28,762,356
+
+        CASH AND CASH EQUIVALENTS -
+         END OF YEAR                                       $    30,465,930    $        246,406      $        90,673     $    30,803,009
+
+
+
+
+NOTE 15 RELATED PARTY TRANSACTIONS
+
+       In the ordinary course of business, the District has and expects to continue to have
+       transactions with its employees and elected officials. In the opinion of management, such
+       transactions were on substantially the same terms, including interest rates and collateral, as
+       those prevailing at the time of comparable transactions with other persons and did not
+       involve more than a normal risk of collectability or present any other unfavorable features to
+       the District.
+
+
+
+
+                                                                (41)
+                                                       NORTHERN INYO HEALTHCARE DISTRICT
+                                SCHEDULE OF CHANGES IN THE NET PENSION LIABILITY AND RELATED RATIOS – PENSION PLAN
+                                                             LAST TEN FISCAL YEARS
+
+
+
+                                                            2025               2024               2023               2022               2021               2020               2019               2018               2017               2016
+Total Pension Liability:
+  Service Cost                                         $      979,570     $    1,240,702     $    1,376,714     $    1,706,921     $    1,951,401     $    1,781,772     $    2,121,997     $    2,281,116     $    2,812,178     $    2,219,985
+  Interest on the Total Pension Liability                   2,822,935          2,346,115          2,183,032          2,179,367          2,298,637          2,694,973          2,726,359          2,805,649          3,053,437          3,047,939
+  Differences Between Expected and
+      Actual Experience                                      2,220,539          1,766,631          3,910,725            769,805            880,397          2,640,361          3,016,650          1,343,607         (3,295,677)        1,385,608
+  Changes in Assumptions                                             -        (15,685,950)                 -             96,057          1,737,567          6,850,017            (84,200)          (185,137)          (417,283)       12,966,856
+  Benefit Payments                                          (1,849,968)        (3,924,140)        (2,603,583)        (6,023,511)       (13,117,516)        (8,053,422)        (8,082,821)        (5,554,354)        (7,575,753)       (8,213,871)
+           Net Change in Total Pension Liability             4,173,076        (14,256,642)         4,866,888         (1,271,361)        (6,249,514)         5,913,701           (302,015)           690,881         (5,423,098)       11,406,517
+
+Total Pension Liability - Beginning                        45,098,357         59,354,999         54,488,111         55,759,472         62,008,986         56,095,285         56,397,300         56,575,151         61,998,249         50,591,732
+
+Total Pension Liability - Ending (a)                   $   49,271,433     $   45,098,357     $   59,354,999     $   54,488,111     $   55,759,472     $   62,008,986     $   56,095,285     $   57,266,032     $   56,575,151     $   61,998,249
+
+Plan Fiduciary Net Position:
+   Contributions - Employer                            $     5,120,561    $     5,331,816    $     7,403,934    $       347,300    $     3,000,000    $     5,242,000    $     6,300,000    $     5,340,000    $     5,340,000    $     3,900,000
+   Contributions - Member                                      472,648                  -                  -                  -                  -                  -                  -                  -                  -                  -
+   Net Investment Income (Loss)                              1,507,690         (1,336,658)           817,781          2,082,706           (746,702)         1,893,587           (116,063)          (292,381)          (126,769)           880,376
+   Benefit Payments                                         (1,849,968)        (3,924,140)        (2,603,583)        (6,023,511)       (13,117,516)        (8,053,422)        (8,082,821)        (5,554,354)        (7,575,753)        (8,213,871)
+   Administrative Expense                                       (5,758)           (16,352)           (58,167)           (57,983)           (54,472)           (58,625)           (64,562)           (88,502)           (55,640)           (51,336)
+           Net Change in Plan Fiduciary Net Position         5,245,173             54,666          5,559,965         (3,651,488)       (10,918,690)          (976,460)        (1,963,446)          (595,237)        (2,418,162)        (3,484,831)
+
+Plan Fiduciary Net Position - Beginning                    12,152,002         12,097,336          6,537,371         10,188,859         21,107,549         22,084,009         24,047,455         26,087,619         28,505,781         31,990,612
+
+Plan Fiduciary Net Position - Ending (b)                   17,397,175         12,152,002         12,097,336          6,537,371         10,188,859         21,107,549         22,084,009         25,492,382         26,087,619         28,505,781
+
+           Net Pension Liability - Ending (a)-(b)      $   31,874,258     $   32,946,355     $   47,257,663     $   47,950,740     $   45,570,613     $   40,901,437     $   34,011,276     $   31,773,650     $   30,487,532     $   33,492,468
+
+Plan Fiduciary Net Position as a
+ Percentage of the Total Pension Liability
+
+Covered Payroll                                        $    8,545,281     $    8,563,359     $    8,609,073     $    9,243,630     $    9,302,388     $   10,780,522     $   11,537,345     $   12,968,106     $   13,529,712     $   15,892,425
+
+Net Pension Liability as Percentage
+ of Covered Payroll                                          373.00 %           384.74 %           548.93 %           518.74 %           489.88 %           379.40 %           294.79 %           245.01 %           225.34 %           210.74 %
+
+                                                       December 31,       December 31,       December 30,       December 30,       December 31,       December 31,       December 31,       December 31,       December 31,       December 31,
+Measurement Date                                            2024               2023               2022               2021               2020               2019               2018               2017               2016               2015
+
+
+
+
+                                                                                                                       (42)
+                                                                   NORTHERN INYO HEALTHCARE DISTRICT
+                                                                SCHEDULE OF CONTRIBUTIONS – PENSION PLAN
+                                                                         LAST TEN FISCAL YEARS
+
+
+
+                                                        2025              2024             2023               2022            2021            2020             2019              2018              2017             2016
+
+Actuarially Determined Contribution                $    3,504,078    $    4,730,922    $   4,960,082     $    9,056,000   $   7,752,000   $    6,072,000   $    5,484,000    $    4,716,000    $    5,340,000   $    3,900,000
+
+Contributions in Relation to the Actuarily
+ Determined Contributions                               3,650,635         4,743,446        5,973,722          5,599,234       3,000,000        5,500,000        6,060,000         5,340,000         5,340,000        3,900,000
+
+Contribution Deficiency (Excess)                   $     (146,557)   $      (12,524)   $   (1,013,640)   $    3,456,766   $   4,752,000   $     572,000    $     (576,000)   $     (624,000)   $            -   $            -
+
+Covered Payroll                                    $    8,545,281    $    8,563,359    $   8,609,073     $    9,243,630   $   9,302,388   $   10,780,522   $   11,537,345    $   12,968,106    $   13,529,712   $   15,892,425
+
+Contributions as a Percentage of Covered Payroll           42.72 %          55.39 %          69.39 %            60.57 %         32.25 %          51.02 %          52.53 %           41.18 %           39.47 %          24.54 %
+
+Notes to Schedule:
+
+Valuation Date                                     January 1, 2025
+
+Methods and Assumptions Used to Determine
+ Contribution Rates
+  Actuarial Cost Method                            Entry Age Normal Cost Method
+  Amortization Method                              Level Percent of Payroll
+  Remaining Amortization Period                    15 Years
+  Asset Valuation Method                           Market Value
+  Inflation                                        2.40%
+  Salary Increases                                 5.25%, Including Inflation
+  Investment Rate of Return                        6.25%
+  Retirement Age                                   65 or 70
+
+
+
+
+                                                                                                             (43)
+                                            NORTHERN INYO HEALTHCARE DISTRICT
+                                       SCHEDULE OF INVESTMENT RETURNS – PENSION PLAN
+                                                   LAST TEN FISCAL YEARS
+
+
+
+
+                                     2025     2024       2023     2022      2021      2020     2019      2018      2017      2016
+Annual Money-Weighted Rate of
+ Return, Net of Investment Expense   10.48%   (10.45)%   9.33 %   36.17 %   (4.36)%   8.74 %   (0.47)%   (1.16)%   (0.48)%   3.11 %
+
+
+
+
+                                                                  (44)
+                                                          NORTHERN INYO HEALTHCARE DISTRICT
+                                                         COMBINING STATEMENT OF NET POSITION
+                                                                     JUNE 30, 2025
+
+
+
+                                                                               Hospital             Foundation           Auxiliary            Total
+                 Assets and Deferred Outflows of Resources
+
+Current Assets:
+ Cash and Investments                                                   $          28,260,650   $        246,406     $         90,673    $    28,597,729
+ Receivables:
+   Patient, Net of Estimated Uncollectibles                                        16,694,500                    -                   -        16,694,500
+   Leases Receivable                                                                   19,414                                                     19,414
+   Other Receivables                                                                5,144,059                  -                    -          5,144,059
+ Estimated Third-Party Payor Settlements                                              841,312                  -                    -            841,312
+ Inventory                                                                          5,334,240                  -                    -          5,334,240
+ Prepaid Expenses and Other Assets                                                  1,153,602                  -                    -          1,153,602
+       Total Current Assets                                                        57,447,777            246,406               90,673         57,784,856
+
+Noncurrent Cash and Investments:
+ Restricted for Specific Operating Purposes and
+  Capital Improvements                                                              1,469,292                    -                   -         1,469,292
+  Long-Term Investments                                                               735,988                    -                   -           735,988
+       Total Noncurrent Cash and Investments                                        2,205,280                    -                   -         2,205,280
+
+Capital Assets:
+ Capital Assets not Being Depreciated/Amortized                                    12,442,254                    -                   -        12,442,254
+ Capital Assets Being Depreciated/Amortized, Net                                   69,178,864                    -                   -        69,178,864
+        Total Capital Assets                                                       81,621,118                    -                   -        81,621,118
+
+       Total Assets                                                            141,274,175               246,406               90,673        141,611,254
+
+Deferred Outflows of Resources:
+ Deferred Outflows Related to Pensions                                              9,393,030                    -                   -         9,393,030
+ Deferred Outflows Related to Refunding                                               297,382                    -                   -           297,382
+ Deferred Outflows Related to Acquisition                                             469,940                    -                   -           469,940
+       Total Deferred Outflows of Resources                                        10,160,352                    -                   -        10,160,352
+
+       Total Assets and Deferred Outflows of Resources                  $      151,434,527      $        246,406     $         90,673    $   151,771,606
+
+
+
+
+                                                                            (45)
+                                                       NORTHERN INYO HEALTHCARE DISTRICT
+                                                 COMBINING STATEMENT OF NET POSITION (CONTINUED)
+                                                                  JUNE 30, 2025
+
+
+
+
+                                                                                   Hospital             Foundation           Auxiliary            Total
+                    Liabilities, Deferred Inflows of Resources,
+                                  and Net Position
+Current Liabilities:
+ Current Maturities of Long-Term Debt                                       $           1,991,714   $                -   $               -   $     1,991,714
+ Current Maturities Related to Leases                                                     186,100                    -                   -           186,100
+ Current Maturities Related to SBITA's                                                  1,238,931                    -                   -         1,238,931
+ Other Liabilities                                                                        341,930                    -                   -           341,930
+ Accounts Payable:
+   Trade                                                                                4,793,082                    -                   -         4,793,082
+ Accrued Expenses:
+   Salaries and Wages                                                                   2,810,076                    -                   -         2,810,076
+   Interest and Sales Taxes                                                                89,554                    -                   -            89,554
+   Self-Insurance Claims                                                                1,062,590                    -                   -         1,062,590
+ Unearned Revenue                                                                          35,314                    -                   -            35,314
+       Total Current Liabilities                                                       12,549,291                    -                   -        12,549,291
+Lease Liability, Less Current Maturities                                                 242,733                     -                   -           242,733
+SBITA Liability, Less Current Maturities                                                4,996,188                    -                   -         4,996,188
+Long-Term Debt, Less Current Maturities                                                45,871,672                    -                   -        45,871,672
+Net Pension Liability                                                                  31,874,258                    -                   -        31,874,258
+
+        Total Liabilities                                                              95,534,142                    -                   -        95,534,142
+
+Deferred Inflows of Resources:
+ Deferred Inflows Related to Pensions                                                   8,740,164                    -                   -         8,740,164
+ Deferred Inflows Related to Lease Receivables                                             18,626                    -                   -            18,626
+       Total Deferred Inflows of Resources                                              8,758,790                    -                   -         8,758,790
+
+Net Position:
+ Net Investment in Capital Assets                                                      27,093,780                    -                   -        27,093,780
+ Restricted:
+    Programs                                                                               25,142                  -                    -             25,142
+    Capital Improvements                                                                1,444,150                  -                    -          1,444,150
+ Unrestricted:                                                                         18,578,523            246,406               90,673         18,915,602
+       Total Net Position                                                              47,141,595            246,406               90,673         47,478,674
+
+        Total Liabilities, Deferred Inflows of Resources, and Net Pension   $      151,434,527      $        246,406     $         90,673    $   151,771,606
+
+
+
+                                                                                (46)
+                                           NORTHERN INYO HEALTHCARE DISTRICT
+                          COMBINING STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+                                                 YEAR ENDED JUNE 30, 2025
+
+
+
+
+                                                               Hospital             Foundation            Auxiliary            Total
+Operating Revenues:
+ Net Patient Service Revenue                               $    99,493,670      $                 -   $             -     $    99,493,670
+ Other Revenue                                                   2,519,454                       26            66,414           2,585,894
+       Total Operating Revenues                                102,013,124                       26            66,414         102,079,564
+
+Operating Expenses:
+ Salaries and Wages                                             46,893,192                15,064                    -          46,908,256
+ Employee Benefits                                              17,209,980                11,042                    -          17,221,022
+ Professional Fees and Purchased Services                       19,694,702                   750                    -          19,695,452
+ Supplies                                                       12,811,274                 1,158                    -          12,812,432
+ Purchased Services                                              6,929,502                     -                    -           6,929,502
+ Depreciation and Amortization                                   5,187,694                     -                    -           5,187,694
+ Other                                                           8,357,823               (22,868)              52,895           8,387,850
+       Total Operating Expenses                                117,084,167                 5,146               52,895         117,142,208
+
+OPERATING INCOME (LOSS)                                        (15,071,043)               (5,120)              13,519         (15,062,644)
+
+Nonoperating Revenues (Expenses):
+ Property Tax for Operations                                         987,050                   -                      -           987,050
+ Property Tax for Debt Service                                     2,170,208                   -                      -         2,170,208
+ Investment Income                                                    (4,890)             21,000                      -            16,110
+ Interest Expense                                                 (1,753,903)                  -                      -        (1,753,903)
+ Gain (Loss) on Sale of Assets                                         4,598                   -                      -             4,598
+ Noncapital Contributions and Grants                              14,623,860              21,464                      -        14,645,324
+ Rental Income                                                        24,836                   -                      -            24,836
+ Miscellaneous Income (Expense)                                    3,970,263                   -                      -         3,970,263
+       Net Nonoperating Revenues                                  20,022,022              42,464                      -        20,064,486
+
+CHANGE IN NET POSITION                                             4,950,979              37,344               13,519           5,001,842
+
+Net Position - Beginning of Year                                  42,190,616             209,062               77,154          42,476,832
+
+NET POSITION - END OF YEAR                                 $      47,141,595    $        246,406      $        90,673     $    47,478,674
+
+
+
+
+                                                           (47)
+                                                     NORTHERN INYO HEALTHCARE DISTRICT
+                                                     COMBINING STATEMENT OF CASH FLOWS
+                                                          YEAR ENDED JUNE 30, 2025
+
+
+
+                                                                       Hospital              Foundation           Auxiliary            Total
+CASH FLOWS FROM OPERATING ACTIVITIES
+ Receipts from and on Behalf of Patients                           $    98,272,460       $              -     $              -    $    98,272,460
+ Payments to Suppliers and Contractors                                 (36,591,674)                21,710              (52,895)       (36,622,859)
+ Payments to and on Behalf of Employees                                (66,996,029)               (26,106)                   -        (67,022,135)
+ Other Receipts and Payments, Net                                       (7,868,259)                  (724)              66,414         (7,802,569)
+      Net Cash Provided (Used) by Operating Activities                 (13,183,502)                (5,120)              13,519        (13,175,103)
+
+CASH FLOWS FROM NONCAPITAL FINANCING ACTIVITIES
+  Noncapital Contributions and Grants                                      14,623,860              21,464                     -       14,645,324
+  Property Taxes Received                                                     987,050                                         -          987,050
+  Other                                                                     3,898,649                   -                     -        3,898,649
+     Net Cash Provided by Noncapital Financing Activities                  19,509,559              21,464                     -       19,531,023
+
+CASH FLOWS FROM CAPITAL AND CAPITAL
+ RELATED FINANCING ACTIVITIES
+  Principal Payments on Long-Term Debt                                     (3,832,965)                    -                   -        (3,832,965)
+  Interest Paid                                                               461,409                     -                   -           461,409
+  Purchase and Construction of Capital Assets                              (1,711,304)                    -                   -        (1,711,304)
+  Payments on Lease Liability                                                (269,021)                    -                   -          (269,021)
+  Payments on Subscription Liability                                       (1,199,596)                    -                   -        (1,199,596)
+  Property Taxes Received                                                   2,170,208                     -                   -         2,170,208
+      Net Cash Used by Capital and Capital
+       Related Financing Activities                                        (4,381,269)                    -                   -        (4,381,269)
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+ Investment Income                                                            (4,890)              21,000                     -           16,110
+ Rental Income                                                                49,892                    -                     -           49,892
+      Net Cash Provided by Investing Activities                               45,002               21,000                     -           66,002
+
+NET CHANGE IN CASH AND CASH EQUIVALENTS                                     1,989,790              37,344              13,519          2,040,653
+
+Cash and Cash Equivalents - Beginning of Year                              28,476,140             209,062              77,154         28,762,356
+
+CASH AND CASH EQUIVALENTS - END OF YEAR                            $       30,465,930    $        246,406     $        90,673     $   30,803,009
+
+
+
+
+                                                                    (48)
+                                                 NORTHERN INYO HEALTHCARE DISTRICT
+                                            COMBINING STATEMENT OF CASH FLOWS (CONTINUED)
+                                                       YEAR ENDED JUNE 30, 2025
+
+
+
+                                                                    Hospital             Foundation           Auxiliary            Total
+RECONCILIATION OF CASH AND CASH EQUIVALENTS
+ TO THE STATEMENT OF NET POSITION
+ Cash and Investments in Current Assets                         $       28,260,650   $        246,406     $        90,673     $   28,597,729
+ Cash and Investments in Noncurrent Cash and Investments                 2,205,280                  -                   -          2,205,280
+      Total Cash and Cash Equivalents                                   30,465,930            246,406              90,673         30,803,009
+
+RECONCILIATION OF OPERATING LOSS TO NET CASH
+ PROVIDED (USED) BY OPERATING ACTIVITIES
+ Operating Loss                                                     (15,071,043)               (5,120)             13,519         (15,062,644)
+ Adjustments to Reconcile Operating Income to Net Cash
+  Provided (Used) by Operating Activities
+   Depreciation and Amortization                                         5,187,694                    -                   -        5,187,694
+   Pension Expense                                                       3,621,047                    -                   -        3,621,047
+   Provision for Bad Debts                                              15,447,684                    -                   -       15,447,684
+   (Increase) Decrease in Assets:
+     Patient Receivables                                            (14,189,898)                      -                   -       (14,189,898)
+     Other Receivables                                               (2,028,087)                      -                   -        (2,028,087)
+     Inventory                                                        1,679,927                       -                   -         1,679,927
+     Prepaid Expenses                                                   (39,498)                      -                   -           (39,498)
+     Deferred Outflow of Resources                                    4,489,427                       -                   -         4,489,427
+   Increase (Decrease) in Liabilities:
+     Accounts Payable                                                 1,216,998                     -                   -           1,216,998
+     Estimated Third-Party Payor Settlements                         (2,478,996)                    -                   -          (2,478,996)
+     Accrued Expenses                                                (2,460,479)                    -                   -          (2,460,479)
+     Other Liabilites                                                   (48,937)                    -                   -             (48,937)
+     Net Pension Liability                                           (4,693,144)                    -                   -          (4,693,144)
+     Deferred Inflow of Resources                                    (3,816,197)                    -                   -          (3,816,197)
+       Net Cash Provided (Used) by Operating Activities         $   (13,183,502)     $         (5,120)    $        13,519     $   (13,175,103)
+
+SUPPLEMENTAL DISCLOSURES OF NONCASH CAPITAL AND
+ CAPITAL RELATED FINANCING ACTIVITIES
+ Gain on Extinguishment of Debt                                 $          71,614    $                -   $               -   $       71,614
+
+ Lease Assets Received in Exchange for Lease Liability          $         186,488    $                -   $               -   $      186,488
+
+
+
+
+                                                                 (49)
+                                              NORTHERN INYO HEALTHCARE DISTRICT
+                                                   STATISTICAL INFORMATION
+                                                      LAST EIGHT YEARS
+
+
+
+
+                                     2025         2024         2023         2022         2021         2020         2019         2018
+Bed Complement
+ Medical/Surgical                           12            12           11           11           11           11           11           11
+ Prenatal/Obstetrics                         5             5            6            6            6            6            6            6
+ Pediatric                                   4             4            4            4            4            4            4            4
+ Intensive Care                              4             4            4            4            4            4            4            4
+       Total Licensed Bed Capacity          25            25           25           25           25           25           25           25
+
+Utilization
+  License Beds                            25           25           25           25           25           25           25           25
+  Patient Days                         2,887        2,562        2,458        2,646        2,931        2,968        3,257        3,474
+  Discharges                           1,076        1,048        1,019          993        1,050        1,104        1,037        1,106
+  Occupancy Percentage                   32%          28%          27%          29%          32%          33%          36%          38%
+  Average Stay (Days)                      3            2            2            3            3            3            3            3
+  Emergency Room Visits               10,219       10,080        9,866        8,730        7,066        8,262        9,153        8,798
+  Outpatient Visits                   47,767       42,374       43,678       44,067       48,938       40,472       38,960       38,651
+
+Medical Staff
+ Active                                      53           51           50           49           50           54           50           53
+ Consulting                                  50           33           26           21           25           19           17           17
+ Honorary                                     2            2            2            2            2           11           11           11
+ AHP                                         14           14           16           16           18           18           12           10
+ Other - Telemedicine                        60           34           38           32           30           33           27            -
+        Total Practitioners                 179          134          132          120          125          135          117           91
+
+Employees
+ Full-Time                                  334          332          329          350          370          361          362          330
+ Part-Time and Per Diem                     125           94          112          104          113          124          131          126
+        Total Employees                     459          426          441          454          483          485          493          456
+
+        Full-Time Equivalents               371          356          384          348          349          374          375          393
+
+
+
+
+                                                                 (50)
+                                                           NORTHERN INYO HEALTHCARE DISTRICT
+                                                           STATISTICAL INFORMATION (CONTINUED)
+                                                                    LAST EIGHT YEARS
+
+
+
+Bond Debt Service Cover (Thousands)                 2025          2024          2023             2022           2021           2020            2019           2018
+
+Excess (Deficit) of Revenue Over Expenses       $     5,002   $     5,749   $     (11,414)   $      (842)   $     8,650    $     (2,641)   $      1,725   $      1,696
+Add:
+  Depreciation Expense                                5,188         5,210           5,221          4,161          4,170           4,302           4,267          4,457
+  Interest Expense                                    1,754         2,782           2,611          2,616          3,890           2,377           2,912          2,893
+        Available to Meet Debt Service          $    11,943   $    13,741   $      (3,582)   $     5,935    $    16,710    $      4,038    $      8,904   $      9,046
+
+Actual Debt Service (Principal and Interest):
+  2009 General Obligation Bonds                 $     1,150   $     1,015   $      1,145     $     1,100    $     1,020    $        860    $      1,364   $        955
+  2016 General Obligation Bonds                       1,252         1,254            981           1,317            865           1,242           1,178          1,179
+  2010 Revenue Bonds                                  1,211         1,211          1,211           1,209          1,204           1,179             765            769
+  2013 Revenue Bonds                                    765           765            765             765            769             762             864            814
+  2021 A Refunding Revenue Bonds                        113           113            113              48              -               -               -              -
+  2021 B Refunding Revenue Bonds                        894           905            864              84              -               -               -              -
+  Financed Purchases                                  1,547         1,578             20             394            382               -               -              -
+        Totals                                  $     6,932   $     6,841   $      5,099     $     4,917    $     4,240    $      4,043    $      4,171   $      3,717
+
+Historical Debt Service Coverage Ratio                 1.72          2.01           (1.15)          1.21            3.94           1.00            2.13           2.43
+
+Details regarding the District's outstanding debt can be found in the notes to the financial statements. General obligation bonds are secured by ad valorem taxes on all
+property within the District subject to taxation by the District. Revenue bonds are secured by a pledge of revenue set forth under the indenture. The coverage calculations
+presented in this schedule differ from those required by the 2021A and 2021B bond indentures.
+
+
+
+
+                                                                                   (51)
+
