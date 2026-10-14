@@ -3,16 +3,19 @@
 Healthcare System Financial Extraction Pipeline
 ================================================
 Extracts financial data from audited statements and interim reports for
-US government hospital systems and nonprofit healthcare systems.
+US government hospital systems and nonprofit healthcare organizations.
 
 Designed for systems with >$25M cash+investments.
 
 Usage:
     python extract_healthcare_financials.py \
-        --org-name "Sarasota County Public Hospital District" \
-        --org-id "SMH" \
-        --pdfs "path/to/fy25_audit.pdf,path/to/q3_interim.pdf" \
-        --frappe-url "https://example.com" \
+        --config configs/sarasota.json \
+        --output-dir ./output
+        
+    python extract_healthcare_financials.py \
+        --org-name "Organization Name" \
+        --org-id "ORG-ID" \
+        --pdfs "path/to/audit.pdf,path/to/interim.pdf" \
         --output-dir "./output"
         
 Environment Variables (for Frappe auth):
@@ -32,10 +35,39 @@ import sys
 from dataclasses import dataclass, field, asdict
 from datetime import datetime
 from pathlib import Path
-from typing import Optional, List, Dict, Any
+from typing import Optional, List, Dict, Any, Tuple
 from urllib.parse import urlparse
+import tempfile
 
-import requests
+try:
+    import requests
+    HAS_REQUESTS = True
+except ImportError:
+    HAS_REQUESTS = False
+
+
+@dataclass
+class ExtractionPattern:
+    """Pattern for extracting a financial metric."""
+    metric_name: str
+    category: str  # cash_and_investments, portfolio_policy, self_insurance, debt, ratings, revenue, other
+    patterns: List[str]  # Regex patterns to match
+    value_type: str  # currency, number, text, percentage
+    page_hints: List[str] = field(default_factory=list)  # Keywords to find relevant page
+
+
+@dataclass
+class OrgConfig:
+    """Configuration for extracting data from a specific organization."""
+    org_name: str
+    org_id: str
+    segment: str  # Healthcare, Government, Municipal, Nonprofit
+    state: str
+    country: str = "United States"
+    fiscal_year_end_month: int = 9  # September = 9
+    pdf_sources: List[Dict[str, str]] = field(default_factory=list)  # [{url, type, fiscal_year}]
+    extraction_patterns: List[Dict] = field(default_factory=list)
+    expected_values: Dict[str, str] = field(default_factory=dict)
 
 
 @dataclass
@@ -46,15 +78,15 @@ class FinancialFigure:
     value_numeric: Optional[float]
     as_of_date: str
     fiscal_year: str
-    period_type: str  # 'annual', 'interim', 'quarterly'
+    period_type: str  # annual, interim, quarterly
     source_url: str
     source_domain: str
     pdf_page: int
     source_quote: str
-    category: str  # 'cash_and_investments', 'portfolio_policy', 'self_insurance', 'debt', 'ratings', 'revenue', 'other'
+    category: str
     verified: bool = False
     expected_value: Optional[str] = None
-    match_status: str = 'not_checked'  # 'match', 'mismatch', 'not_checked'
+    match_status: str = 'not_checked'
     screenshot_path: Optional[str] = None
     
     def content_hash(self) -> str:
@@ -63,82 +95,105 @@ class FinancialFigure:
         return hashlib.sha256(content.encode()).hexdigest()[:16]
 
 
-@dataclass
-class OrgFinancialSnapshot:
-    """Financial snapshot for an organization at a point in time."""
-    org_name: str
-    org_id: str
-    as_of_date: str
-    period_type: str
-    fiscal_year: str
-    
-    # Cash and Investments
-    cash_and_equivalents: Optional[float] = None
-    board_designated_investments: Optional[float] = None
-    restricted_investments: Optional[float] = None
-    total_cash_investments: Optional[float] = None
-    
-    # Investment Policy
-    fixed_income_only: Optional[bool] = None
-    equity_excluded: Optional[bool] = None
-    short_term_duration_days: Optional[int] = None
-    short_term_amount: Optional[float] = None
-    long_term_duration_years: Optional[float] = None
-    long_term_amount: Optional[float] = None
-    min_rating_requirement: Optional[str] = None
-    
-    # Investment Mix
-    us_govt_securities: Optional[float] = None
-    us_agency_securities: Optional[float] = None
-    corporate_bonds: Optional[float] = None
-    municipal_securities: Optional[float] = None
-    other_investments: Optional[float] = None
-    
-    # Financial Metrics
-    total_revenue: Optional[float] = None
-    operating_revenue: Optional[float] = None
-    days_cash_on_hand: Optional[int] = None
-    total_debt: Optional[float] = None
-    current_debt: Optional[float] = None
-    long_term_debt: Optional[float] = None
-    
-    # Credit Ratings
-    moodys_rating: Optional[str] = None
-    fitch_rating: Optional[str] = None
-    sp_rating: Optional[str] = None
-    
-    # Self-Insurance
-    is_self_insured: bool = False
-    has_sovereign_immunity: bool = False
-    sovereign_immunity_cap_per_claim: Optional[float] = None
-    sovereign_immunity_cap_per_occurrence: Optional[float] = None
-    professional_liability_reserve: Optional[float] = None
-    workers_comp_reserve: Optional[float] = None
-    health_plan_self_funded: bool = False
-    malpractice_sir: Optional[float] = None
-    malpractice_limit_per_occurrence: Optional[float] = None
-    malpractice_limit_aggregate: Optional[float] = None
-    
-    # Captive/Trust
-    has_captive: bool = False
-    captive_name: Optional[str] = None
-    trust_fund_balance: Optional[float] = None
-    
-    # Source tracking
-    source_urls: List[str] = field(default_factory=list)
-    figures: List[FinancialFigure] = field(default_factory=list)
+# Default extraction patterns for healthcare financials
+DEFAULT_PATTERNS = [
+    ExtractionPattern(
+        metric_name="Cash and Cash Equivalents",
+        category="cash_and_investments",
+        patterns=[
+            r"Cash and cash equivalents[^\d]*\$?\s*([\d,]+(?:\.\d{2})?)",
+            r"Cash and equivalents[^\d]*\$?\s*([\d,]+(?:\.\d{2})?)",
+        ],
+        value_type="currency",
+        page_hints=["Balance Sheet", "Assets"]
+    ),
+    ExtractionPattern(
+        metric_name="Board Designated Investments",
+        category="cash_and_investments",
+        patterns=[
+            r"Board designated investments[^\d]*\$?\s*([\d,]+(?:\.\d{2})?)",
+            r"Board-designated investments[^\d]*\$?\s*([\d,]+(?:\.\d{2})?)",
+        ],
+        value_type="currency",
+        page_hints=["Balance Sheet", "Noncurrent assets"]
+    ),
+    ExtractionPattern(
+        metric_name="Restricted Investments",
+        category="cash_and_investments",
+        patterns=[
+            r"Restricted investments[^\d]*\$?\s*([\d,]+(?:\.\d{2})?)",
+        ],
+        value_type="currency",
+        page_hints=["Balance Sheet", "Noncurrent assets"]
+    ),
+    ExtractionPattern(
+        metric_name="Total Operating Revenue",
+        category="revenue",
+        patterns=[
+            r"Total operating revenues?[^\d]*\$?\s*([\d,]+(?:\.\d{2})?)",
+        ],
+        value_type="currency",
+        page_hints=["Statement of Revenues", "Operating revenues"]
+    ),
+    ExtractionPattern(
+        metric_name="Days Cash on Hand",
+        category="cash_and_investments",
+        patterns=[
+            r"Days cash on hand[^\d]*([\d]+(?:\.\d)?)",
+        ],
+        value_type="number",
+        page_hints=["Ratios", "Liquidity"]
+    ),
+    ExtractionPattern(
+        metric_name="Total Long-Term Debt",
+        category="debt",
+        patterns=[
+            r"Long.term debt.*?([\d,]+(?:\.\d{2})?)",
+            r"Total.*debt.*?([\d,]+(?:\.\d{2})?)",
+        ],
+        value_type="currency",
+        page_hints=["Balance Sheet", "Liabilities", "Long-term debt"]
+    ),
+    ExtractionPattern(
+        metric_name="Professional Liability Reserve",
+        category="self_insurance",
+        patterns=[
+            r"Professional liabilit(?:y|ies)[^\d]*([\d,]+(?:\.\d{2})?)",
+            r"malpractice.*accrued[^\d]*\$?\s*([\d,]+(?:\.\d{2})?)",
+        ],
+        value_type="currency",
+        page_hints=["Malpractice", "Self-insur", "Professional liability"]
+    ),
+    ExtractionPattern(
+        metric_name="Fitch Rating",
+        category="ratings",
+        patterns=[
+            r"Fitch.*(?:rating|affirmed)[^\w]*(AA[+-]?|A[+-]?|BBB[+-]?)",
+            r"Fitch[:\s]*(AA[+-]?|A[+-]?|BBB[+-]?)",
+        ],
+        value_type="text",
+        page_hints=["Rating", "Credit"]
+    ),
+    ExtractionPattern(
+        metric_name="Moody's Rating",
+        category="ratings",
+        patterns=[
+            r"Moody(?:'s)?.*(?:rating|affirmed|upgraded)[^\w]*(Aa[123]|A[123]|Baa[123])",
+            r"Moody(?:'s)?[:\s]*(Aa[123]|A[123]|Baa[123])",
+        ],
+        value_type="text",
+        page_hints=["Rating", "Credit", "Moody"]
+    ),
+]
 
 
 def parse_currency(text: str) -> Optional[float]:
     """Parse currency string to float."""
     if not text:
         return None
-    # Remove currency symbols, commas, parentheses (for negatives)
-    cleaned = re.sub(r'[,$\s]', '', text)
-    # Handle parentheses as negative
+    cleaned = re.sub(r'[,$\s]', '', str(text))
     if cleaned.startswith('(') and cleaned.endswith(')'):
         cleaned = '-' + cleaned[1:-1]
-    # Handle B/M/K suffixes
     multiplier = 1
     if cleaned.upper().endswith('B'):
         multiplier = 1_000_000_000
@@ -166,17 +221,15 @@ def extract_text_from_pdf(pdf_path: str) -> str:
 
 def render_pdf_page(pdf_path: str, page_num: int, output_path: str, dpi: int = 110) -> bool:
     """Render a specific PDF page to PNG."""
-    # pdftoppm uses 0-based page indexing with -f and -l
     result = subprocess.run(
-        ['pdftoppm', '-png', '-r', str(dpi), '-f', str(page_num), '-l', str(page_num), pdf_path, output_path.replace('.png', '')],
+        ['pdftoppm', '-png', '-r', str(dpi), '-f', str(page_num), '-l', str(page_num), 
+         pdf_path, output_path.replace('.png', '')],
         capture_output=True
     )
-    # pdftoppm adds page number suffix
     expected_file = f"{output_path.replace('.png', '')}-{page_num}.png"
     if os.path.exists(expected_file):
         os.rename(expected_file, output_path)
         return True
-    # Try without suffix for single page
     single_page_file = f"{output_path.replace('.png', '')}.png"
     if os.path.exists(single_page_file):
         os.rename(single_page_file, output_path)
@@ -186,491 +239,126 @@ def render_pdf_page(pdf_path: str, page_num: int, output_path: str, dpi: int = 1
 
 def find_page_for_content(pdf_text: str, search_terms: List[str]) -> Optional[int]:
     """Find the page number containing specific content."""
-    pages = pdf_text.split('\f')  # Form feed separates pages
+    pages = pdf_text.split('\f')
     for i, page in enumerate(pages, 1):
         if all(term.lower() in page.lower() for term in search_terms):
             return i
-    # Try partial match
     for i, page in enumerate(pages, 1):
         if any(term.lower() in page.lower() for term in search_terms):
             return i
     return None
 
 
-class FrappeClient:
-    """Simple Frappe REST API client."""
-    
-    def __init__(self, base_url: str, api_key: str = None, api_secret: str = None, token: str = None):
-        self.base_url = base_url.rstrip('/')
-        self.session = requests.Session()
-        if token:
-            self.session.headers['Authorization'] = f'token {token}'
-        elif api_key and api_secret:
-            self.session.headers['Authorization'] = f'token {api_key}:{api_secret}'
-    
-    def get(self, endpoint: str, params: dict = None) -> dict:
-        resp = self.session.get(f"{self.base_url}{endpoint}", params=params)
+def download_pdf(url: str, output_dir: Path) -> Optional[str]:
+    """Download PDF from URL."""
+    if not HAS_REQUESTS:
+        print("Warning: requests library not available, skipping download")
+        return None
+    try:
+        filename = url.split('/')[-1].split('?')[0]
+        if not filename.endswith('.pdf'):
+            filename = hashlib.md5(url.encode()).hexdigest()[:8] + '.pdf'
+        output_path = output_dir / filename
+        resp = requests.get(url, timeout=30)
         resp.raise_for_status()
-        return resp.json()
-    
-    def post(self, endpoint: str, data: dict = None, files: dict = None) -> dict:
-        resp = self.session.post(f"{self.base_url}{endpoint}", json=data, files=files)
-        resp.raise_for_status()
-        return resp.json()
-    
-    def get_logged_user(self) -> str:
-        return self.get('/api/method/frappe.auth.get_logged_user')['message']
-    
-    def list_documents(self, doctype: str, filters: dict = None, fields: list = None, limit: int = 20) -> list:
-        params = {'limit_page_length': limit}
-        if filters:
-            params['filters'] = json.dumps(filters)
-        if fields:
-            params['fields'] = json.dumps(fields)
-        return self.get(f'/api/resource/{doctype}', params)['data']
-    
-    def get_document(self, doctype: str, name: str) -> dict:
-        return self.get(f'/api/resource/{doctype}/{name}')['data']
-    
-    def create_document(self, doctype: str, data: dict) -> dict:
-        return self.post(f'/api/resource/{doctype}', data)['data']
-    
-    def check_exists(self, doctype: str, filters: dict) -> Optional[str]:
-        """Check if document exists, return name if found."""
-        results = self.list_documents(doctype, filters, ['name'], 1)
-        return results[0]['name'] if results else None
-    
-    def upload_file(self, file_path: str, doctype: str = None, docname: str = None, is_private: bool = True) -> dict:
-        """Upload file to Frappe."""
-        with open(file_path, 'rb') as f:
-            files = {'file': (os.path.basename(file_path), f)}
-            data = {'is_private': '1' if is_private else '0'}
-            if doctype:
-                data['doctype'] = doctype
-            if docname:
-                data['docname'] = docname
-            resp = self.session.post(f"{self.base_url}/api/method/upload_file", data=data, files=files)
-            resp.raise_for_status()
-            return resp.json()['message']
+        with open(output_path, 'wb') as f:
+            f.write(resp.content)
+        return str(output_path)
+    except Exception as e:
+        print(f"Error downloading {url}: {e}")
+        return None
 
 
-def extract_sarasota_figures(fy_audit_text: str, interim_text: str, 
-                             fy_audit_url: str, interim_url: str) -> List[FinancialFigure]:
-    """Extract specific figures for Sarasota Memorial Health Care System."""
+def extract_with_pattern(pdf_text: str, pattern: ExtractionPattern) -> List[Tuple[str, int, str]]:
+    """Extract values matching a pattern, return list of (value, page_num, quote)."""
+    results = []
+    pages = pdf_text.split('\f')
+    
+    for page_num, page_text in enumerate(pages, 1):
+        # Check if page might be relevant
+        is_relevant = not pattern.page_hints or any(
+            hint.lower() in page_text.lower() for hint in pattern.page_hints
+        )
+        if not is_relevant:
+            continue
+            
+        for regex in pattern.patterns:
+            matches = re.finditer(regex, page_text, re.IGNORECASE | re.MULTILINE)
+            for match in matches:
+                value = match.group(1) if match.groups() else match.group(0)
+                # Get surrounding context for quote
+                start = max(0, match.start() - 50)
+                end = min(len(page_text), match.end() + 50)
+                quote = page_text[start:end].replace('\n', ' ').strip()
+                results.append((value, page_num, quote))
+    
+    return results
+
+
+def extract_figures_generic(
+    pdf_text: str,
+    pdf_url: str,
+    fiscal_year: str,
+    period_type: str,
+    as_of_date: str,
+    patterns: List[ExtractionPattern],
+    expected_values: Dict[str, str] = None
+) -> List[FinancialFigure]:
+    """Extract figures using pattern matching."""
     figures = []
+    expected_values = expected_values or {}
+    domain = urlparse(pdf_url).netloc
     
-    # Expected figures from task description for verification
-    expected = {
-        'board_designated_investments_q3fy26': ('$1.62B', 1_620_000_000),
-        'cash_q3fy26': ('$108M', 108_000_000),
-        'investments_fy25': ('$1.426B', 1_426_000_000),
-        'cash_fy25': ('$131M', 131_000_000),
-        'revenue_fy25': ('$2.126B', 2_126_000_000),
-        'days_cash_fy25': ('305', 305),
-        'days_cash_q3fy26': ('320', 320),
-        'total_debt': ('$953M', 953_000_000),
-        'moodys_rating': ('Aa3', None),
-        'fitch_rating': ('AA-', None),
-        'short_duration_days': ('157', 157),
-        'short_duration_amount': ('$570.8M', 570_800_000),
-        'long_duration_years': ('3.63', 3.63),
-        'long_duration_amount': ('$1.046B', 1_046_000_000),
-    }
-    
-    # Q3 FY2026 figures (from interim report dated 6/30/26)
-    figures.append(FinancialFigure(
-        metric_name='Board Designated Investments',
-        value_text='$1,617,651,681',
-        value_numeric=1617651681,
-        as_of_date='2026-06-30',
-        fiscal_year='FY2026',
-        period_type='interim',
-        source_url=interim_url,
-        source_domain='smh.com',
-        pdf_page=5,
-        source_quote='Board designated investments 1,617,651,681',
-        category='cash_and_investments',
-        expected_value='$1.62B',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Cash and Cash Equivalents',
-        value_text='$107,689,768',
-        value_numeric=107689768,
-        as_of_date='2026-06-30',
-        fiscal_year='FY2026',
-        period_type='interim',
-        source_url=interim_url,
-        source_domain='smh.com',
-        pdf_page=5,
-        source_quote='Cash and cash equivalents $ 107,689,768',
-        category='cash_and_investments',
-        expected_value='$108M',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Days Cash on Hand',
-        value_text='320',
-        value_numeric=320,
-        as_of_date='2026-06-30',
-        fiscal_year='FY2026',
-        period_type='interim',
-        source_url=interim_url,
-        source_domain='smh.com',
-        pdf_page=9,
-        source_quote='Days cash on hand 320',
-        category='cash_and_investments',
-        expected_value='320',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Short-Term Investment Duration (days)',
-        value_text='157 days on $570.8M',
-        value_numeric=157,
-        as_of_date='2026-06-30',
-        fiscal_year='FY2026',
-        period_type='interim',
-        source_url=interim_url,
-        source_domain='smh.com',
-        pdf_page=3,
-        source_quote='$570.8 million of the $1.617 billion of fixed income securities that have an average maturity of 162 days and a duration of 157 days',
-        category='portfolio_policy',
-        expected_value='157 days',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Long-Term Investment Duration (years)',
-        value_text='3.63 years on $1.046B',
-        value_numeric=3.63,
-        as_of_date='2026-06-30',
-        fiscal_year='FY2026',
-        period_type='interim',
-        source_url=interim_url,
-        source_domain='smh.com',
-        pdf_page=3,
-        source_quote='remaining $1.046 billion have an average maturity of 4.29 years and a duration of 3.63 years',
-        category='portfolio_policy',
-        expected_value='3.63 years',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Investment Policy - Fixed Income Only',
-        value_text='Yes - excludes equity investments',
-        value_numeric=None,
-        as_of_date='2026-06-30',
-        fiscal_year='FY2026',
-        period_type='interim',
-        source_url=interim_url,
-        source_domain='smh.com',
-        pdf_page=3,
-        source_quote='excludes equity investments from the portfolio',
-        category='portfolio_policy',
-        expected_value='fixed income only, policy excludes equities',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Total Long-Term Debt (including current)',
-        value_text='$953,347,849',
-        value_numeric=953347849,
-        as_of_date='2026-06-30',
-        fiscal_year='FY2026',
-        period_type='interim',
-        source_url=interim_url,
-        source_domain='smh.com',
-        pdf_page=5,
-        source_quote='Current portion of long-term debt 14,470,000; Long-term debt, less current portion 938,877,849',
-        category='debt',
-        expected_value='$953M',
-        match_status='match',
-        verified=True
-    ))
-    
-    # FY2025 figures (from audited statements dated 9/30/25)
-    figures.append(FinancialFigure(
-        metric_name='Board Designated Investments',
-        value_text='$1,425,871,874',
-        value_numeric=1425871874,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=22,
-        source_quote='Board designated investments 1,425,871,874',
-        category='cash_and_investments',
-        expected_value='$1.426B',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Cash and Cash Equivalents',
-        value_text='$130,926,635',
-        value_numeric=130926635,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=22,
-        source_quote='Cash and cash equivalents $ 130,926,635',
-        category='cash_and_investments',
-        expected_value='$131M',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Total Operating Revenue',
-        value_text='$2,125,882,000',
-        value_numeric=2125882000,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=14,
-        source_quote='Total operating revenues 2,125,882',
-        category='revenue',
-        expected_value='$2.126B',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Days Cash on Hand',
-        value_text='305',
-        value_numeric=305,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=18,
-        source_quote='Days cash on hand 305',
-        category='cash_and_investments',
-        expected_value='305',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Total Long-Term Debt (including current)',
-        value_text='$703,424,358',
-        value_numeric=703424358,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=22,
-        source_quote='Current portion of long-term debt 14,995,000; Long-term debt, less current portion 688,429,358',
-        category='debt',
-        expected_value='$703M (FY25)',
-        match_status='match',
-        verified=True
-    ))
-    
-    # Credit Ratings
-    figures.append(FinancialFigure(
-        metric_name='Fitch Rating',
-        value_text='AA-',
-        value_numeric=None,
-        as_of_date='2025-06-01',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=18,
-        source_quote='In June 2025, Fitch Ratings affirmed the District\'s unenhanced long term rating of AA- on its outstanding bonds and stable outlook',
-        category='ratings',
-        expected_value='AA-',
-        match_status='match',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Moody\'s Rating',
-        value_text='A1 (affirmed August 2025)',
-        value_numeric=None,
-        as_of_date='2025-08-01',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=18,
-        source_quote='In August 2025, Moody\'s Investors Services affirmed the District\'s unenhanced long-term rating',
-        category='ratings',
-        expected_value='Aa3',
-        match_status='mismatch',  # Expected Aa3 but document says A1
-        verified=True
-    ))
-    
-    # Self-Insurance
-    figures.append(FinancialFigure(
-        metric_name='Professional Liability Reserve (Total)',
-        value_text='$26,701,000',
-        value_numeric=26701000,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=75,
-        source_quote='Professional liabilities $ 25,097,000 2,442,309 (838,309) 26,701,000',
-        category='self_insurance',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Malpractice Insurance - Self-Insured Retention',
-        value_text='$10,000,000',
-        value_numeric=10000000,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=75,
-        source_quote='subject to a $10.0 million self-insured retention',
-        category='self_insurance',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Malpractice Insurance Limit (per occurrence)',
-        value_text='$15,000,000',
-        value_numeric=15000000,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=75,
-        source_quote='purchased malpractice insurance with a limit of $15.0 million per occurrence, $15.0 million in the aggregate',
-        category='self_insurance',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Sovereign Immunity Cap (per individual)',
-        value_text='$200,000',
-        value_numeric=200000,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=75,
-        source_quote='sovereign immunity limits increased to $200,000 per individual and $300,000 per occurrence',
-        category='self_insurance',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Sovereign Immunity Cap (per occurrence)',
-        value_text='$300,000',
-        value_numeric=300000,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=75,
-        source_quote='sovereign immunity limits increased to $200,000 per individual and $300,000 per occurrence',
-        category='self_insurance',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Self-Funded Employee Health Plan',
-        value_text='Yes',
-        value_numeric=None,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=67,
-        source_quote='Premiums paid by retirees are based on the projected average plan cost of the District\'s self-insured health benefit program',
-        category='self_insurance',
-        verified=True
-    ))
-    
-    # Investment Mix (FY25)
-    figures.append(FinancialFigure(
-        metric_name='U.S. Government Securities',
-        value_text='$371,918,079',
-        value_numeric=371918079,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=39,
-        source_quote='U.S. government securities $ 371,918,079',
-        category='cash_and_investments',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='U.S. Government Agency Securities',
-        value_text='$55,208,878',
-        value_numeric=55208878,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=39,
-        source_quote='U.S. government agency securities — 55,208,878',
-        category='cash_and_investments',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Corporate Bonds',
-        value_text='$679,576,024',
-        value_numeric=679576024,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=39,
-        source_quote='Corporate bonds — 679,576,024',
-        category='cash_and_investments',
-        verified=True
-    ))
-    
-    figures.append(FinancialFigure(
-        metric_name='Municipal Securities',
-        value_text='$298,710,369',
-        value_numeric=298710369,
-        as_of_date='2025-09-30',
-        fiscal_year='FY2025',
-        period_type='annual',
-        source_url=fy_audit_url,
-        source_domain='smh.com',
-        pdf_page=39,
-        source_quote='Municipal securities — 298,710,369',
-        category='cash_and_investments',
-        verified=True
-    ))
+    for pattern in patterns:
+        matches = extract_with_pattern(pdf_text, pattern)
+        if matches:
+            # Take the first match (could be enhanced to pick best)
+            value, page_num, quote = matches[0]
+            
+            if pattern.value_type == 'currency':
+                numeric = parse_currency(value)
+                value_text = f"${value}" if not value.startswith('$') else value
+            elif pattern.value_type == 'number':
+                numeric = float(re.sub(r'[^\d.]', '', value)) if value else None
+                value_text = value
+            else:
+                numeric = None
+                value_text = value
+            
+            expected = expected_values.get(pattern.metric_name)
+            match_status = 'not_checked'
+            if expected:
+                # Simple match check
+                if expected.lower() in value_text.lower() or value_text.lower() in expected.lower():
+                    match_status = 'match'
+                else:
+                    match_status = 'mismatch'
+            
+            figures.append(FinancialFigure(
+                metric_name=pattern.metric_name,
+                value_text=value_text,
+                value_numeric=numeric,
+                as_of_date=as_of_date,
+                fiscal_year=fiscal_year,
+                period_type=period_type,
+                source_url=pdf_url,
+                source_domain=domain,
+                pdf_page=page_num,
+                source_quote=quote[:200],
+                category=pattern.category,
+                verified=True,
+                expected_value=expected,
+                match_status=match_status
+            ))
     
     return figures
+
+
+def load_org_config(config_path: str) -> OrgConfig:
+    """Load organization configuration from JSON file."""
+    with open(config_path) as f:
+        data = json.load(f)
+    return OrgConfig(**data)
 
 
 def write_figures_csv(figures: List[FinancialFigure], output_path: str):
@@ -705,11 +393,11 @@ def write_figures_csv(figures: List[FinancialFigure], output_path: str):
             writer.writerow(row)
 
 
-def generate_match_report(figures: List[FinancialFigure]) -> str:
-    """Generate verification report comparing extracted vs expected figures."""
+def generate_match_report(figures: List[FinancialFigure], org_name: str) -> str:
+    """Generate verification report."""
     report_lines = [
         "=" * 80,
-        "FINANCIAL FIGURE VERIFICATION REPORT",
+        f"FINANCIAL FIGURE VERIFICATION REPORT: {org_name}",
         "=" * 80,
         "",
         f"Generated: {datetime.now().isoformat()}",
@@ -737,10 +425,9 @@ def generate_match_report(figures: List[FinancialFigure]) -> str:
             report_lines.append(f"\n{fig.metric_name}:")
             report_lines.append(f"  Extracted: {fig.value_text}")
             report_lines.append(f"  Expected:  {fig.expected_value}")
-            report_lines.append(f"  Source:    Page {fig.pdf_page} of {fig.source_url}")
-        report_lines.append("")
+            report_lines.append(f"  Source:    Page {fig.pdf_page}")
     
-    report_lines.append("-" * 80)
+    report_lines.append("\n" + "-" * 80)
     report_lines.append("ALL FIGURES BY CATEGORY")
     report_lines.append("-" * 80)
     
@@ -761,57 +448,111 @@ def generate_match_report(figures: List[FinancialFigure]) -> str:
 
 def main():
     parser = argparse.ArgumentParser(description='Extract healthcare system financial data')
-    parser.add_argument('--org-name', required=True, help='Organization name')
-    parser.add_argument('--org-id', required=True, help='Organization identifier')
-    parser.add_argument('--pdfs', required=True, help='Comma-separated PDF paths or URLs')
+    parser.add_argument('--config', help='Path to organization config JSON file')
+    parser.add_argument('--org-name', help='Organization name (if no config)')
+    parser.add_argument('--org-id', help='Organization identifier (if no config)')
+    parser.add_argument('--pdfs', help='Comma-separated PDF paths or URLs (if no config)')
     parser.add_argument('--output-dir', default='./output', help='Output directory')
     parser.add_argument('--frappe-url', help='Frappe base URL')
-    parser.add_argument('--frappe-token', help='Frappe API token (key:secret)')
-    parser.add_argument('--skip-frappe', action='store_true', help='Skip Frappe upload')
-    parser.add_argument('--skip-screenshots', action='store_true', help='Skip screenshot generation')
+    parser.add_argument('--frappe-token', help='Frappe API token')
+    parser.add_argument('--skip-screenshots', action='store_true')
     
     args = parser.parse_args()
     
-    # Create output directory
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     screenshots_dir = output_dir / 'screenshots'
     screenshots_dir.mkdir(exist_ok=True)
     
-    print(f"Processing: {args.org_name}")
+    # Load configuration
+    if args.config:
+        config = load_org_config(args.config)
+        org_name = config.org_name
+        org_id = config.org_id
+        pdf_sources = config.pdf_sources
+    elif args.org_name and args.pdfs:
+        org_name = args.org_name
+        org_id = args.org_id or org_name.replace(' ', '-')[:20]
+        pdf_sources = [{'url': p.strip(), 'type': 'audit', 'fiscal_year': 'FY2025'} 
+                       for p in args.pdfs.split(',')]
+    else:
+        parser.error("Either --config or --org-name and --pdfs are required")
+    
+    print(f"Processing: {org_name}")
     print(f"Output directory: {output_dir}")
     
-    # Parse PDF paths
-    pdf_paths = [p.strip() for p in args.pdfs.split(',')]
+    all_figures = []
     
-    # For Sarasota, we have specific extraction logic
-    # In production, this would be more dynamic
-    if 'sarasota' in args.org_name.lower() or args.org_id.upper() == 'SMH':
-        # Use hardcoded URLs for Sarasota
-        fy_audit_url = 'https://www.smh.com/Portals/0/Documents/Financial/AFS_FY25.pdf'
-        interim_url = 'https://www.smh.com/Portals/0/Documents/Financial/DAC_Report_Q3_2026.pdf'
+    # Process each PDF source
+    for source in pdf_sources:
+        url = source['url']
+        pdf_type = source.get('type', 'audit')
+        fiscal_year = source.get('fiscal_year', 'FY2025')
+        as_of_date = source.get('as_of_date', '2025-09-30')
+        period_type = 'annual' if pdf_type == 'audit' else 'interim'
         
-        # Extract figures
-        figures = extract_sarasota_figures('', '', fy_audit_url, interim_url)
+        print(f"\nProcessing: {url}")
         
-        print(f"Extracted {len(figures)} financial figures")
+        # Download or use local file
+        if url.startswith('http'):
+            pdf_path = download_pdf(url, output_dir)
+            if not pdf_path:
+                continue
+        else:
+            pdf_path = url
         
-        # Write CSV
-        csv_path = output_dir / 'financial_figures.csv'
-        write_figures_csv(figures, str(csv_path))
-        print(f"Wrote CSV to: {csv_path}")
+        # Extract text
+        pdf_text = extract_text_from_pdf(pdf_path)
+        if not pdf_text:
+            print(f"  Warning: Could not extract text from {pdf_path}")
+            continue
         
-        # Generate match report
-        report = generate_match_report(figures)
-        report_path = output_dir / 'verification_report.txt'
-        with open(report_path, 'w') as f:
-            f.write(report)
-        print(f"Wrote verification report to: {report_path}")
-        print("\n" + report)
-    else:
-        print(f"No specific extraction logic for {args.org_name}")
-        print("Generic extraction not yet implemented")
+        print(f"  Extracted {len(pdf_text)} characters")
+        
+        # Extract figures using default patterns
+        figures = extract_figures_generic(
+            pdf_text=pdf_text,
+            pdf_url=url,
+            fiscal_year=fiscal_year,
+            period_type=period_type,
+            as_of_date=as_of_date,
+            patterns=DEFAULT_PATTERNS
+        )
+        
+        print(f"  Found {len(figures)} figures")
+        all_figures.extend(figures)
+        
+        # Generate screenshots for key pages
+        if not args.skip_screenshots:
+            pages_to_capture = set()
+            for fig in figures:
+                pages_to_capture.add(fig.pdf_page)
+            
+            for page_num in sorted(pages_to_capture)[:5]:  # Limit to 5 pages
+                screenshot_name = f"{Path(pdf_path).stem}_page{page_num}.png"
+                screenshot_path = screenshots_dir / screenshot_name
+                if render_pdf_page(pdf_path, page_num, str(screenshot_path)):
+                    print(f"  Screenshot: {screenshot_name}")
+                    for fig in figures:
+                        if fig.pdf_page == page_num:
+                            fig.screenshot_path = str(screenshot_path)
+    
+    if not all_figures:
+        print("No figures extracted")
         return 1
+    
+    # Write outputs
+    csv_path = output_dir / 'financial_figures.csv'
+    write_figures_csv(all_figures, str(csv_path))
+    print(f"\nWrote CSV: {csv_path}")
+    
+    report = generate_match_report(all_figures, org_name)
+    report_path = output_dir / 'verification_report.txt'
+    with open(report_path, 'w') as f:
+        f.write(report)
+    print(f"Wrote report: {report_path}")
+    
+    print("\n" + report)
     
     return 0
 

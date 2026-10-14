@@ -68,8 +68,10 @@ This pipeline is designed to:
 ```
 sarasota/
 ├── README.md                          # This file
-├── extract_healthcare_financials.py   # Main extraction script
+├── extract_healthcare_financials.py   # Main extraction script (generalized)
+├── screen_nonprofit_healthcare.py     # ProPublica screening for candidates
 ├── financial_figures.csv              # Extracted figures with verification
+├── candidates_test.csv                # Sample screening output
 └── screenshots/                       # PDF page screenshots for evidence
     ├── fy25_balance_sheet.png
     ├── fy25_investments_fair_value.png
@@ -141,15 +143,36 @@ Self-insurance program details with coverage lines.
 
 ## Candidate Identification Approach
 
-### For Nonprofit Health Systems
-1. Query ProPublica Nonprofit Explorer API for healthcare organizations
-2. Filter by total assets or revenue > threshold
-3. Check Form 990 Schedule D for investments breakdown
+### Nonprofit Health Systems Screening
+
+Use the `screen_nonprofit_healthcare.py` script to find candidates via the ProPublica Nonprofit Explorer API.
 
 ```bash
-# Example ProPublica API query
-curl "https://projects.propublica.org/nonprofits/api/v2/search.json?q=hospital&state[id]=FL"
+# Full scan - all US states (takes several minutes)
+python screen_nonprofit_healthcare.py --output candidates.csv --min-cash 25000000
+
+# Quick test - limited results
+python screen_nonprofit_healthcare.py --test --output candidates_test.csv
+
+# Filter specific states
+python screen_nonprofit_healthcare.py --states FL CA TX NY --output sunbelt_candidates.csv
 ```
+
+**Options:**
+- `--output`: CSV output file path
+- `--min-cash`: Minimum cash+investments threshold (default: $25M)
+- `--states`: Space-separated list of state codes
+- `--max-results`: Maximum candidates to return
+- `--test`: Test mode (FL, CA, TX, NY only; max 20 results)
+
+**NTEE Codes Searched:**
+- E20: Hospitals, General
+- E21: Hospitals, Specialty
+- E22: General Rehabilitation
+- E24: Hospital, Specialty (Pediatric)
+- E30-E32: Ambulatory/Community/Rural Health
+
+**Note:** ProPublica's API doesn't always include detailed cash/investments data. The script estimates cash+investments as 30% of total assets when the detail isn't available. Verify actual figures from 990 filings or audit reports.
 
 ### For Government Hospitals
 1. Search EMMA/MSRB for municipal hospital bond issuers
@@ -201,16 +224,19 @@ First implementation target: **Sarasota County Public Hospital District (SMH)**
 
 ## Known Limitations
 
-1. **Moody's Rating Mismatch**: Task expected Aa3, but document shows A1 rating with reference to Moody's A1 median comparisons. The actual rating may need manual verification.
+1. **ProPublica Cash/Investments Data**: The ProPublica Nonprofit Explorer API often lacks detailed cash and investments breakdowns. The screening script estimates these as 30% of total assets when not available. Always verify from actual 990 filings or audit reports.
 
-2. **Generic Extraction**: Current implementation has Sarasota-specific extraction logic. Full generic extraction requires additional development.
+2. **Screenshot Cropping**: Screenshots are full pages, not cropped to specific figures.
 
-3. **Screenshot Cropping**: Screenshots are full pages, not cropped to specific figures.
+3. **Government Hospital Screening**: The screening script focuses on nonprofit organizations. Government hospitals require separate EMMA/MSRB searching.
+
+## Resolved Issues
+
+- **Moody's Rating for SMH**: Originally showed A1 from FY2025 audit. Moody's upgraded SMH to Aa3 on January 29, 2026. Frappe record updated with correct current rating.
 
 ## Next Steps
 
-1. Implement generic text extraction patterns
-2. Add support for more organization types
-3. Build candidate screening from ProPublica/EMMA
-4. Add automated figure verification
-5. Implement Frappe bulk upload
+1. Add support for more organization types (municipalities, health districts)
+2. Add EMMA/MSRB screening for government hospitals
+3. Add automated figure verification against expected values
+4. Implement batch Frappe upload for screening candidates
