@@ -1,0 +1,85 @@
+Starting script...
+=== Bulk Captive Opportunity Screen ===
+Started: 2026-10-14T20:29:48.544367
+
+Step 1: Loading company universe...
+  Loaded 10451 SEC-registered companies
+  Using 119 S&P 500 + 49 Nasdaq tickers
+  Matched 165 companies in SEC database
+  Processing: 150 companies
+
+Step 2: Getting EINs from SEC submissions...
+  Progress: 1/150
+  Progress: 20/150
+  Progress: 40/150
+  Progress: 60/150
+  Progress: 80/150
+  Progress: 100/150
+  Progress: 120/150
+  Progress: 140/150
+  Progress: 150/150
+  Found EINs for 149 companies
+
+Step 3: Matching to Form 5500 data...
+  Matched 108 companies to Form 5500 welfare plans
+
+Step 4: Getting SEC financials...
+  Progress: 1/150
+  Progress: 20/150
+  Progress: 40/150
+  Progress: 60/150
+  Progress: 80/150
+  Progress: 100/150
+  Progress: 120/150
+  Progress: 140/150
+  Progress: 150/150
+  Got financials for 147 companies
+
+Step 5: Calculating captive opportunity scores...
+
+Step 6: Saving results...
+  Saved full results: 150 companies to /workspace/captive_screen/output/full_screen_results.csv
+  Saved top 50 opportunities to /workspace/captive_screen/output/top_50_opportunities.csv
+
+==================================================
+SUMMARY
+==================================================
+Total companies processed: 150
+  S&P 500: 117
+  Nasdaq: 33
+Companies with EINs: 149
+Companies with welfare plans: 108
+Companies with premium data: 107
+Companies with SEC financials: 147
+
+==================================================
+TOP 25 CAPTIVE OPPORTUNITIES
+==================================================
+    ticker                          company_name  captive_score          cash  total_premium  employees
+69       T                             AT&T INC.            100  1.823400e+10    784494582.0   268000.0
+1     AAPL                            Apple Inc.             85  3.593400e+10    276824270.0        NaN
+11     WMT                          Walmart Inc.             85  1.072700e+10    940893598.0        NaN
+7     TSLA                           Tesla, Inc.             85  1.651300e+10    305099237.0        NaN
+23    COST            COSTCO WHOLESALE CORP /NEW             85  2.020700e+10    282002427.0        NaN
+3     MSFT                        MICROSOFT CORP             85  2.093500e+10    165661195.0        NaN
+125    FDX                            FEDEX CORP             85  1.331100e+10    207021171.0        NaN
+48     IBM  INTERNATIONAL BUSINESS MACHINES CORP             85  1.358700e+10    184510255.0        NaN
+72      BA                             BOEING CO             85  1.092100e+10    145310627.0        NaN
+55      VZ            VERIZON COMMUNICATIONS INC             85  1.904800e+10    387482761.0        NaN
+25     BAC             BANK OF AMERICA CORP /DE/             85  1.615600e+11    531239948.0        NaN
+31     UNH                UNITEDHEALTH GROUP INC             85  2.436500e+10    322261322.0        NaN
+22     CVX                          CHEVRON CORP             80  8.178000e+09    172380378.0        NaN
+59     PEP                           PEPSICO INC             80  9.159000e+09    172965971.0        NaN
+16     JNJ                     JOHNSON & JOHNSON             80  1.970900e+10     73489024.0        NaN
+17    INTC                            INTEL CORP             80  1.426500e+10     64914605.0        NaN
+120  CMCSA                          COMCAST CORP             80  9.481000e+09    214621741.0        NaN
+104     GD                 GENERAL DYNAMICS CORP             80  2.333000e+09    354190258.0        NaN
+83     LMT                  LOCKHEED MARTIN CORP             80  4.121000e+09    381658072.0        NaN
+41     RTX                              RTX Corp             80  7.435000e+09    209730455.0        NaN
+0     NVDA                           NVIDIA CORP             80  1.060500e+10     63921654.0        NaN
+5     META                  Meta Platforms, Inc.             80  3.587300e+10    172782084.0        NaN
+29     CAT                       CATERPILLAR INC             80  9.980000e+09    102033103.0        NaN
+63    SCHW                   SCHWAB CHARLES CORP             75  4.603000e+10     60485743.0        NaN
+58     BLK                       BlackRock, Inc.             75  1.146800e+10     30274291.0        NaN
+
+Completed: 2026-10-14T20:30:51.520386
