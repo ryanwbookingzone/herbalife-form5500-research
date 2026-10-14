@@ -9,9 +9,9 @@ Cedars-sinai Health System,CA,nonprofit,,1000826530.2,1000826530.2,2023,yes,,no,
 Cook Childrens Medical Center,TX,nonprofit,,572987855.6999999,572987855.6999999,2023,yes,,no,,,False,propublica_990,https://www.cookchildrens.org/about-us/financial-reports,,752051646.0,
 Cook Childrens Health Care System,TX,nonprofit,,412499749.8,412499749.8,2023,yes,,no,,,False,propublica_990,https://www.cookchildrens.org/about-us/financial-reports,,752705881.0,
 Community Memorial Health System,CA,nonprofit,,270516742.8,270516742.8,2023,yes,,no,,,False,990_verified,https://siviq.co/nonprofits/organizations/951683892,,951683892.0,
-KAWEAH DELTA HEALTH CARE DISTRICT,CA,hospital,33156949.0,236597449.0,269754398.0,06/30/2024,no,,no,,,True,ca_hcai,https://www.kaweahhealth.org/about-us/board-of-directors/audited-financials/,,,106540734.0
+KAWEAH DELTA HEALTH CARE DISTRICT,CA,hospital,33156949.0,236597449.0,269754398.0,06/30/2024,no,,no,,,True,audit_verified_high,https://www.kaweahhealth.org/about-us/board-of-directors/audited-financials/,,,106540734.0
 Covenant Medical Center,TX,nonprofit,,268376001.6,268376001.6,2023,yes,,yes,Providence Assurance Inc,,False,propublica_990,https://www.providence.org/about/financial-statements,,822913146.0,
-RIVERSIDE UNIVERSITY HEALTH SYSTEM,CA,hospital,248076856.0,17718431.0,265795287.0,06/30/2024,no,,no,,,True,ca_hcai,https://auditorcontroller.org/reports-and-publications,,,106334487.0
+RIVERSIDE UNIVERSITY HEALTH SYSTEM,CA,hospital,248076856.0,17718431.0,265795287.0,06/30/2024,no,,no,,,True,audit_verified_high,https://auditorcontroller.org/reports-and-publications,,,106334487.0
 UCI HEALTH - FOUNTAIN VALLEY,CA,hospital,262766893.0,0.0,262766893.0,03/31/2025,yes,,yes,,,False,ca_hcai,https://www.ucop.edu/uc-controller/financial-reports/,,,106301175.0
 ST. JOSEPH HOSPITAL,CA,hospital,163762487.0,93242490.0,257004977.0,06/30/2024,yes,,yes,Providence Assurance Inc,,False,ca_hcai,https://www.providence.org/about/financial-statements,,,106301340.0
 WASHINGTON TOWNSHIP HEALTHCARE DISTRICT,CA,hospital,72149530.0,180885260.0,253034790.0,06/30/2024,yes,,no,,,False,ca_hcai,https://www.washingtonhealth.com/about-us/board-of-directors/audited-financials/,,,106010987.0
@@ -29,7 +29,7 @@ St Mary Medical Center,CA,nonprofit,,185761641.0,185761641.0,2023,yes,,yes,Provi
 COMMUNITY MEMORIAL HOSPITAL OF SAN BUENAVENTURA,CA,hospital,59769298.0,125578745.0,185348043.0,12/31/2024,yes,,no,,,False,ca_hcai,https://www.cmhshealth.org/about/financials/,,,106560473.0
 LOS ANGELES COUNTY OLIVE VIEW-UCLA MEDICAL CENTER,CA,hospital,184833328.0,0.0,184833328.0,06/30/2024,yes,,no,,,False,ca_hcai,https://auditor.lacounty.gov/wp-content/uploads/2025/01/Annual-Comprehensive-Financial-Report-FY-2023-2024.pdf,,,106191231.0
 NORTHRIDGE HOSPITAL MEDICAL CENTER,CA,hospital,179706306.0,0.0,179706306.0,06/30/2024,yes,,yes,,,False,ca_hcai,https://www.commonspirit.org/investor-resources,,,106190568.0
-KERN COUNTY HOSPITAL AUTHORITY,CA,hospital,50302358.0,124532718.0,174835076.0,06/30/2024,no,,no,,,True,ca_hcai,https://www.kernmedical.com/documents/Kern-County-Hospital-Authority-FY-2024-Audited-FS-Final-12.23.24.pdf,,,106150736.0
+KERN COUNTY HOSPITAL AUTHORITY,CA,hospital,50302358.0,124532718.0,174835076.0,06/30/2024,no,,no,,,True,audit_verified_high,https://www.kernmedical.com/documents/Kern-County-Hospital-Authority-FY-2024-Audited-FS-Final-12.23.24.pdf,,,106150736.0
 TAHOE FOREST HOSPITAL DISTRICT,CA,hospital,174242477.0,0.0,174242477.0,06/30/2024,near_fixed_income,0.1,no,,,True,audit_verified_near,https://www.tfhd.com/wp-content/uploads/2025/09/0.-Tahoe-Forest-Hospital-District-6-30-24-FS-Issued-10-29-24.pdf,,,106291053.0
 QUEEN OF THE VALLEY MEDICAL CENTER,CA,hospital,106854607.0,65178711.0,172033318.0,06/30/2024,yes,,yes,Providence Assurance Inc,,False,ca_hcai,https://www.providence.org/about/financial-statements,,,106281047.0
 Shannon Medical Center,TX,nonprofit,,169821076.79999998,169821076.79999998,2023,yes,,no,,,False,propublica_990,https://shannonhealth.com/about-us/financials/,,752559845.0,
