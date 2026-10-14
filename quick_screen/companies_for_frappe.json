@@ -1,0 +1,380 @@
+[
+  {
+    "listing_id": "health-fl-sarasota-county-public-hospital-district",
+    "company_name": "Sarasota County Public Hospital District",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-memorial-healthcare-system",
+    "company_name": "Memorial Healthcare System",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-halifax-health",
+    "company_name": "Halifax Health",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-ny-nyc-health-hospitals",
+    "company_name": "NYC Health + Hospitals",
+    "segment": "Healthcare",
+    "state": "New York"
+  },
+  {
+    "listing_id": "health-al-huntsville-hospital-health-system",
+    "company_name": "Huntsville Hospital Health System",
+    "segment": "Healthcare",
+    "state": "Alabama"
+  },
+  {
+    "listing_id": "health-sc-spartanburg-regional-health-services-district",
+    "company_name": "Spartanburg Regional Health Services District",
+    "segment": "Healthcare",
+    "state": "South Carolina"
+  },
+  {
+    "listing_id": "health-fl-lee-health",
+    "company_name": "Lee Health",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-jackson-health-system",
+    "company_name": "Jackson Health System",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-north-broward-hospital-district",
+    "company_name": "North Broward Hospital District",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-ga-grady-health-system",
+    "company_name": "Grady Health System",
+    "segment": "Healthcare",
+    "state": "Georgia"
+  },
+  {
+    "listing_id": "health-ny-erie-county-medical-center-corporation",
+    "company_name": "Erie County Medical Center Corporation",
+    "segment": "Healthcare",
+    "state": "New York"
+  },
+  {
+    "listing_id": "health-tn-regional-one-health",
+    "company_name": "Regional One Health",
+    "segment": "Healthcare",
+    "state": "Tennessee"
+  },
+  {
+    "listing_id": "health-nc-charlotte-mecklenburg-hospital-authority",
+    "company_name": "Charlotte-Mecklenburg Hospital Authority",
+    "segment": "Healthcare",
+    "state": "North Carolina"
+  },
+  {
+    "listing_id": "health-nc-cumberland-county-hospital-system-cape-fear-valley",
+    "company_name": "Cumberland County Hospital System (Cape Fear Valley)",
+    "segment": "Healthcare",
+    "state": "North Carolina"
+  },
+  {
+    "listing_id": "health-fl-lakeland-regional-health",
+    "company_name": "Lakeland Regional Health",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-uf-health-shands-hospital",
+    "company_name": "UF Health Shands Hospital",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-health-first",
+    "company_name": "Health First",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-tampa-general-hospital",
+    "company_name": "Tampa General Hospital",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-desoto-county-hospital-district",
+    "company_name": "DeSoto County Hospital District",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-west-volusia-hospital-authority",
+    "company_name": "West Volusia Hospital Authority",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-indian-river-county-hospital-district",
+    "company_name": "Indian River County Hospital District",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-fl-bay-medical-center-bay-health-foundation",
+    "company_name": "Bay Medical Center (Bay Health Foundation)",
+    "segment": "Healthcare",
+    "state": "Florida"
+  },
+  {
+    "listing_id": "health-ga-phoebe-putney-health-system",
+    "company_name": "Phoebe Putney Health System",
+    "segment": "Healthcare",
+    "state": "Georgia"
+  },
+  {
+    "listing_id": "health-sc-musc-health",
+    "company_name": "MUSC Health",
+    "segment": "Healthcare",
+    "state": "South Carolina"
+  },
+  {
+    "listing_id": "health-sc-anmed-health",
+    "company_name": "AnMed Health",
+    "segment": "Healthcare",
+    "state": "South Carolina"
+  },
+  {
+    "listing_id": "health-tn-erlanger-health-system",
+    "company_name": "Erlanger Health System",
+    "segment": "Healthcare",
+    "state": "Tennessee"
+  },
+  {
+    "listing_id": "health-ny-westchester-medical-center",
+    "company_name": "Westchester Medical Center",
+    "segment": "Healthcare",
+    "state": "New York"
+  },
+  {
+    "listing_id": "health-ny-nassau-university-medical-center",
+    "company_name": "Nassau University Medical Center",
+    "segment": "Healthcare",
+    "state": "New York"
+  },
+  {
+    "listing_id": "health-md-johns-hopkins-health-system",
+    "company_name": "Johns Hopkins Health System",
+    "segment": "Healthcare",
+    "state": "Maryland"
+  },
+  {
+    "listing_id": "health-pa-upmc-health-system",
+    "company_name": "UPMC Health System",
+    "segment": "Healthcare",
+    "state": "Pennsylvania"
+  },
+  {
+    "listing_id": "health-ma-mass-general-brigham",
+    "company_name": "Mass General Brigham",
+    "segment": "Healthcare",
+    "state": "Massachusetts"
+  },
+  {
+    "listing_id": "health-ny-northwell-health",
+    "company_name": "Northwell Health",
+    "segment": "Healthcare",
+    "state": "New York"
+  },
+  {
+    "listing_id": "health-va-vcu-health-system",
+    "company_name": "VCU Health System",
+    "segment": "Healthcare",
+    "state": "Virginia"
+  },
+  {
+    "listing_id": "health-nc-unc-health",
+    "company_name": "UNC Health",
+    "segment": "Healthcare",
+    "state": "North Carolina"
+  },
+  {
+    "listing_id": "health-nc-wakemed-health",
+    "company_name": "WakeMed Health",
+    "segment": "Healthcare",
+    "state": "North Carolina"
+  },
+  {
+    "listing_id": "health-nc-vidant-health-ecu-health",
+    "company_name": "Vidant Health (ECU Health)",
+    "segment": "Healthcare",
+    "state": "North Carolina"
+  },
+  {
+    "listing_id": "health-tn-maury-regional-health",
+    "company_name": "Maury Regional Health",
+    "segment": "Healthcare",
+    "state": "Tennessee"
+  },
+  {
+    "listing_id": "health-tn-vanderbilt-university-medical-center",
+    "company_name": "Vanderbilt University Medical Center",
+    "segment": "Healthcare",
+    "state": "Tennessee"
+  },
+  {
+    "listing_id": "health-al-east-alabama-health",
+    "company_name": "East Alabama Health",
+    "segment": "Healthcare",
+    "state": "Alabama"
+  },
+  {
+    "listing_id": "health-al-uab-health-system",
+    "company_name": "UAB Health System",
+    "segment": "Healthcare",
+    "state": "Alabama"
+  },
+  {
+    "listing_id": "health-ms-forrest-general-hospital",
+    "company_name": "Forrest General Hospital",
+    "segment": "Healthcare",
+    "state": "Mississippi"
+  },
+  {
+    "listing_id": "health-ms-north-mississippi-medical-center",
+    "company_name": "North Mississippi Medical Center",
+    "segment": "Healthcare",
+    "state": "Mississippi"
+  },
+  {
+    "listing_id": "health-ms-singing-river-health-system",
+    "company_name": "Singing River Health System",
+    "segment": "Healthcare",
+    "state": "Mississippi"
+  },
+  {
+    "listing_id": "health-ms-university-of-mississippi-medical-center",
+    "company_name": "University of Mississippi Medical Center",
+    "segment": "Healthcare",
+    "state": "Mississippi"
+  },
+  {
+    "listing_id": "health-la-ochsner-health",
+    "company_name": "Ochsner Health",
+    "segment": "Healthcare",
+    "state": "Louisiana"
+  },
+  {
+    "listing_id": "health-la-louisiana-state-university-health",
+    "company_name": "Louisiana State University Health",
+    "segment": "Healthcare",
+    "state": "Louisiana"
+  },
+  {
+    "listing_id": "health-ky-uk-healthcare",
+    "company_name": "UK HealthCare",
+    "segment": "Healthcare",
+    "state": "Kentucky"
+  },
+  {
+    "listing_id": "health-ky-uofl-health",
+    "company_name": "UofL Health",
+    "segment": "Healthcare",
+    "state": "Kentucky"
+  },
+  {
+    "listing_id": "health-ar-uams-medical-center",
+    "company_name": "UAMS Medical Center",
+    "segment": "Healthcare",
+    "state": "Arkansas"
+  },
+  {
+    "listing_id": "health-va-sentara-healthcare",
+    "company_name": "Sentara Healthcare",
+    "segment": "Healthcare",
+    "state": "Virginia"
+  },
+  {
+    "listing_id": "health-va-inova-health-system",
+    "company_name": "Inova Health System",
+    "segment": "Healthcare",
+    "state": "Virginia"
+  },
+  {
+    "listing_id": "health-va-university-of-virginia-health-system",
+    "company_name": "University of Virginia Health System",
+    "segment": "Healthcare",
+    "state": "Virginia"
+  },
+  {
+    "listing_id": "health-ok-ou-health",
+    "company_name": "OU Health",
+    "segment": "Healthcare",
+    "state": "Oklahoma"
+  },
+  {
+    "listing_id": "health-wv-wvu-medicine",
+    "company_name": "WVU Medicine",
+    "segment": "Healthcare",
+    "state": "West Virginia"
+  },
+  {
+    "listing_id": "health-md-medstar-health",
+    "company_name": "MedStar Health",
+    "segment": "Healthcare",
+    "state": "Maryland"
+  },
+  {
+    "listing_id": "health-de-christianacare",
+    "company_name": "ChristianaCare",
+    "segment": "Healthcare",
+    "state": "Delaware"
+  },
+  {
+    "listing_id": "health-ny-mount-sinai-health-system",
+    "company_name": "Mount Sinai Health System",
+    "segment": "Healthcare",
+    "state": "New York"
+  },
+  {
+    "listing_id": "health-pa-penn-medicine",
+    "company_name": "Penn Medicine",
+    "segment": "Healthcare",
+    "state": "Pennsylvania"
+  },
+  {
+    "listing_id": "health-ct-yale-new-haven-health",
+    "company_name": "Yale New Haven Health",
+    "segment": "Healthcare",
+    "state": "Connecticut"
+  },
+  {
+    "listing_id": "health-ri-lifespan-health-system",
+    "company_name": "Lifespan Health System",
+    "segment": "Healthcare",
+    "state": "Rhode Island"
+  },
+  {
+    "listing_id": "health-vt-university-of-vermont-health-network",
+    "company_name": "University of Vermont Health Network",
+    "segment": "Healthcare",
+    "state": "Vermont"
+  },
+  {
+    "listing_id": "health-nh-dartmouth-hitchcock-health",
+    "company_name": "Dartmouth-Hitchcock Health",
+    "segment": "Healthcare",
+    "state": "New Hampshire"
+  },
+  {
+    "listing_id": "health-me-mainehealth",
+    "company_name": "MaineHealth",
+    "segment": "Healthcare",
+    "state": "Maine"
+  }
+]
