@@ -208,6 +208,54 @@ Results are stored in Frappe as:
 - **BZ Company Listing** - Entity record
 - **BZ Source Financial Fact** - Evidence records with source URL, page reference, and quote (including self_insurance category)
 
+## Texas Hospital Districts - Batch 1 Report (October 2026)
+
+All Texas hospital districts are subject to the **Texas Public Funds Investment Act (PFIA)** which restricts investments to:
+- Time deposits, commercial paper, money market funds
+- Investment pools (TexPool, TexSTAR, Texas CLASS)
+- Government securities (US Treasuries, federal agencies)
+
+### Texas Hospital District Targets
+
+| System | Cash+Investments | Equities | Captive | Target | Total SI | SI Trust | Confidence |
+|--------|------------------|----------|---------|--------|----------|----------|------------|
+| JPS Health Network | $2,169M | NO | NO | YES | $14.2M | $14.4M | audit_verified |
+| Parkland Health | ~$1,700M | NO | NO | YES | ~$50.0M | - | pfia_inferred |
+| Harris Health System | $1,462M | NO | NO | YES | $67.6M | - | audit_verified |
+| UMC Health System Lubbock | $412M | NO | NO | YES | $4.8M | $17.0M | audit_verified |
+| UMC El Paso | ~$350M | NO | NO | YES | - | - | pfia_inferred |
+| Midland Memorial Hospital | ~$250M | NO | NO | YES | - | - | pfia_inferred |
+| Ector County HD | ~$175M | NO | NO | YES | - | - | pfia_inferred |
+
+**Total TX Targets: 7 systems, ~$6.5B combined cash+investments, ~$136M+ self-insurance reserves**
+
+### Texas Non-Targets (Excluded)
+
+| System | Cash+Investments | Exclusion Reason |
+|--------|------------------|-----------------|
+| University Health San Antonio | $2,320M | Pension plan has equities (common stocks, equity mutual funds, alternatives) |
+| Nueces County Hospital District | $50M | Does not operate hospital (funds indigent care only) |
+
+### Texas Tort Claims Act
+
+TX public hospitals benefit from sovereign immunity limiting malpractice exposure:
+- **$100K** per individual
+- **$300K** per occurrence  
+- **$500K** property damage
+
+This significantly reduces professional liability self-insurance exposure. Main SI exposure is **employee health plans** and **workers compensation**.
+
+### Source URLs - Texas Hospital Districts
+
+| System | Financial Report | SI Data |
+|--------|-----------------|---------|
+| Harris Health | [FY24 Audit](https://www.harrishealth.org/SiteCollectionDocuments/financials/combined/harris-health-9-24-fs-revised-final.pdf) | Same |
+| JPS Health Network | [FY25 Audit](https://jpshealthnet.org/sites/default/files/2026-04/JPS-Health-Network-09-2025-FS.pdf) | Note 9 |
+| UMC Lubbock | [FY24 Audit](https://www.umchealthsystem.com/wp-content/uploads/2025/09/2024-Audited-Financial-Statements.pdf) | Note 15 |
+| UMC El Paso | [El Paso County ACFR](https://www.epcounty.com/DocumentCenter/View/4578/Annual-Comprehensive-Financial-Report-Fiscal-Year-2024-PDF) | - |
+| Parkland Health | [Financial Summary](https://www.parklandhealth.org/financial-summary) | [Reports](https://www.parklandhealth.org/reports-disclosures) |
+| Univ Health SA | [FY24 Audit](https://www.universityhealth.com/-/media/Files/About-Us/Public-Notices-Reports/Financial-Reports/Audited-Financial-Reports/2024-Audited-Financial-Reports.ashx) | Note 4 |
+
 ## Audit Sources by Type
 
 ### California Hospitals
@@ -215,7 +263,8 @@ Results are stored in Frappe as:
 - CA State Controller: https://sco.ca.gov/ard_local_districts.html
 
 ### Texas Hospitals
-- TX Comptroller: https://comptroller.texas.gov/transparency/local/
+- TX Comptroller SPDPID: https://spdpid.comptroller.texas.gov/
+- TX Public Funds Investment Act: Chapter 2256, Texas Government Code
 
 ### Bond Issuers
 - EMMA: https://emma.msrb.org/
