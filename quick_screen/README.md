@@ -1,147 +1,148 @@
-# Quick Screen Pipeline - Healthcare System Financial Data
+# Quick Screen Pipeline for US Nonprofit/Government Hospital Systems
 
-Fast, lightweight screening pipeline for US nonprofit and government hospital/health systems. Extracts three key data points per system to identify potential targets for detailed analysis.
+A self-correcting pipeline to identify hospital systems with >$25M in fixed-income-only investments and no captive insurance.
 
-## Data Points Captured
+## Target Criteria
 
-1. **Operating Cash + Investment Balance** - Board-designated/unrestricted investments (excludes pension/OPEB)
-2. **Equity Holdings** - Yes/No/Unknown, equity % if stated (vs fixed-income-only)
-3. **Captive Insurance** - Yes/No/Unknown, captive name/domicile if stated
+Systems qualify as targets if they meet ALL of:
+1. **Fixed income only** - No equity securities (or de minimis <5%)
+2. **No captive insurance** - No wholly-owned insurance subsidiary
+3. **>$25M investments** - Board-designated + operating cash/investments
 
-## Target Flag Criteria
+## Pipeline Architecture
 
-Systems flagged as `is_target = True` when ALL conditions met:
-- Fixed income only (no equities)
-- No captive insurance company
-- Cash + investments > $25M
+### 1. Parent System Resolution
 
-## Data Sources
+Map individual facilities to parent health systems first. Many hospitals share one parent audit:
 
-### California (CA HCAI)
-- California Health Care Access and Information (HCAI) Hospital Annual Financial Disclosure
-- Direct balance sheet data: Cash, Limited Use Cash, Limited Use Investments, Other Investments
-- URL: https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+| Parent System | Facilities |
+|--------------|------------|
+| Providence St. Joseph Health | St. Joseph Hospital, Queen of the Valley, Santa Rosa Memorial, etc. |
+| CommonSpirit Health | California Hospital MC, Northridge Hospital, Mercy hospitals, etc. |
+| Sutter Health | Sutter West Bay, Sutter Sacramento, etc. |
+| Adventist Health | Sierra Nevada Memorial, Sonora Community, Reedley, etc. |
 
-### Texas and Other States (ProPublica)
-- ProPublica Nonprofit Explorer API (IRS 990 data)
-- Total assets with investment income as proxy for investment holdings
-- Note: Detailed Part X breakdown not available via API
+Audits are cached per parent system and reused for all subsidiaries.
 
-### Equity/Captive Status
-- Determined by keyword scan of audited financial statements
-- Keywords: 'equity securities', 'common stock', 'mutual funds - equity' for equity
-- Keywords: 'captive', 'wholly-owned insurance subsidiary', 'risk retention', 'Cayman', 'Vermont' for captive
-- Marked as 'unknown' if audit not scanned or keywords not found
+### 2. Source Ladder
 
-## Files
+Stop at first hit, in order:
+1. **EMMA** - Continuing disclosures for bond issuers (search by name, take latest annual audited financials)
+2. **System Website** - Financial/investor relations pages
+3. **Government Filings** - For districts: district audit, county ACFR, state controller filings
+4. **990 Fallback** - Schedule D Part VII/VIII (investments by type), Schedule R (related insurance companies)
+
+### 3. Classification Rules
+
+#### Equity Securities
+
+**YES** if any of these appear in operating/board-designated investments:
+- Equity securities
+- Common stock
+- Equity mutual funds / ETFs
+- Alternative investments with equity exposure
+- Hedge funds, private equity
+
+**NO** if investment note lists ONLY:
+- LAIF, CAMP, TexPool (state pools)
+- US Treasuries, federal agencies
+- Municipal bonds, corporate bonds
+- CDs, commercial paper, money market
+
+**NO with high confidence** if state law restricts (and note confirms):
+- CA Government Code Section 53601
+- TX Public Funds Investment Act
+
+**DE_MINIMIS** if equity < 5% or < $1M (counts as NO for targeting)
+
+#### Captive Insurance
+
+**YES** if entity has:
+- Wholly-owned insurance subsidiary
+- Captive insurance company
+- Risk retention group (RRG)
+- SPC cell / protected cell
+
+**NO** if insurance note describes only:
+- Self-insurance trust (not a separate entity)
+- Commercial excess insurance
+- Claims-made insurance
+
+### 4. Confidence Levels
+
+| Level | Definition |
+|-------|------------|
+| HIGH | Direct audit evidence with clear quote |
+| MEDIUM | Parent system audit or 990 with investment breakdown |
+| LOW | Inferred from state law or partial evidence |
+| UNKNOWN | No evidence found |
+
+### 5. Self-Check
+
+Compare audit totals vs 990 cash+investments. Flag >25% discrepancies for review.
+
+### 6. Unknown Rate Target
+
+Each batch should have <10% unknown. If exceeded, retry unknowns with next ladder rung.
+
+## File Structure
 
 ```
 quick_screen/
 ├── README.md                    # This file
-├── quick_screen.py              # Main screening script
-├── quick_screen_results.csv     # Output: 50 screened systems
-├── ca_hospital_data.xlsx        # CA HCAI source data (FY2024-25)
-├── ca_labels.xlsx               # CA HCAI column labels
-├── frappe_companies.json        # Company records for Frappe import
-└── frappe_facts.json            # Financial fact records for Frappe import
+├── parent_systems.py            # Parent system mappings
+├── quick_screen_pipeline.py     # Main pipeline code
+├── quick_screen_tx_ca.csv       # Input data (TX/CA hospitals)
+├── quick_screen_results.csv     # Output with all evidence
+└── update_batch*.py             # Batch update scripts
 ```
 
-## Usage
+## Running the Pipeline
 
-### Basic Run (CA + TX)
 ```bash
-cd quick_screen
-python quick_screen.py --output quick_screen_results.csv
+cd /workspace/quick_screen
+python3 quick_screen_pipeline.py
 ```
 
-### Custom States
-```bash
-python quick_screen.py --states FL NY PA --output sunbelt_results.csv
-```
+## Results Summary
 
-### Skip ProPublica (CA only)
-```bash
-python quick_screen.py --skip-propublica --output ca_only.csv
-```
+### Confirmed Targets (as of batch 4)
 
-### Options
-- `--ca-data`: Path to CA HCAI Excel file (default: ca_hospital_data.xlsx)
-- `--states`: States to search via ProPublica (default: TX)
-- `--output`: Output CSV path (default: quick_screen_results.csv)
-- `--max-results`: Maximum total results (default: 50)
-- `--skip-ca`: Skip CA HCAI data
-- `--skip-propublica`: Skip ProPublica search
+| System | State | Total Investments | FY | Evidence |
+|--------|-------|-------------------|-----|----------|
+| Kaweah Delta Health Care District | CA | $269,754,398 | FY2024 | Fixed income (LAIF), no captive |
+| Riverside University Health System | CA | $265,795,287 | FY2024 | County pool (fixed income), no captive |
+| Kern County Hospital Authority | CA | $174,835,076 | FY2024 | County Treasury (CA Gov Code), no captive |
+| Tahoe Forest Hospital District | CA | $174,242,477 | FY2024 | De minimis equity (0.1%), no captive |
 
-## Results Summary (First Batch)
+### Not Targets (with equities or captives)
 
-**Processed: 50 systems**
-- CA hospitals (from HCAI): 45
-- TX nonprofits (from ProPublica): 5
+| System | Parent | Equity | Captive |
+|--------|--------|--------|---------|
+| Providence hospitals | Providence St. Joseph Health | YES | YES (Providence Assurance Inc) |
+| CommonSpirit hospitals | CommonSpirit Health | YES | YES |
+| Sutter hospitals | Sutter Health | YES | NO |
+| Adventist hospitals | Adventist Health | YES | NO |
+| UC hospitals | UC Health | YES | YES |
+| Children's Hospital LA | - | YES (51%) | NO |
 
-**Confirmed targets: 0** (equity/captive status unknown - need audit scan)
+## Data Storage
 
-**Potential targets: 50** (need audit scan to determine equity/captive status)
+Results are stored in Frappe as:
+- **BZ Company Listing** - Entity record
+- **BZ Source Financial Fact** - Evidence records with source URL, page reference, and quote
 
-### Top 15 by Investment Balance
+## Audit Sources by Type
 
-| Rank | System | State | Cash+Investments | Equity | Captive |
-|------|--------|-------|------------------|--------|---------|
-| 1 | Stanford Health Care | CA | $6,975.8M | unknown | unknown |
-| 2 | Cedars-Sinai Medical Center | CA | $4,765.1M | unknown | unknown |
-| 3 | Memorial Hermann Health System | TX | $3,624.4M | unknown | unknown |
-| 4 | Hoag Memorial Hospital Presbyterian | CA | $2,870.8M | unknown | unknown |
-| 5 | Ronald Reagan UCLA Medical Center | CA | $2,466.2M | unknown | unknown |
-| 6 | UCSF Medical Center | CA | $2,231.7M | unknown | unknown |
-| 7 | Valley Children's Hospital | CA | $1,494.2M | unknown | unknown |
-| 8 | Mercy Medical Center - Redding | CA | $1,283.8M | unknown | unknown |
-| 9 | El Camino Hospital | CA | $1,124.7M | unknown | unknown |
-| 10 | UC Davis Health | CA | $1,032.2M | unknown | unknown |
-| 11 | Lucile Salter Packard Children's Hospital | CA | $931.7M | unknown | unknown |
-| 12 | Palomar Medical Center Escondido | CA | $899.0M | unknown | unknown |
-| 13 | Community Health System | CA | $850.1M | unknown | unknown |
-| 14 | PIH Health Hospital - Whittier | CA | $830.7M | unknown | unknown |
-| 15 | Dominican Hospital Santa Cruz | CA | $793.9M | unknown | unknown |
+### California Hospitals
+- CA HCAI: https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
+- CA State Controller: https://sco.ca.gov/ard_local_districts.html
 
-## Frappe Records Created
+### Texas Hospitals
+- TX Comptroller: https://comptroller.texas.gov/transparency/local/
 
-### Company Listings (BZ Company Listing)
-| Name | Frappe ID |
-|------|-----------|
-| Stanford Health Care | q3niqvsofl |
-| Cedars-Sinai Medical Center | q3q0p2q17e |
-| Memorial Hermann Health System | q3pvn71t4h |
-| Hoag Memorial Hospital Presbyterian | q3q1rj0bq2 |
-| Ronald Reagan UCLA Medical Center | q3q0e50nrq |
+### Bond Issuers
+- EMMA: https://emma.msrb.org/
 
-### Financial Facts (BZ Source Financial Fact)
-| Entity | Fact | Value | Frappe ID |
-|--------|------|-------|-----------|
-| Stanford Health Care | Total Cash and Investments | $6,975.8M | q44v5iir1q |
-| Cedars-Sinai Medical Center | Total Cash and Investments | $4,765.1M | q451lto0ig |
-| Memorial Hermann Health System | Total Cash and Investments | $3,624.4M | q450ghnmvd |
-| Hoag Memorial Hospital Presbyterian | Total Cash and Investments | $2,870.8M | q450shf9bj |
-| Ronald Reagan UCLA Medical Center | Total Cash and Investments | $2,466.2M | q451kpcehc |
-
-## Running the Next Batch
-
-### Add More States
-```bash
-python quick_screen.py --states FL NY PA OH --max-results 100 --output batch2_results.csv
-```
-
-### Refresh CA Data
-1. Download latest HCAI data from https://data.chhs.ca.gov/dataset/hospital-annual-financial-disclosure-report-complete-data-set
-2. Run: `python quick_screen.py --ca-data new_hospital_data.xlsx`
-
-### Audit Scan for Equity/Captive
-To determine equity and captive status for specific systems:
-1. Find the system's audited financial statement (EMMA for government, website for nonprofit)
-2. Search for keywords in the investment and self-insurance notes
-3. Update the CSV with the findings
-
-## Known Limitations
-
-1. **ProPublica API**: Doesn't provide detailed Part X balance sheet lines; uses total assets as proxy
-2. **Equity/Captive Status**: Requires manual audit scan to confirm; marked 'unknown' by default
-3. **Government Hospitals**: EMMA/MSRB search not implemented in this version
-4. **TX Data**: No bulk state dataset like CA HCAI; relies on ProPublica 990 data
+### 990 Data
+- ProPublica Nonprofit Explorer: https://projects.propublica.org/nonprofits/
