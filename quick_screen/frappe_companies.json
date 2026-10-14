@@ -1,0 +1,122 @@
+[
+  {
+    "company_name": "STANFORD HEALTH CARE",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "CEDARS-SINAI MEDICAL CENTER",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "Memorial Hermann Health System",
+    "state": "TX",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "HOAG MEMORIAL HOSPITAL PRESBYTERIAN",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "RONALD REAGAN UCLA MEDICAL CENTER",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "UCSF MEDICAL CENTER",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "VALLEY CHILDRENS HOSPITAL",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "MERCY MEDICAL CENTER - REDDING",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "EL CAMINO HOSPITAL",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "UC DAVIS HEALTH",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "LUCILE SALTER PACKARD CHILDRENS HOSPITAL AT STANFORD",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "PALOMAR MEDICAL CENTER ESCONDIDO",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "COMMUNITY HEALTH SYSTEM",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "PIH HEALTH HOSPITAL - WHITTIER",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "DOMINICAN HOSPITAL SANTA CRUZ",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "GROSSMONT HOSPITAL CORPORATION",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "MERCY HOSPITAL OF FOLSOM",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "UCSD MEDICAL CENTER",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "BAKERSFIELD MEMORIAL HOSPITAL",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  },
+  {
+    "company_name": "SEVENTH-DAY ADVENTISTS LOMA LINDA UNIVERSITY MEDICAL CENTER",
+    "state": "CA",
+    "segment": "Healthcare",
+    "listing_status": "Active"
+  }
+]
