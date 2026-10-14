@@ -1,0 +1,113 @@
+[
+  {
+    "frappe_name": "s25ihlnknf",
+    "entity": "s1vni4u596",
+    "fact_category": "cash_and_investments",
+    "fact_name": "Total Operating Cash and Investments",
+    "reported_value_text": "$1,558.7M",
+    "reported_value_usd": 1558735000,
+    "fiscal_year": "FY2025",
+    "source_url": "https://www.smh.com/Portals/0/Documents/Financial/AFS_FY25.pdf"
+  },
+  {
+    "frappe_name": "s25ke2cavp",
+    "entity": "s1vni4u596",
+    "fact_category": "portfolio_policy",
+    "fact_name": "Has Equity Securities",
+    "reported_value_text": "NO",
+    "fiscal_year": "FY2025"
+  },
+  {
+    "frappe_name": "s25j1furk9",
+    "entity": "s1vni4u596",
+    "fact_category": "captive",
+    "fact_name": "Has Captive Insurance",
+    "reported_value_text": "NO",
+    "fiscal_year": "FY2025"
+  },
+  {
+    "frappe_name": "s25jld2roj",
+    "entity": "s1vni4u596",
+    "fact_category": "self_insurance",
+    "fact_name": "Professional Liability Self-Insurance Reserve",
+    "reported_value_text": "$26.7M",
+    "reported_value_usd": 26700000,
+    "fiscal_year": "FY2025"
+  },
+  {
+    "frappe_name": "s25kgfths4",
+    "entity": "s1vni4u596",
+    "fact_category": "other",
+    "fact_name": "Captive Insurance Target",
+    "reported_value_text": "YES",
+    "fiscal_year": "FY2026"
+  },
+  {
+    "frappe_name": "s2dn00evf8",
+    "entity": "s1vm2okg9g",
+    "fact_category": "cash_and_investments",
+    "fact_name": "Total Operating Cash and Investments",
+    "reported_value_text": "$2,637.7M",
+    "reported_value_usd": 2637666000,
+    "fiscal_year": "FY2024",
+    "source_url": "https://www.mhs.net/-/media/mhs/files/about-us/finances/sbhd-financial-report-2024.pdf"
+  },
+  {
+    "frappe_name": "s2dof8ku0s",
+    "entity": "s1vm2okg9g",
+    "fact_category": "portfolio_policy",
+    "fact_name": "Has Equity Securities",
+    "reported_value_text": "NO",
+    "fiscal_year": "FY2024"
+  },
+  {
+    "frappe_name": "s2dqqdj6a5",
+    "entity": "s1vm2okg9g",
+    "fact_category": "captive",
+    "fact_name": "Has Captive Insurance",
+    "reported_value_text": "NO",
+    "fiscal_year": "FY2024"
+  },
+  {
+    "frappe_name": "s2dqa55q1q",
+    "entity": "s1vm2okg9g",
+    "fact_category": "other",
+    "fact_name": "Captive Insurance Target",
+    "reported_value_text": "YES",
+    "fiscal_year": "FY2026"
+  },
+  {
+    "frappe_name": "s2dp7f2nho",
+    "entity": "s1vnu4qkhu",
+    "fact_category": "cash_and_investments",
+    "fact_name": "Total Operating Cash and Investments",
+    "reported_value_text": "$646.3M",
+    "reported_value_usd": 646274000,
+    "fiscal_year": "FY2025",
+    "source_url": "https://flauditor.gov/pages/specialdistricts_efile%20rpts/2025%20halifax%20hospital%20medical%20center.pdf"
+  },
+  {
+    "frappe_name": "s2dpg0os12",
+    "entity": "s1vnu4qkhu",
+    "fact_category": "portfolio_policy",
+    "fact_name": "Has Equity Securities",
+    "reported_value_text": "NO",
+    "fiscal_year": "FY2025"
+  },
+  {
+    "frappe_name": "s2dokhi6lb",
+    "entity": "s1vnu4qkhu",
+    "fact_category": "captive",
+    "fact_name": "Has Captive Insurance",
+    "reported_value_text": "NO",
+    "fiscal_year": "FY2025"
+  },
+  {
+    "frappe_name": "s2dn2uuqmh",
+    "entity": "s1vnu4qkhu",
+    "fact_category": "other",
+    "fact_name": "Captive Insurance Target",
+    "reported_value_text": "YES",
+    "fiscal_year": "FY2026"
+  }
+]
