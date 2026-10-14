@@ -99,3 +99,48 @@ def broker_changes_market(con, year, state=None, min_participants=None, from_bro
 def signers(con, ein):
     return con.execute("""select pn, DATASET_YEAR as year, admin_signer, admin_signed_date, sponsor_signer, ACK_ID from filings
                           where ein=? order by pn, year""", [str(ein)]).df()
+
+def schedule_a(con, ein, year=None):
+    """Schedule A insurance contracts: carriers, policy type, premiums, commissions/fees by broker per year."""
+    ein = str(ein).replace("-", "")
+    q = """select a.DATASET_YEAR, a.pn, a.carrier, a.carrier_ein, a.naic, a.contract, a.covered,
+           a.premium, a.comm_total, a.fees_total, a.benefits as policy_type,
+           a.policy_from, a.policy_to,
+           coalesce(group_concat(distinct b.broker), '') as brokers,
+           sum(b.commission) as broker_commissions, sum(b.fees) as broker_fees
+           from sch_a a left join sch_a_brokers b on a.ACK_ID=b.ACK_ID and a.FORM_ID=b.FORM_ID
+           where a.ein=?"""
+    args = [ein]
+    if year:
+        q += " and a.DATASET_YEAR=?"
+        args.append(year)
+    q += " group by 1,2,3,4,5,6,7,8,9,10,11,12,13 order by a.DATASET_YEAR, a.pn, a.carrier"
+    return con.execute(q, args).df()
+
+def combined_timeline(con, ein, pn=None):
+    """Combined year-by-year broker + signer timeline."""
+    ein = str(ein).replace("-", "")
+    
+    # Get signer info per year
+    sig = signers(con, ein)
+    if pn:
+        sig = sig[sig.pn == pn]
+    
+    # Get broker timeline
+    tl = brokers.timeline(con, ein, pn)
+    
+    # Pivot broker timeline to get primary broker per year
+    prim = brokers.primary_by_year(tl)
+    
+    # Merge with signers
+    if sig.empty:
+        return prim
+    
+    merged = sig.merge(prim, on=["pn", "year"], how="outer").sort_values(["pn", "year"])
+    
+    # Select and reorder columns
+    cols = ["year", "pn", "admin_signer", "sponsor_signer", "primary"]
+    if "all_groups" in merged.columns:
+        cols.append("all_groups")
+    cols = [c for c in cols if c in merged.columns]
+    return merged[cols].rename(columns={"primary": "primary_broker"})
